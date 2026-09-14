@@ -1,0 +1,44 @@
+# Feed summary 2026-09-14
+
+raw 626 · relevant 142 · new today 142 · emitted 142
+
+- 2026-09-14 · **Zoox** — Senior SAP BRIM Analyst - Convergent Charging (CC) · Foster City, CA · linkedin
+- 2026-09-14 · **ZoomInfo** — Senior Product Manager - SAP FICO · KA, IN · indeed
+- 2026-09-14 · **Wipro** — Sap ISU FICA Consultant_7-12yrs_Pan India · TS, IN · indeed
+- 2026-09-14 · **Wipro** — FUNCTIONAL CONSULTANT L1 · TS, IN · indeed
+- 2026-09-14 · **Wipro** — DOMAIN CONSULTANT L2 · KA, IN · indeed
+- 2026-09-14 · **Westinghouse Electric Company, LLC** — Senior SAP FICA Consultant (Utilities) · Minneapolis, MN, US · indeed
+- 2026-09-14 · **VRINDA INTERNATIONAL** — SAP BRIM FICA SENIOR RESOURCE · Bengaluru, Karnataka, India · linkedin
+- 2026-09-14 · **The Nielsen Company** — Senior Enterprise Platforms Professional I · MH, IN · indeed
+- 2026-09-14 · **Tata Consultancy Services** — Utilities - SAP FICA · Kolkata, West Bengal, India · linkedin
+- 2026-09-14 · **Tata Consultancy Services** — SAP IS Utilities - Billing and Invoicing · Kolkata, West Bengal, India · linkedin
+- 2026-09-14 · **Tap Growth ai** — SAP CC + Java Lead Consultant · Absecon, NJ · linkedin
+- 2026-09-14 · **Tampa Electric** — SAP ISU Functional Billing & Invoicing Consultant, Progression · Tampa, FL · linkedin
+- 2026-09-14 · **Sabre** — Senior Software Engineer - BRIM CC · KA, IN · indeed
+- 2026-09-14 · **Sabre** — Senior Software Engineer - BRIM CC · Bengaluru, Karnataka, India · linkedin
+- 2026-09-14 · **Resolink Technologies Private Limited** — SAP ISU FICA – Senior/Lead Consultant · UP, IN · indeed
+- 2026-09-14 · **Rapid Eagle Inc** — Workato Solution Architect · US · indeed
+- 2026-09-14 · **Raas Infotek** — SAP BRIM (Business System Analyst) · Remote, US · indeed
+- 2026-09-14 · **PwC Acceleration Center India** — SAP Convergent Charging - Manager · Bengaluru, Karnataka, India · linkedin
+- 2026-09-14 · **PwC Acceleration Center India** — SAP CI & FI-CA - Senior Associate · Bengaluru, Karnataka, India · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Montpelier, VT · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Greensboro, NC · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · New York, NY · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Florham Park, NJ · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Las Vegas, NV · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Stamford, CT · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Melville, NY · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · New Orleans, LA · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Jacksonville, FL · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Raleigh, NC · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Miami, FL · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Louisville, KY · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Charlotte, NC · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Boston, MA · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Fayetteville, AR · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Denver, CO · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Phoenix, AZ · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Hartford, CT · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Nashville, TN · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Little Rock, AR · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Columbia, SC · linkedin
