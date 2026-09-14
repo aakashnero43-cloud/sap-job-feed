@@ -35,7 +35,7 @@ MUST = [re.compile(p, re.I) for p in CFG["must_match"]]
 EXCL = [re.compile(p, re.I) for p in CFG.get("exclude_companies", [])]
 
 IN_PAT = re.compile(r"India|Bengaluru|Bangalore|Pune|Hyderabad|Mumbai|Chennai|Gurgaon|Gurugram|Noida|Kolkata|Kochi|Ahmedabad|Gandhinagar|\bIN\b", re.I)
-US_PAT = re.compile(r"United States|\bUSA?\b|,\s*[A-Z]{2}(?:\s|$)", re.I)
+US_PAT = re.compile(r"United States|\bUSA?\b|,\s*(?!IN\b)[A-Z]{2}(?:\s|$)")  # case-sensitive: ", IN" = India
 
 
 def log(*a):
@@ -62,11 +62,16 @@ def region_of(location: str) -> str:
     return "Other"
 
 
+TITLE_GATE = re.compile(r"SAP|BRIM|FI-?CA|Billing|Invoic|Charging|Mediation|Subscription|IS-?U|Utilit|Revenue|Contract Account|Hybris|SOM\b", re.I)
+
+
 def relevant(title: str, desc: str, company: str) -> bool:
     if any(p.search(company or "") for p in EXCL):
         return False
-    text = f"{title}\n{desc or ''}"
-    return any(p.search(text) for p in MUST)
+    if any(p.search(title or "") for p in MUST):
+        return True
+    # description-only match is accepted only when the title is at least in the SAP/billing space
+    return bool(TITLE_GATE.search(title or "")) and any(p.search(desc or "") for p in MUST)
 
 
 def clean(s) -> str:
@@ -226,6 +231,22 @@ def main() -> int:
         r["sources"] = [r.pop("source")]
         r.pop("region_hint", None)
         merged[k] = r
+
+    # collapse multi-location postings (same company + title posted in 3+ cities, e.g. Big-4 US postings)
+    groups: dict[str, list[str]] = {}
+    for k, r in merged.items():
+        groups.setdefault(f"{norm(r['company'])}|{norm(r['title'])}", []).append(k)
+    for gk, ks in groups.items():
+        if len(ks) < 3:
+            continue
+        keep = merged[ks[0]]
+        locs = [merged[x]["location"] for x in ks]
+        keep["locations"] = locs
+        keep["location"] = f"Multiple ({len(locs)}): " + ", ".join(locs[:4]) + (" …" if len(locs) > 4 else "")
+        keep["id"] = job_key(keep["company"], keep["title"], "multiple")
+        for x in ks:
+            merged.pop(x, None)
+        merged[keep["id"]] = keep
 
     new_ids = []
     for k, r in merged.items():
