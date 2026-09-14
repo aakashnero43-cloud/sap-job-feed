@@ -1,15 +1,12 @@
 # Feed summary 2026-09-14
 
-raw 626 · relevant 142 · new today 142 · emitted 142
+raw 624 · relevant 95 · new today 3 · emitted 95
 
 - 2026-09-14 · **Zoox** — Senior SAP BRIM Analyst - Convergent Charging (CC) · Foster City, CA · linkedin
 - 2026-09-14 · **ZoomInfo** — Senior Product Manager - SAP FICO · KA, IN · indeed
 - 2026-09-14 · **Wipro** — Sap ISU FICA Consultant_7-12yrs_Pan India · TS, IN · indeed
-- 2026-09-14 · **Wipro** — FUNCTIONAL CONSULTANT L1 · TS, IN · indeed
-- 2026-09-14 · **Wipro** — DOMAIN CONSULTANT L2 · KA, IN · indeed
 - 2026-09-14 · **Westinghouse Electric Company, LLC** — Senior SAP FICA Consultant (Utilities) · Minneapolis, MN, US · indeed
 - 2026-09-14 · **VRINDA INTERNATIONAL** — SAP BRIM FICA SENIOR RESOURCE · Bengaluru, Karnataka, India · linkedin
-- 2026-09-14 · **The Nielsen Company** — Senior Enterprise Platforms Professional I · MH, IN · indeed
 - 2026-09-14 · **Tata Consultancy Services** — Utilities - SAP FICA · Kolkata, West Bengal, India · linkedin
 - 2026-09-14 · **Tata Consultancy Services** — SAP IS Utilities - Billing and Invoicing · Kolkata, West Bengal, India · linkedin
 - 2026-09-14 · **Tap Growth ai** — SAP CC + Java Lead Consultant · Absecon, NJ · linkedin
@@ -17,28 +14,31 @@ raw 626 · relevant 142 · new today 142 · emitted 142
 - 2026-09-14 · **Sabre** — Senior Software Engineer - BRIM CC · KA, IN · indeed
 - 2026-09-14 · **Sabre** — Senior Software Engineer - BRIM CC · Bengaluru, Karnataka, India · linkedin
 - 2026-09-14 · **Resolink Technologies Private Limited** — SAP ISU FICA – Senior/Lead Consultant · UP, IN · indeed
-- 2026-09-14 · **Rapid Eagle Inc** — Workato Solution Architect · US · indeed
 - 2026-09-14 · **Raas Infotek** — SAP BRIM (Business System Analyst) · Remote, US · indeed
 - 2026-09-14 · **PwC Acceleration Center India** — SAP Convergent Charging - Manager · Bengaluru, Karnataka, India · linkedin
 - 2026-09-14 · **PwC Acceleration Center India** — SAP CI & FI-CA - Senior Associate · Bengaluru, Karnataka, India · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Montpelier, VT · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Greensboro, NC · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · New York, NY · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Florham Park, NJ · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Las Vegas, NV · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Stamford, CT · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Melville, NY · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · New Orleans, LA · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Jacksonville, FL · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Raleigh, NC · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Miami, FL · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Louisville, KY · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Charlotte, NC · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Boston, MA · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Fayetteville, AR · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Denver, CO · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Phoenix, AZ · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Hartford, CT · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Nashville, TN · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Little Rock, AR · linkedin
-- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Columbia, SC · linkedin
+- 2026-09-14 · **PwC** — SAP BRIM Consultant, Manager · Multiple (24): Montpelier, VT, Greensboro, NC, New York, NY, Florham Park, NJ … · linkedin
+- 2026-09-14 · **Nexcen Global** — SAP S4 HANA Embedded Analytics · DL, IN · indeed
+- 2026-09-14 · **NetApp** — Business Systems Analysts -Subscription Mgmt. & Quote to Order · Morrisville, NC, US · indeed
+- 2026-09-14 · **NVIDIA** — Senior SAP SWS Business Systems Analyst · Santa Clara, CA, US · indeed
+- 2026-09-14 · **NVIDIA** — Senior SAP SD Business Analyst · Santa Clara, CA, US · indeed
+- 2026-09-14 · **NBCUniversal** — Senior Software Engineer (SAP ABAP) · New York, NY, US · indeed
+- 2026-09-14 · **Mobolutions** — Senior SAP Services Sales Executive · Plano, TX, US · indeed
+- 2026-09-14 · **Mobolutions** — Senior SAP Sales Executive · Plano, TX, US · indeed
+- 2026-09-14 · **Mobolutions** — Senior SAP Project Manager · Plano, TX, US · indeed
+- 2026-09-14 · **Mobolutions** — SAP Project Manager · Plano, TX, US · indeed
+- 2026-09-14 · **MindTrilogy IT Solutions Pvt. Ltd** — SAP CS / SAP Customer Service · Remote, IN · indeed
+- 2026-09-14 · **Mercedes-Benz Group** — SAP BRIM Functional Consultant, with SAP MM exposure · KA, IN · indeed
+- 2026-09-14 · **MSA Safety** — SAP Subscription Billing & Revenue Accounting (RAR) Analyst · Cranberry Township, PA, US · indeed
+- 2026-09-14 · **Lumen Technologies India** — SAP BRIM Technical SME · Bengaluru, Karnataka, India · linkedin
+- 2026-09-14 · **LeverX** — SAP BRIM Consultant · Remote, US · indeed
+- 2026-09-14 · **Lemongrass Consulting** — SAP Convergent Charging · IN · indeed
+- 2026-09-14 · **Knowledge Artisans Private Limited** — SAP IS-U Utilities & Billing – Lead Consultant · TS, IN · indeed
+- 2026-09-14 · **KPMG US** — Director, SAP IS-U - Power & Utilities · Chicago, IL · linkedin
+- 2026-09-14 · **Infosys** — SAP ISU FICA Consultant · Bengaluru East, Karnataka, India · linkedin
+- 2026-09-14 · **Infosys** — SAP CI/FICA Consultant · Bengaluru East, Karnataka, India · linkedin
+- 2026-09-14 · **Infosys** — SAP BRIM SOM Consultant · Bengaluru East, Karnataka, India · linkedin
+- 2026-09-14 · **Honeywell Technologies** — Sr IT Analyst - SAP Order Management Consultant S/4 HANA · Atlanta, GA · linkedin
+- 2026-09-14 · **Honeywell Technologies** — Lead IT Analyst - SAP S/4 HANA Order management · Atlanta, GA · linkedin
+- 2026-09-14 · **Holman** — Analyst - Billing Systems · Mount Laurel, NJ · linkedin
+- 2026-09-14 · **Hewlett Packard Enterprise | HPE** — SAP-BRIM Implementation / Project Manager · San Jose, CA, US · indeed
