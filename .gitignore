@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# never commit anything personal here
+*.docx
+*.pdf
+*.csv
