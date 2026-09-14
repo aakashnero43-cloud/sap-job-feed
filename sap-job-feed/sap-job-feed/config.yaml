@@ -1,0 +1,80 @@
+# Discovery feed configuration. Edit freely; no personal data belongs here.
+
+# Sites JobSpy should query. Naukri requires a reCAPTCHA from cloud IPs and is
+# disabled; Google Jobs is best-effort (often empty from datacenter IPs).
+sites:
+  - indeed
+  - linkedin
+  - google
+
+# Search terms. Each term is run per region below.
+search_terms:
+  - "SAP BRIM"
+  - "SAP FICA"
+  - "SAP FI-CA"
+  - "SAP Convergent Invoicing"
+  - "SAP Subscription Order Management"
+  - "SAP Convergent Charging"
+  - "SAP Hybris Billing"
+
+# Regions: location string + Indeed country. `remote: true` adds the remote filter.
+regions:
+  - name: India
+    location: "India"
+    country_indeed: "india"
+  - name: US-remote
+    location: "United States"
+    country_indeed: "usa"
+    remote: true
+
+# Only postings whose title or description matches one of these (case-insensitive
+# regex) are kept.
+must_match:
+  - "\\bBRIM\\b"
+  - "FI-?CA\\b"
+  - "Contract Accounts? Receivable"
+  - "Convergent (Invoicing|Charging|Mediation)"
+  - "Subscription Order Management"
+  - "\\bSOM\\b"
+  - "Hybris Billing"
+  - "Billing and Revenue Innovation"
+  - "IS-U"
+  - "FS-CD"
+
+# Drop postings whose company matches (current employer, known spam sources).
+exclude_companies:
+  - "Acuiti"
+
+# Companies used for targeted Google Jobs / Indeed queries ("SAP BRIM <company>").
+target_companies:
+  - Deloitte
+  - EY
+  - PwC
+  - KPMG
+  - SAP
+  - Accenture
+  - Capgemini
+  - Infosys
+  - TCS
+  - Wipro
+  - LTIMindtree
+  - HCLTech
+  - Mobolutions
+  - "Sigma Allied"
+  - "Simple Software"
+  - TalentBridge
+  - Experis
+  - Eliassen
+  - "Atlantis IT"
+
+# Public ATS job-board feeds (no auth). Add entries once verified:
+#   - {type: greenhouse, token: <board token>}   -> boards-api.greenhouse.io/v1/boards/<token>/jobs
+#   - {type: lever, company: <slug>}              -> api.lever.co/v0/postings/<slug>
+#   - {type: ashby, name: <board name>}           -> api.ashbyhq.com/posting-api/job-board/<name>
+ats_feeds: []
+
+# Output shaping
+results_per_query: 25
+hours_old: 96            # look-back window per query
+description_max_chars: 6000
+new_window_days: 4       # jobs first seen within this window are emitted in jobs.json
