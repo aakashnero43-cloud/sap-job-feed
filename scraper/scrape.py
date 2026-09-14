@@ -85,50 +85,52 @@ def run_jobspy() -> list[dict]:
 
     out: list[dict] = []
     sites = CFG["sites"]
-    terms = list(CFG["search_terms"])
-    terms += [f"SAP BRIM {c}" for c in CFG.get("target_companies", [])]
+    base_terms = list(CFG["search_terms"])
+    company_terms = [f"SAP BRIM {c}" for c in CFG.get("target_companies", [])]
     for region in CFG["regions"]:
-        for term in terms:
-            for site in sites:
-                try:
-                    df = scrape_jobs(
-                        site_name=[site],
-                        search_term=term,
-                        google_search_term=f"{term} jobs in {region['location']} since last week",
-                        location=region["location"],
-                        country_indeed=region.get("country_indeed", "usa"),
-                        is_remote=bool(region.get("remote", False)),
-                        results_wanted=int(CFG.get("results_per_query", 25)),
-                        hours_old=int(os.environ.get("FEED_HOURS_OLD") or CFG.get("hours_old", 96)),
-                        linkedin_fetch_description=True,
-                        description_format="markdown",
-                        verbose=0,
-                    )
-                except Exception as e:  # a blocked site must never fail the run
-                    log(f"[{site}] {region['name']} '{term}' -> {type(e).__name__}: {str(e)[:120]}")
-                    continue
-                n = 0
-                for _, r in df.iterrows():
-                    rec = {
-                        "source": site,
-                        "title": clean(r.get("title")),
-                        "company": clean(r.get("company")),
-                        "location": clean(r.get("location")),
-                        "remote": bool(r.get("is_remote")) if clean(r.get("is_remote")) else bool(region.get("remote")),
-                        "posted_at": clean(r.get("date_posted")),
-                        "apply_url": clean(r.get("job_url_direct")) or clean(r.get("job_url")),
-                        "listing_url": clean(r.get("job_url")),
-                        "job_type": clean(r.get("job_type")),
-                        "salary": " ".join(x for x in [clean(r.get("min_amount")), clean(r.get("max_amount")), clean(r.get("currency")), clean(r.get("interval"))] if x),
-                        "description": clean(r.get("description"))[: int(CFG.get("description_max_chars", 6000))],
-                        "query": term,
-                        "region_hint": region["name"],
-                    }
-                    if rec["title"] and rec["company"]:
-                        out.append(rec)
-                        n += 1
-                log(f"[{site}] {region['name']} '{term}' -> {n}")
-                time.sleep(1.5)  # be polite; also keeps LinkedIn under its per-IP threshold
+        # company-name queries run on Indeed only: on LinkedIn they just return the same
+        # generic page of results (~30 s each) and blow the run time.
+        plan = [(t, site) for t in base_terms for site in sites] + [(t, "indeed") for t in company_terms if "indeed" in sites]
+        for term, site in plan:
+            try:
+                df = scrape_jobs(
+                    site_name=[site],
+                    search_term=term,
+                    google_search_term=f"{term} jobs in {region['location']} since last week",
+                    location=region["location"],
+                    country_indeed=region.get("country_indeed", "usa"),
+                    is_remote=bool(region.get("remote", False)),
+                    results_wanted=int(CFG.get("results_per_query", 25)),
+                    hours_old=int(os.environ.get("FEED_HOURS_OLD") or CFG.get("hours_old", 96)),
+                    linkedin_fetch_description=True,
+                    description_format="markdown",
+                    verbose=0,
+                )
+            except Exception as e:  # a blocked site must never fail the run
+                log(f"[{site}] {region['name']} '{term}' -> {type(e).__name__}: {str(e)[:120]}")
+                continue
+            n = 0
+            for _, r in df.iterrows():
+                rec = {
+                    "source": site,
+                    "title": clean(r.get("title")),
+                    "company": clean(r.get("company")),
+                    "location": clean(r.get("location")),
+                    "remote": bool(r.get("is_remote")) if clean(r.get("is_remote")) else bool(region.get("remote")),
+                    "posted_at": clean(r.get("date_posted")),
+                    "apply_url": clean(r.get("job_url_direct")) or clean(r.get("job_url")),
+                    "listing_url": clean(r.get("job_url")),
+                    "job_type": clean(r.get("job_type")),
+                    "salary": " ".join(x for x in [clean(r.get("min_amount")), clean(r.get("max_amount")), clean(r.get("currency")), clean(r.get("interval"))] if x),
+                    "description": clean(r.get("description"))[: int(CFG.get("description_max_chars", 6000))],
+                    "query": term,
+                    "region_hint": region["name"],
+                }
+                if rec["title"] and rec["company"]:
+                    out.append(rec)
+                    n += 1
+            log(f"[{site}] {region['name']} '{term}' -> {n}")
+            time.sleep(1.5)  # be polite; also keeps LinkedIn under its per-IP threshold
     return out
 
 
@@ -176,6 +178,28 @@ def run_ats_feeds() -> list[dict]:
 
 
 # --------------------------------------------------------------------------
+# Liveness check (career-ops "--verify" idea, without a browser): re-check
+# recently seen postings; mark ones that now 404 / redirect to a search page.
+# --------------------------------------------------------------------------
+DEAD_PAT = re.compile(r"expJD=true|job (has )?expired|no longer (available|accepting)|position (has been )?filled|this job is (closed|unavailable)|404", re.I)
+
+
+def check_alive(url: str, s: requests.Session) -> bool | None:
+    """True = alive, False = gone, None = unknown (blocked / error)."""
+    if not url or re.search(r"linkedin\.com|naukri\.com", url):
+        return None  # these block datacenter IPs; leave to the interactive check
+    try:
+        r = s.get(url, timeout=20, allow_redirects=True, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) sap-job-feed/1.0"})
+        if r.status_code in (404, 410):
+            return False
+        if r.status_code >= 400:
+            return None
+        head = r.text[:20000]
+        return not bool(DEAD_PAT.search(head))
+    except Exception:
+        return None
+
+
 def main() -> int:
     DATA.mkdir(exist_ok=True)
     seen_path = DATA / "seen.json"
@@ -206,10 +230,33 @@ def main() -> int:
     new_ids = []
     for k, r in merged.items():
         if k not in seen:
-            seen[k] = {"first_seen": TODAY, "company": r["company"], "title": r["title"], "location": r["location"]}
+            seen[k] = {"first_seen": TODAY, "company": r["company"], "title": r["title"], "location": r["location"], "url": r["apply_url"]}
             new_ids.append(k)
+        else:
+            # repost / ghost-job signal: seen again after a gap of 14+ days
+            last = seen[k].get("last_seen", TODAY)
+            gap = (datetime.fromisoformat(TODAY) - datetime.fromisoformat(last)).days
+            if gap >= 14:
+                seen[k]["reposts"] = int(seen[k].get("reposts", 0)) + 1
+            seen[k]["url"] = seen[k].get("url") or r["apply_url"]
         seen[k]["last_seen"] = TODAY
         r["first_seen"] = seen[k]["first_seen"]
+        r["repost_count"] = int(seen[k].get("reposts", 0))
+
+    # liveness: re-check postings seen in the last 45 days that did NOT come back today
+    sess = requests.Session()
+    expired: list[dict] = []
+    checked = 0
+    cutoff45 = (NOW.date() - timedelta(days=45)).isoformat()
+    for k, v in seen.items():
+        if k in merged or v.get("gone") or v.get("first_seen", "") < cutoff45 or checked >= 60:
+            continue
+        alive = check_alive(v.get("url", ""), sess)
+        checked += 1
+        if alive is False:
+            v["gone"] = TODAY
+            expired.append({"id": k, "company": v["company"], "title": v["title"], "location": v["location"], "gone": TODAY})
+        time.sleep(0.5)
 
     window = NOW.date() - timedelta(days=int(CFG.get("new_window_days", 4)))
     emit = [r for r in merged.values() if datetime.fromisoformat(r["first_seen"]).date() >= window]
@@ -222,8 +269,10 @@ def main() -> int:
     out = {
         "generated_at": NOW.isoformat(timespec="seconds"),
         "window_days": int(CFG.get("new_window_days", 4)),
-        "counts": {"raw": len(raw), "relevant": len(merged), "new_today": len(new_ids), "emitted": len(emit)},
+        "counts": {"raw": len(raw), "relevant": len(merged), "new_today": len(new_ids), "emitted": len(emit), "expired_today": len(expired), "liveness_checked": checked},
         "jobs": emit,
+        "expired": expired,
+        "reposts": [{"id": k, "company": v["company"], "title": v["title"], "reposts": v["reposts"]} for k, v in seen.items() if v.get("reposts")],
     }
     (DATA / "jobs.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     seen_path.write_text(json.dumps(seen, ensure_ascii=False, indent=0), encoding="utf-8")
@@ -233,7 +282,7 @@ def main() -> int:
     for r in emit[:40]:
         lines.append(f"- {r['first_seen']} · **{r['company']}** — {r['title']} · {r['location']} · {'/'.join(r['sources'])}")
     (DATA / "SUMMARY.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    log(f"done: relevant={len(merged)} new={len(new_ids)} emitted={len(emit)}")
+    log(f"done: relevant={len(merged)} new={len(new_ids)} emitted={len(emit)} expired={len(expired)} checked={checked}")
     return 0
 
 
