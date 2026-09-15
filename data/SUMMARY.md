@@ -1,34 +1,32 @@
-# Feed summary 2026-09-14
+# Feed summary 2026-09-15
 
-raw 403 · relevant 30 · new today 19 · emitted 30
+raw 461 · relevant 28 · new today 14 · emitted 28
 
-- 2026-09-14 · **ZoomInfo** — Senior Product Manager - SAP FICO · Bengaluru, Karnataka, India · linkedin
-- 2026-09-14 · **ZoomInfo** — Senior Product Manager - SAP FICO · Chennai, Tamil Nadu, India · linkedin
+- 2026-09-15 · **Vodafone** — SAP ABAP on Hana Developer - VOIS · MH, IN · indeed
+- 2026-09-15 · **VOIS** — SAP ABAP on Hana Developer - VOIS · Pune Division, Maharashtra, India · linkedin
+- 2026-09-15 · **Net2Source (N2S)** — Business Analyst (Energy & Utilities with SAP IS-U Knowledge ) · Miami Gardens, FL · linkedin
+- 2026-09-15 · **MSA - The Safety Company** — SAP Subscription Billing & Revenue Accounting (RAR) Analyst · Cranberry Township, PA · linkedin
+- 2026-09-15 · **Infosys** — SAP ISU FICA Consultant · Miami, FL, US · indeed
+- 2026-09-15 · **Infosys** — SAP ISU FICA Consultant · Miami, FL · linkedin
+- 2026-09-15 · **Hewlett Packard Enterprise | HPE** — SAP-BRIM Implementation / Project Manager · Spring, TX, US · indeed
+- 2026-09-15 · **Hewlett Packard Enterprise | HPE** — SAP Subscription Management - SOM (BRIM) Solution Architect · Roseville, CA, US · indeed
+- 2026-09-15 · **EY** — SAP ISU Billing-Senior · Multiple (8): Kolkata, West Bengal, India, Kochi, Kerala, India, Trivandrum, Kerala, India, Coimbatore, Tamil Nadu, India … · linkedin
+- 2026-09-15 · **Deloitte** — T&T | ET&P | SAP | Senior Consultant | SAP FICA | Pune | · MH, IN · indeed
+- 2026-09-15 · **Deloitte** — SAP-RAR- Sr Consultant · Multiple (4): Bengaluru, Karnataka, India, Chennai, Tamil Nadu, India, Hyderabad, Telangana, India, Pune Division, Maharashtra, India · linkedin
+- 2026-09-15 · **Deloitte** — Flexible Consumption Billing Implementation Manager · Multiple (25): Morristown, NJ, US, Cleveland, OH, US, Nashville, TN, US, Cincinnati, OH, US … · indeed
+- 2026-09-15 · **Cognizant** — SAP FICA + CO · Chennai, Tamil Nadu, India · linkedin
+- 2026-09-15 · **Cardinal Health** — Sr. Engineer, Application Development & Maintenance (SAP S4 BRIM CC) ·  · linkedin
 - 2026-09-14 · **Xebia** — SAP ISU Device Management Consultant ·  · linkedin
-- 2026-09-14 · **Wipro** — Sap ISU FICA Consultant_7-12yrs_Pan India · TS, IN · indeed
-- 2026-09-14 · **Westinghouse Electric Company, LLC** — Senior SAP FICA Consultant (Utilities) · Minneapolis, MN, US · indeed
-- 2026-09-14 · **Tap Growth ai** — SAP CC + Java Lead Consultant · Absecon, NJ · linkedin
 - 2026-09-14 · **Synopsys Inc** — Staff SAP BRIM Solution Architect · Sunnyvale, CA · linkedin
-- 2026-09-14 · **Summit Utilities** — SAP Technical Developer · Texas, United States · linkedin
-- 2026-09-14 · **STAFFXPERT LLC** — SAP IS-U Consultant ·  · linkedin
 - 2026-09-14 · **PwC Acceleration Center India** — SAP BRIM Manager · Bengaluru East, Karnataka, India · linkedin
-- 2026-09-14 · **Nagarro** — Associate Principal Engineer,SAP FICA ·  · linkedin
-- 2026-09-14 · **Nagarro** — Associate Principal Engineer,SAP FICA · Bengaluru, Karnataka, India · linkedin
-- 2026-09-14 · **Motion Recruitment** — Business Analyst - Customer Transformation-SAP · Columbus, OH · linkedin
 - 2026-09-14 · **Honeywell Technologies** — Lead IT Analyst - SAP S/4 HANA Order management · Atlanta, GA · linkedin
 - 2026-09-14 · **Honeywell Technologies** — Lead IT Analyst - SAP S/4 HANA Order management · Charlotte, NC · linkedin
 - 2026-09-14 · **Holman** — Analyst - Billing Systems · Mount Laurel, NJ · linkedin
-- 2026-09-14 · **Hewlett Packard Enterprise | HPE** — SAP-BRIM Implementation / Project Manager · Sunnyvale, CA, US · indeed
-- 2026-09-14 · **Hewlett Packard Enterprise | HPE** — SAP Subscription Management - SOM (BRIM) Solution Architect · Spring, TX, US · indeed
 - 2026-09-14 · **Hewlett Packard Enterprise | HPE** — SAP Order Management SME (Order Capture) · Spring, TX, US · indeed
 - 2026-09-14 · **Hewlett Packard Enterprise** — SAP-BRIM Implementation / Project Manager · Spring, TX · linkedin
 - 2026-09-14 · **Hewlett Packard Enterprise** — SAP-BRIM Implementation / Project Manager · San Jose, CA · linkedin
-- 2026-09-14 · **Deloitte** — Senior Consultant - SAP BRIM CM · Multiple (6): Minneapolis, MN, New York, NY, Chicago, IL, Philadelphia, PA … · linkedin
-- 2026-09-14 · **Deloitte** — Senior Consultant - SAP BRIM CC · Multiple (19): Stamford, CT, Chicago, IL, Atlanta, GA, Columbus, OH … · linkedin
-- 2026-09-14 · **Deloitte** — SAP-RAR- Sr Consultant · Bengaluru, Karnataka, India · linkedin
-- 2026-09-14 · **Deloitte** — SAP RAR-Consultant · Multiple (4): Bengaluru, Karnataka, India, Pune Division, Maharashtra, India, Chennai, Tamil Nadu, India, Hyderabad, Telangana, India · linkedin
-- 2026-09-14 · **Deloitte** — Flexible Consumption Billing Implementation Manager · Detroit, MI, US · indeed
+- 2026-09-14 · **Deloitte** — Senior Consultant - SAP BRIM CM · Multiple (14): San Francisco, CA, Minneapolis, MN, Costa Mesa, CA,  … · linkedin
+- 2026-09-14 · **Deloitte** — Senior Consultant - SAP BRIM CC · Multiple (8): Stamford, CT, Chicago, IL, Atlanta, GA, Columbus, OH … · linkedin
 - 2026-09-14 · **Cardinal Health** — Sr. Engineer, Application Development & Maintenance (SAP S4 BRIM CM) ·  · linkedin
 - 2026-09-14 · **Avangrid** — Sr Manager Customer Service Tech - Billing & FICA · Orange, CT · linkedin
 - 2026-09-14 · **Avangrid** — SAP Senior Manager Architect · Orange, CT · linkedin
-- 2026-09-14 · **Adani Electricity** — Principal : Business Analyst - SAP IT · Mumbai, Maharashtra, India · linkedin
