@@ -1,21 +1,221 @@
 {
- "generated_at": "2026-09-21T21:07:46+00:00",
+ "generated_at": "2026-09-22T21:07:25+00:00",
  "window_days": 4,
  "counts": {
   "raw": 374,
-  "relevant": 25,
-  "new_today": 9,
-  "emitted": 20,
+  "relevant": 24,
+  "new_today": 10,
+  "emitted": 21,
   "expired_today": 0,
   "liveness_checked": 60
  },
  "jobs": [
   {
+   "title": "[7EZ1I8NH]SAP BRIM CI Consultant",
+   "company": "ZettaMine Labs Pvt. Ltd.",
+   "location": "Mumbai, Maharashtra, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4467604340",
+   "listing_url": "https://www.linkedin.com/jobs/view/4467604340",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "Hello All,\n \n\n\n\n  \n\n\n\n\n\n Greeting's from ZettaMine!!!\n \n\n\n\n  \n\n\n\n\n\n**Job Title:** \n SAP BRIM CI Consultant\n \n\n\n\n**Relevant Experience: 6 to 10** \n Years\n \n\n\n\n**Location:** \n Mumbai\n \n\n\n\n**Work Mode** \n : Hybrid\n \n\n\n\n**Notice Period:** \n Immediate Joiners\n \n\n\n\n  \n\n\n\n\n\n**Role Summary:** \n\n\n\n\n  \n\n\n\n\n\n 6\\+ years of Hands\\-on SAP Convergent Invoicing configuration knowledge with real time project experience\n \n\n\n\n  \n\n\n\n\n\n**Responsibilities** \n\n\n\n\n  \n\n\n\n\n* Very good knowledge of Convergent Mediation as part of SAP BRIM and Revenue Cloud\n* Strong understanding of the systems and architecture enabling SAP’s processes.\n* Working in Agile development environment (preferably SCRUM) and DevOps; with cross\\-cultural and onshore teams is an advantage\n\n\n\n  \n\n\n\n\n\n**Required Skills** \n\n\n\n\n  \n\n\n\n\n* 6\\+ years of Hands\\-on SAP Convergent Invoicing configuration knowledge with real time project experience\n* Very good knowledge of Convergent Mediation as part of SAP BRIM and Revenue Cloud\n* Strong overall knowledge of Information Technology with particular focus on Finance.\n* Strong understanding of the systems and architecture enabling SAP’s processes.\n* Knowledge of Order Management, Billing, A/R, A/P, CM, CC, CI, FI\\-CA\n* Strong customer and quality focus, highly motivated and able to work independently\n* Strong Collaborative mindset (across teams and functions).\n* Working in Agile development environment (preferably SCRUM) and DevOps; with cross\\-cultural and onshore teams is an advantage\n\n\n\n  \n\n\n\n\n\n**How to Apply:** \n\n\n\n\n  \n\n\n\n\n\n 📧\n **Send your updated resume to: harika.p@zettamine.com** \n or WhatsApp to 8977781938\n **.** \n\n\n\n\n  \n\n\n\n\n\n Please include the following in your email/WhatsApp:\n \n\n\n* **Full Name**\n* **Contact Number**\n* **Total Experience**\n* **Relevant Experience**\n* **Current CTC**\n* **Expected CTC**\n* **Notice Period**\n\n\n\n  \n\n\n\n\n\n Regards,\n \n\n\n\n Harika P\n \n\n\n\n  \n\n\n\n\n\n \\#SAP \\#SAPBRIMCI \\#BRIM \\#SCRUM \\#DEVOPS",
+   "query": "SAP BRIM",
+   "id": "deb9c2182acc3f96",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP IS-U BPEM Exception Management Functional SME",
+   "company": "Zenith Services Inc.",
+   "location": "Boston, MA",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4470466362",
+   "listing_url": "https://www.linkedin.com/jobs/view/4470466362",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "Job Summary\n \n\n\n\n  \n \n\n\n\n We are seeking a Senior SAP IS\\-U BPEM Exception Management Functional SME with strong hands\\-on functional expertise in SAP IS\\-U and Business Process Exception Management (BPEM). The ideal candidate will have extensive experience working in the utility industry, particularly around exception management, billing, meter\\-to\\-cash processes, and resolution of business process exceptions.\n \n\n\n\n  \n \n\n\n\n The consultant will be responsible for analyzing business process exceptions, defining and configuring BPEM cases, identifying root causes, improving exception\\-handling processes, and working closely with business and technical teams to ensure timely resolution of critical utility business issues.\n \n\n\n\n  \n \n\n\n\n The role requires a strong understanding of SAP IS\\-U business processes, BPEM framework, exception monitoring, case management, prioritization, and integration with key IS\\-U processes such as Billing, Invoicing, Meter Reading, Device Management, Customer Service, Contract Accounts Receivable and Payable (FI\\-CA), and Move\\-In/Move\\-Out.\n \n\n\n\n  \n \n\n\n\n Required Skills \\& Experience\n \n\n\n\n 8\\+ years of SAP IS\\-U functional experience with strong utility industry knowledge.\n \n\n\n\n Strong hands\\-on experience with SAP IS\\-U BPEM (Business Process Exception Management).\n \n\n\n\n Proven experience as a BPEM Functional SME / Exception Management SME.\n \n\n\n\n Strong understanding of utility Meter\\-to\\-Cash (M2C) business processes.\n \n\n\n\n Experience analyzing, categorizing, prioritizing, and resolving SAP IS\\-U business process exceptions.\n \n\n\n\n Strong knowledge of SAP IS\\-U functional modules/processes, including:\n \n\n\n\n Billing\n \n\n\n\n Invoicing\n \n\n\n\n Meter Reading\n \n\n\n\n Device Management\n \n\n\n\n Contract Accounts Receivable and Payable (FI\\-CA)\n \n\n\n\n Move\\-In / Move\\-Out\n \n\n\n\n Customer Service\n \n\n\n\n Payments and Collections\n \n\n\n\n Experience configuring BPEM exception types, case categories, priorities, processors, and related processing mechanisms.\n \n\n\n\n Strong understanding of exception monitoring and operational support processes.\n \n\n\n\n Experience working with utility companies or utility implementations involving electric, gas, water, or energy services.\n \n\n\n\n Ability to investigate complex business process failures and determine functional root causes.\n \n\n\n\n Strong experience translating business requirements into SAP IS\\-U functional solutions.\n \n\n\n\n Experience preparing functional specifications and working with technical development teams.\n \n\n\n\n Strong understanding of SAP IS\\-U integration points and end\\-to\\-end business processes.\n \n\n\n\n Experience with SAP implementation, enhancement, production support, or transformation projects.\n \n\n\n\n Excellent troubleshooting, analytical, and problem\\-solving skills.\n \n\n\n\n Strong communication and stakeholder management skills.\n \n\n\n\n Preferred Skills\n \n\n\n\n Experience with SAP S/4HANA Utilities and/or SAP IS\\-U.\n \n\n\n\n Experience supporting large\\-scale utility implementations or transformation programs.\n \n\n\n\n Knowledge of SAP FI\\-CA and integration with IS\\-U.\n \n\n\n\n Knowledge of SAP EDM, AMI, Device Management, and Meter Data Management processes.\n \n\n\n\n Experience with high\\-volume utility billing and exception management environments.\n \n\n\n\n Familiarity with SAP IS\\-U master data and technical objects.\n \n\n\n\n Experience working in Agile/Scrum delivery environments.\n \n\n\n\n Experience coordinating with offshore/onshore functional and technical teams.\n \n\n\n\n Strong experience in production support and incident management.\n \n\n\n\n BPEM Functional Expertise\n \n\n\n\n  \n \n\n\n\n The ideal consultant should be able to demonstrate practical knowledge of:\n \n\n\n\n  \n \n\n\n\n BPEM architecture and business process exception concepts.\n \n\n\n\n Exception identification and monitoring.\n \n\n\n\n BPEM case creation and processing.\n \n\n\n\n Exception categorization and classification.\n \n\n\n\n Case prioritization and assignment.\n \n\n\n\n Processor determination and exception routing.\n \n\n\n\n Exception lifecycle management.\n \n\n\n\n Worklists and exception processing.\n \n\n\n\n Root\\-cause analysis of recurring exceptions.\n \n\n\n\n Exception escalation and resolution processes.\n \n\n\n\n BPEM integration with SAP IS\\-U business processes.\n \n\n\n\n Configuration and optimization of exception management processes.\n \n\n\n\n Reporting and analysis of exception volumes and trends.\n \n\n\n\n Designing business rules to improve automated exception handling.\n \n\n\n\n Reducing manual intervention through improved exception processing.",
+   "query": "SAP BRIM",
+   "id": "a11a161eedcd2830",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP -RAR Enterprise Resource Planning Advisor",
+   "company": "NTT DATA North America",
+   "location": "Hyderabad, Telangana, India",
+   "remote": false,
+   "posted_at": "2026-09-20",
+   "apply_url": "https://www.linkedin.com/jobs/view/4433316514",
+   "listing_url": "https://www.linkedin.com/jobs/view/4433316514",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "* The Candidate should have minimum experience of 8\\+ years in SAP Finance out of which at least 4 years in S/4 HANA Revenue Accounting and Reporting (RAR).\n* Candidate is responsible for designing, implementing, and supporting SAP RAR solutions to ensure accurate, compliant, and automated revenue recognition in accordance with accounting standards such as IFRS 15 and ASC 606\\.\n* Should be able to analyze and document revenue recognition requirements based on IFRS 15 / ASC 606\n* Design and configuration of SAP RAR scenarios\n+ Contract identification\n+ Performance obligations\n+ Transaction price allocation\n+ Revenue recognition rules\n+ Revenue contracts\n+ Event\\-based revenue recognition\n+ Posting rules and account determination\n\n* Perform impact analysis of on upstream and downstream systems – SD, FI, CRM, BRIM etc.\n* The Candidate should be strong in General Ledger, Accounts Payable, accounts Receivables, Asset Accounting and Banking knowledge.\n* Should have excellent experience in integration with SAP RAR with SD, FI/CO, BRIM and S/4HANA Finance.\n* Should be part of at least 2E2E implementation and 2 product support projects in S4H RAR.\n* Support data migration and reconciliation activities during system implementations or upgrades.\n* Experience on monitor and resolve RAR processing errors and inconsistencies.\n* Experience in preparing the Functional Specs, User documentation, Test case preparations.\n* Should analytical and problem\\-solving abilities.\n* Education qualification should be CA/CWA/CMA/ MBA Finance.\n* Strong organizational and time management skills.\n* Excellent communication and interpersonal skills.",
+   "query": "SAP BRIM",
+   "id": "ab146122551d29e0",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP BRIM Functional Consultant",
+   "company": "Infomatics Corp",
+   "location": "New York, United States",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4469012464",
+   "listing_url": "https://www.linkedin.com/jobs/view/4469012464",
+   "job_type": "contract",
+   "salary": "",
+   "description": "**Job Title: SAP BRIM Functional Consultant** \n\n\n\n\n**Location: New York** \n\n\n\n\n  \n\n\n\n\n\n**Position Overview**\n\n\n\n\n We are looking for an experienced SAP BRIM Functional Consultant with strong hands\\-on experience across SAP Convergent Invoicing (CI), Subscription Order Management (SOM), and FI\\-CA.\n \n\n\n\n The ideal candidate will have experience working with usage/event data generated by upstream SAP Convergent Mediation (CM) and will be responsible for understanding and ingesting that data, defining the required downstream processing, and supporting the creation and processing of BITs.\n \n\n\n\n  \n\n\n\n\n\n**Key Responsibilities:**\n\n\n\n* Work as a functional SME across the SAP BRIM landscape, with a focus on CI, SOM, and FICA.\n* Understand business requirements and translate them into functional BRIM solutions.\n* Analyze event data received from SAP Convergent Mediation (CM). Understand the structure, content, and business meaning of CM output data and determine how it should be processed within BRIM.\n* Define the required mappings and transformations from incoming usage/event data into BITs. Ensure the appropriate BITs are created from the incoming usage/event data and are available for downstream processing.\n* Work with technical teams to ingest and validate data received from CM.\n* Support the end\\-to\\-end flow from CM output → data ingestion → BIT creation → Billing/Invoicing → FI\\-CA.\n* Support FI\\-CA processes including account determination, postings, invoicing, payments, and receivables.\n* Troubleshoot functional issues by tracing data across the BRIM landscape and identifying where processing or data discrepancies occur.\n* Work closely with developers and integration teams on data mappings, interfaces, transformations, and BRIM integrations.\n* Create functional specifications, mapping documents, and business process documentation.\n* Support SIT, UAT, regression testing, and production issue resolution.\n* Perform end\\-to\\-end reconciliation to ensure that incoming usage data results in the expected charging, billing, and financial postings.\n* Collaborate with business stakeholders and technical teams to resolve functional issues and validate expected outcomes.\n\n\n\n  \n\n\n\n\n\n**Required Experience:**\n\n\n\n* 10\\+ years SAP BRIM functional experience/Multiple Hands\\-on BRIM Projects\n* Strong hands\\-on experience with SAP CI, SOM, and FI\\-CA.\n* Experience working with event data received from SAP Convergent Mediation (CM).\n* Experience writing functional specifications and working with technical teams to implement integrations and data transformations.\n* Strong troubleshooting and analytical skills.\n* Experience working with subscription products would be preferred.",
+   "query": "SAP BRIM",
+   "id": "e06afe21c9de1c1e",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP CI FICA Functional - SENIOR",
+   "company": "EY",
+   "location": "MH, IN",
+   "remote": false,
+   "posted_at": "2026-09-18",
+   "apply_url": "https://careers.ey.com/ey/job/Pune-SAP-CI-FICA-Functional-SENIOR-MH-411014/1438301233/",
+   "listing_url": "https://in.indeed.com/viewjob?jk=6d33cc2aec91d66e",
+   "job_type": "",
+   "salary": "",
+   "description": "Location: Pune\nOther locations: Anywhere in Country\nSalary: Competitive\nDate: Sep 18, 2026\n**Job description**\n-------------------\n\n\nRequisition ID: 1726109\nAt EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n\n  \n\n\n**Senior Functional Consultant**\n\n  \n\n\n**The opportunity**\n\n  \n\n\n\nAs part of our EY GDS team, you will work to implement and support SAP FI\\-CA/ Convergent Invoicing projects for clients. You will get an opportunity to work with high quality team. You will get an opportunity to build innovating product which solves client’s problem.\n\n  \n\n\n\nWe’re looking for Senior resources with expertise in **SAP FI\\-CA / FI\\-CAX and SAP Billing and Revenue Innovation Management – Convergent Invoicing** to join the EYD GDS team. This is a fantastic opportunity to be part of a leading firm whilst being instrumental in the growth.\n\n  \n\n\n**Your key responsibilities**\n\n  \n\n\n* To provide functional knowledge with hands\\-on experience in electricity, gas and water utilities.\n* Hands on experience configuring the IS\\-U system\n* Drive Business Workshops, Blueprint Sessions, develop BBPs/BBDs FS, Test Scenarios, conduct Trainings, perform Testing and provide defect management support for Device Management module\n* Design core / customized business processes and provide best practices for ISU.\n* Communicate complex requirements to and from Technical and Non\\-technical stakeholders\n* Willing to travel as per requirement\n* Monitors the progress and the quality of the project\n\n  \n\n\n\n.\n\n\n**Skills and attributes for success**\n\n  \n\n\n* Sound experience in SAP FI\\-CA (Contract Accounting)\n* Strong SAP FI\\-CA, FICA – FI SD and FI MM integration knowledge\n* Development experience in S/4 HANA, SAP ECC across all types of RICEFW objects\n* Being familiar with SAP CRM/SOM/Hybris would also be very helpful\n* Strong knowledge of SAP CI would be very helpful with minimum one end\\-end BRIM CI implementation experience integration with SAP BRIM SOM, CC.\n* SAP BRIM (CI) Functional Consultant in implementing SAP BRIM (CI) solution to support subscription business models.\n* Must have strong knowledge of CI configuration and integration with SOM, CC, SD \\& FI\\-CA, FI/CO components of SAP solution.\n* Hands\\-on experience in SAP BRIM Convergent Invoicing configuration, including billable item management, BIT/CIT class setup, billing and invoicing process configuration, invoice reversal, aggregation, grouping, taxation and discounts.\n* Ability to design and support end\\-to\\-end SAP BRIM CI flows integrated with SAP SOM, Convergent Charging, FI\\-CA and S/4HANA, including functional specifications, unit testing, integration testing, defect resolution and go\\-live/hypercare support.\n* Additionally, must have extensive experience in implementing SAP FI\\-CA, FI/CO solution.\n* Must have completed multiple SAP projects and have excellent communication skills\n* Confidence working within an offshore/onshore delivery model\n* Proven expedience large stream of work across multiple locations\n* Consulting experience advantageous\n* Strong hands\\-on experience on FI\\-CA concepts:\n\t+ Company Code Setup\n\t+ Chart of Accounts and GL setup\n\t+ Main / Sub Transaction Setup\n\t+ Security Deposit Process\n\t+ Incoming Payments (Real Time, Direct Debit, Cash Desk, etc.)\n\t+ Outgoing Payments and Returns\n\t+ Collection process using Collection Strategy\n\t+ Collection Agency related process\n\t+ Transfer Posting process\n\t+ Escheatment process\n* Strong knowledge of month\\-end and period\\-end closing and FICA to FICO GL integration.\n* Implementation experience of BRF Plus.\n* Experience and knowledge of using middleware technology to integrate SAP with third party systems for payments, collection agencies, etc.\n* Experience in data migration.\n* Can work under minimum supervision, good time management and work planning\n\n  \n\n\n**To qualify for the role, you must have**\n\n  \n\n\n* College degree in related technology field (Computer, Engineering, Science, etc.) or comparable job experiences\n* Approximately 5 to 8 years of experience in a functional role. Able to exhibit a progression of increasingly complex job responsibilities during the period\n* Prior SAP BRIM CI role is a must\n* Should have worked on minimum 1 implementation from scratch as a lead consultant.\n\n  \n\n\n**Ideally, you’ll also have**\n\n  \n\n\n* Experience on integration with third\\-party applications\n* Knowledge of integration with SAP RAR, BRIM CI/SOM/CM\n* Hands on experience in SAP S4 HANA Platform\n* Experience on tools like JIRA or equivalent tool to maintain stories.\n* SAP Utilities certifications are a plus:\n\t+ Certification in SAP FICA (IUT240 / AC240 / BR240\\)\n\t+ Certifications in SAP BRIM Convergent Invoicing (AC245 / BR245\\)\n\n  \n\n\n**Technologies and Tools**\n\n  \n\n\n* SAP FI\\-CA / FI\\-CAX\n* SAP BRIM CI\n* SAP FIORI\n* Jira\n* Azure DevOps\n\n  \n\n\n**What we look for**\n\n  \n\n\n* A Team of people with commercial acumen, technical experience, and enthusiasm to learn new things in this fast\\-moving environment\n* An opportunity to be a part of market\\-leading, multi\\-disciplinary team in the integrated global transaction business worldwide.\n* Opportunities to work with EY Utilities practices globally with leading businesses across a range of geographies\n\n  \n\n\n**What we offer**\n\n  \n\n\n\nEY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across six locations – Argentina, China, India, the Philippines, Poland and the UK – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business discip",
+   "query": "SAP BRIM",
+   "id": "1d7d15c64714cb45",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP BRIM Convergent Invoicing CI",
+   "company": "ERPTREE Consulting Services Pvt Ltd",
+   "location": "Bengaluru, Karnataka, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4468784038",
+   "listing_url": "https://www.linkedin.com/jobs/view/4468784038",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "As a Custom Software Engineer, a typical day involves designing, building, and configuring applications tailored to fulfill specific business process and application needs. This role requires a thoughtful approach to understanding the unique requirements of various business functions and translating them into effective software solutions. The workday often includes collaborating with different stakeholders to ensure the applications align with organizational goals, while continuously refining and adapting the software to meet evolving demands. Attention to detail and a commitment to delivering high\\-quality, customized software are central to daily activities in this position.\n \n\n\n\n  \n\n\n\n\n\n Roles \\& Responsibilities:\n \n\n\n\n \\- Expected to be an SME, collaborate and manage the team to perform.\n \n\n\n\n \\- Responsible for team decisions.\n \n\n\n\n \\- Engage with multiple teams and contribute on key decisions.\n \n\n\n\n \\- Provide solutions to problems for their immediate team and across multiple teams.\n \n\n\n\n \\- Lead efforts to identify and implement process improvements within the team to enhance productivity and quality.\n \n\n\n\n \\- Mentor junior team members by sharing knowledge and guiding their professional development.\n \n\n\n\n \\- Coordinate cross\\-functional communication to ensure alignment and timely delivery of project milestones.\n \n\n\n\n  \n\n\n\n\n\n Professional \\& Technical Skills:\n \n\n\n\n \\- Must To Have Skills: Proficiency in SAP BRIM Convergent Invoicing CI.\n \n\n\n\n \\- Strong experience in application design and configuration to meet complex business requirements.\n \n\n\n\n \\- Ability to troubleshoot and resolve technical issues within the invoicing and billing domain.\n \n\n\n\n \\- Familiarity with integration techniques and tools to connect SAP BRIM with other enterprise systems.\n \n\n\n\n \\- Experience in optimizing application performance and ensuring scalability.\n \n\n\n\n \\- Capability to document technical specifications and contribute to knowledge sharing within the team.\n \n\n\n\n  \n\n\n\n\n\n Additional Information:\n \n\n\n\n \\- The candidate should have minimum 7\\.5 years of experience in SAP BRIM Convergent Invoicing CI.\n \n\n\n\n \\- This position is based at our Bengaluru office.\n \n\n\n\n \\- A 15 years full time education is required.\"",
+   "query": "SAP BRIM",
+   "id": "1d1d13e6804b98d1",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "MI Reporting Engineer – Billing Transformation",
+   "company": "Arrow point",
+   "location": "KA, IN",
+   "remote": false,
+   "posted_at": "2026-09-22",
+   "apply_url": "http://in.indeed.com/job/mi-reporting-engineer-billing-transformation-e188fd2e01e7fced",
+   "listing_url": "https://in.indeed.com/viewjob?jk=e188fd2e01e7fced",
+   "job_type": "",
+   "salary": "",
+   "description": "We are seeking an experienced **MI / Reporting Engineer – Billing Transformation** to design, develop, and maintain robust **Management Information (MI)**, operational reporting, dashboards, and analytics solutions supporting a large\\-scale **Billing Transformation programme**.\n\nThe role requires strong expertise in **reporting technologies, Snowflake, Power BI, SQL, billing processes, Order\\-to\\-Cash lifecycle, and data modelling**. The ideal candidate will deliver accurate, timely, and trusted insights across billing operations, revenue, invoicing, collections, disputes, and transformation KPIs.\n\n**Key Responsibilities**\n\n**Management Information \\& Reporting**\n\n* Design, develop, and maintain reporting solutions that provide visibility into Billing Transformation initiatives and operational performance.\n* Build reports and dashboards covering:\n* Billing and invoicing operations\n* Revenue and billing accuracy\n* Customer billing lifecycle\n* Billing exceptions and disputes\n* Collections and receivables performance\n* Service and product billing trends\n* Transformation programme progress and KPI tracking\n* Partner with business stakeholders to understand reporting requirements and convert them into scalable reporting solutions.\n* Develop executive\\-level and operational dashboards to support strategic and tactical decision\\-making.\n* Publish and manage governed datasets to enable self\\-service analytics for Finance and Billing Operations teams.\n\n**Business Intelligence \\& Visualisation**\n\n* Develop and maintain interactive **Power BI dashboards**, reports, and scorecards.\n* Create visual analytics covering:\n* Billing accuracy\n* Invoice processing performance\n* Revenue trends\n* Billing exceptions and disputes\n* Collections effectiveness\n* Customer billing behaviour\n* Ensure dashboards are user\\-friendly, performant, accessible, and aligned to business needs.\n* Improve reporting usability through effective layout, drilldowns, filters, KPIs, and storytelling.\n\n**Data Modelling \\& Analytics**\n\n* Work with **Snowflake** and cloud\\-based data warehouse environments to support reporting and analytics needs.\n* Build, optimize, and maintain SQL queries, views, datasets, and reporting layers.\n* Support data modelling for billing, revenue, invoicing, collections, and reconciliation reporting.\n* Ensure data accuracy, consistency, lineage, and governance across MI/reporting outputs.\n* Perform analysis to identify trends, exceptions, operational bottlenecks, and performance insights.\n\n**Stakeholder Management**\n\n* Collaborate with Finance, Billing Operations, Transformation, Technology, and Data teams.\n* Translate business reporting needs into clear technical specifications.\n* Present reporting outputs, insights, and recommendations to business and leadership stakeholders.\n* Support ongoing enhancements based on feedback, changing business needs, and transformation priorities.\n\n**Required Skills \\& Experience**\n\n**Technical Skills**\n\n* Strong experience in **Management Information (MI), Reporting, and Business Intelligence** delivery.\n* Hands\\-on experience with **Power BI** dashboard and report development.\n* Strong experience working with **Snowflake** and cloud\\-based data warehousing platforms.\n* Advanced **SQL development** and query optimization skills.\n* Strong understanding of **data modelling**, reporting layers, governed datasets, and dashboard performance optimization.\n* Ability to design scalable reporting solutions for enterprise transformation programmes.\n\n**Functional / Domain Skills**\n\n* Experience supporting one or more of the following:\n* Billing Transformation\n* Revenue Management\n* Order\\-to\\-Cash (O2C)\n* Invoicing\n* Finance Transformation\n* Billing Operations\n* Solid understanding of billing processes including:\n* Invoice generation\n* Billing accuracy\n* Receivables\n* Collections\n* Reconciliation\n* Billing exceptions and disputes\n* Ability to understand complex billing and finance data flows and translate them into meaningful reports and dashboards.\n\n**Preferred Qualifications**\n\n* Experience working on large\\-scale **Billing Transformation**, **ERP Transformation**, or **Finance Modernisation** programmes.\n* Knowledge of billing platforms such as:\n* Salesforce Billing\n* SAP BRIM\n* Oracle Billing\n* Zuora\n* Similar enterprise billing platforms\n* Understanding of **Revenue Recognition** and broader **Order\\-to\\-Cash** processes.\n* Experience in financial services, risk, information services, technology, SaaS, or subscription\\-based business environments.\n* Familiarity with data cataloguing and governance tools such as:\n* Collibra\n* Alation\n* Microsoft Purview\n\n**Soft Skills**\n\n* Strong analytical and problem\\-solving ability.\n* High attention to detail and data accuracy.\n* Good communication and stakeholder management skills.\n* Ability to work with both business and technical teams.\n* Strong ownership mindset and ability to manage multiple reporting priorities.\n* Comfortable working in transformation environments with evolving requirements.\n\nPay: ₹1,200,000\\.00 \\- ₹14,000,000\\.00 per year\n\nWork Location: In person",
+   "query": "SAP BRIM",
+   "id": "2f2f61e3f196f99a",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP S/4HANA FI-CA Engineer",
+   "company": "Applicantz",
+   "location": "",
+   "remote": true,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4470464648",
+   "listing_url": "https://www.linkedin.com/jobs/view/4470464648",
+   "job_type": "contract",
+   "salary": "",
+   "description": "**Remote opportunity with preferred work schedule 8:00 AM – 5:00 PM PST but flexible.** \n\n\n\n\n  \n\n\n\n\n\n We are looking for an experienced\n **SAP S/4HANA FI\\-CA / Accounts Receivable Engineer** \n with\n **10\\+ years of SAP experience** \n and deep expertise in customer receivables, incoming payments, cash application, and related financial processes.\n \n\n\n\n  \n\n\n\n\n\n**Top skills:** \n\n\n\n* SAP S/4HANA FI\\-CA experience\n* Customer incoming payment and payment lot processing experience\n* FSCM (Credit Management) experience\n\n\n\n  \n\n\n\n\n\n**Required Skills:** \n\n\n\n* SAP S/4HANA (FI\\-CA)\n* Advanced Microsoft Excel\n* Integration \\& Middleware tools (e.g., Postman)\n* Process Mapping tools (e.g., Lucidchart, Signavio)\n* Agile project tools (e.g., Jira, Confluence)\n\n\n\n  \n\n\n\n\n\n**What You’ll Do** \n\n\n\n* 10\\+ years of hands\\-on SAP experience with strong expertise in\n **SAP FI\\-CA and Accounts Receivable** \n processes.\n* Strong experience with\n **SAP S/4HANA** \n , preferably within a large\\-scale enterprise or SAP BRIM landscape.\n* Deep expertise in\n **customer incoming payments, payment allocation, open\\-item clearing, and payment reconciliation** \n .\n* Strong experience with\n **cash application** \n , including automated matching of incoming payments/remittance information against customer invoices and open receivables.\n* Experience with\n **bank statement processing, remittance integration, payment exceptions, unapplied cash, and payment\\-on\\-account scenarios** \n .\n* Hands\\-on experience with\n **FI\\-CA dunning, collections, returns, refunds, write\\-offs, and account maintenance** \n processes.\n* Strong understanding of\n **FI\\-CA integration with General Ledger (FI\\-GL)** \n , including reconciliation and financial postings.\n* Experience with\n **intercompany invoicing and accounting processes** \n and related financial integrations.\n* Strong understanding of end\\-to\\-end\n **Order\\-to\\-Cash / Invoice\\-to\\-Cash** \n business processes.\n* Ability to design scalable SAP solutions based on complex customer billing, receivables, and payment requirements.\n* Strong troubleshooting skills across\n **payments, clearing, reconciliation, receivables, and accounting** \n processes.\n* Experience integrating SAP with\n **banks, payment platforms, remittance sources, and other upstream/downstream enterprise systems** \n .\n* Ability to independently lead\n **solution design, functional analysis, configuration, testing, implementation, and production support** \n .\n* Experience collaborating with Finance, Product Management, Engineering, and other SAP functional teams.\n* Ability to independently represent the engineering team in architecture, design, and cross\\-functional discussions.\n* Experience mentoring engineers and functional consultants and providing technical and functional guidance.\n\n\n\n  \n\n\n\n\n\n**Good to have:** \n\n\n\n* Experience with SAP\n **Dispute Management, Collections Management, and Credit Management (FSCM)**\n* Strong communication, analytical, ownership, and problem\\-solving skills with the ability to drive complex initiatives through successful production delivery",
+   "query": "SAP Convergent Invoicing",
+   "id": "7a095568f31052d1",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "GN-I&E- Comms and Media SAP",
+   "company": "Accenture in India",
+   "location": "Bengaluru, Karnataka, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4449634700",
+   "listing_url": "https://www.linkedin.com/jobs/view/4449634700",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Job Title: SAP S/4HANA Analyst / Consultant – Communications \\& Media (S\\&C GN)**\n**Management Level:**\n* Level 9 – Consultant / Team Lead\n\n\n**Location:** \n Bengaluru / Gurugram / Pune / Mumbai\n   \n\n  \n\n**Role Overview:**\n As an SAP S/4HANA Analyst or Consultant, you will contribute to the successful implementation of digital transformation programs for clients in the Communications \\& Media sector. You will apply your domain knowledge, SAP functional skills, and project execution experience to support end\\-to\\-end solution delivery, working in collaboration with senior consultants, clients, and cross\\-functional teams.\n   \n\n  \n\n**Key Responsibilities:**\n**Project Execution \\& Functional Support:**\n* Support SAP S/4HANA project lifecycle activities including blueprinting, configuration, testing, data migration, and go\\-live.\n* Assist in process mapping, fit\\-gap analysis, and requirement gathering aligned to the industry best practices.\n* Configure and test SD, MM, FICO, or BRIM modules based on business requirements under supervision.\n* Prepare key project documentation including functional specs, configuration guides, and user training material.\n* Participate in Conference Room Pilots (CRPs) and support solution validation with business users.\n\n\n**Collaboration \\& Client Engagement:**\n* Work closely with business users and senior consultants to translate functional requirements into SAP solutions.\n* Collaborate with development teams to define RICEFW components and support the testing cycle.\n* Contribute to cutover planning, go\\-live support, and post\\-implementation stabilization.\n\n\n**Capability Building \\& Delivery Excellence:**\n* Stay current on SAP innovations, especially in Digital Supply Chain, Finance, BRIM, and S/4HANA capabilities.\n* Develop reusable assets, templates, and accelerators to streamline project delivery.\n* Participate in internal knowledge sharing and cross\\-functional collaboration.\n\n\n**Key Skills \\& Competencies:**\n* Hands\\-on experience with SAP S/4HANA, preferably with 1–2 full lifecycle implementations\n* Strong understanding of core business processes: Order\\-to\\-Cash (OTC), Procure\\-to\\-Pay (P2P), and Record\\-to\\-Report (R2R)\n* Exposure to designing functional specs, blueprint documentation, and change requests\n* Familiarity with SAP best practices and standard templates for configuration and testing\n* Excellent communication and documentation skills; ability to produce clear, structured project deliverables\n* Strong analytical thinking and attention to detail\n* Ability to work independently and as part of a collaborative team",
+   "query": "SAP Convergent Invoicing",
+   "id": "348641cba51d6418",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
+   "title": "GN I&E S&P SAP Consultants",
+   "company": "Accenture in India",
+   "location": "Bengaluru, Karnataka, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4448888305",
+   "listing_url": "https://www.linkedin.com/jobs/view/4448888305",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Accenture \\| Industry and Enterprise Software and Platforms**\n**Job Title \\- Platform Enablement \\+ Consultant/Analyst \\+ GN/Software \\& Platforms**\n**Management Level :** \n Level 09 \\- Consultant / Level 11 \\- Analyst\n   \n\n  \n\n**Location: Bangalore/ Gurgaon / Hyderabad / Mumbai**\n**Experience:**\n* For Consultant, Minimum 6 years of professional experience with at least 3\\-5 years of relevant experience in SAP modules such as FI/MM/BRIM/Ariba (or) SAP S4 HANA modules\n* For Analyst, Minimum 4 years of professional experience with at least 1\\-2 years of experience in SAP modules such as FI/MM/BRIM/Ariba (or) SAP S4 HANA modules\n* Demonstrated leadership in delivering ERP or CRM solutions across digital transformation and systems implementation (Assessment, Strategy, Planning, Implementation)\n* Experience working with large technology firms, consultancies, or hyperscalers is highly preferred\n* Prior experience mentoring and growing high\\-performing consulting teams\n\n\n**Educational Qualification:** \n B.Tech/BE \\+ MBA (top\\-tier institutes)\n   \n\n  \n\n**Job Summary:**\n We are seeking a seasoned Manager / Senior Manager to join our rapidly growing Platform Enablement capability within the Software \\& Platform industry group. The ideal candidate will be passionate about driving digital transformation through ERP/CRM platforms enablement, with a strong foundation in SAP or Salesforce technologies and a strategic consulting mindset. In this role, you will lead high\\-impact engagements, shape digital transformation strategy and approach for clients, and contribute to thought leadership for innovation.\n   \n\n  \n\n**Roles \\& Responsibilities:**\n* Lead client engagements to design, develop, and implement ERP/CRM solutions\n* Define business cases, transformation roadmaps, and target operating models\n* Advise CXOs and senior executives on how business processes can be revisited with technology capabilities at the forefront for innovation and efficiency\n* Ideate and architect Agentic AI use cases and oversee their integration into key functional processes\n* Stay ahead of AI/GenAI trends and translate them into actionable consulting offerings\n* Collaborate with cross\\-functional teams including Engineers, Architects, QA, Security and Industry experts\n* Contribute to business development through proposals, client presentations, and RFP responses\n* Mentor junior team members and build capability within the Platform Enablement practice\n* Represent the firm at industry forums and contribute to whitepapers and PoVs\n\n\n**Additional Information:**\n* This role offers exposure to global Fortune 500 technology clients\n* Travel may be required based on client engagements\n* Hybrid work model with flexibility based on project needs\n* Opportunities to shape the firm’s service offerings and thought leadership initiatives\n\n\n About Our Company \\| Accenture",
+   "query": "SAP BRIM",
+   "id": "cb3ff5fc06e3a72b",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-22",
+   "repost_count": 0
+  },
+  {
    "title": "SAP Utilities FICA Lead",
    "company": "delaware North America",
    "location": "",
    "remote": false,
-   "posted_at": "",
+   "posted_at": "2026-09-21",
    "apply_url": "https://www.linkedin.com/jobs/view/4467635448",
    "listing_url": "https://www.linkedin.com/jobs/view/4467635448",
    "job_type": "fulltime",
@@ -31,31 +231,11 @@
    "repost_count": 0
   },
   {
-   "title": "SAP BRIM CI Consultant",
-   "company": "ZettaMine Labs Pvt. Ltd.",
-   "location": "Mumbai, Maharashtra, India",
-   "remote": false,
-   "posted_at": "",
-   "apply_url": "https://www.linkedin.com/jobs/view/4467604340",
-   "listing_url": "https://www.linkedin.com/jobs/view/4467604340",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "Hello All,\n \n\n\n\n  \n\n\n\n\n\n Greeting's from ZettaMine!!!\n \n\n\n\n  \n\n\n\n\n\n**Job Title:** \n SAP BRIM CI Consultant\n \n\n\n\n**Relevant Experience: 6 to 10** \n Years\n \n\n\n\n**Location:** \n Mumbai\n \n\n\n\n**Work Mode** \n : Hybrid\n \n\n\n\n**Notice Period:** \n Immediate Joiners\n \n\n\n\n  \n\n\n\n\n\n**Role Summary:** \n\n\n\n\n  \n\n\n\n\n\n 6\\+ years of Hands\\-on SAP Convergent Invoicing configuration knowledge with real time project experience\n \n\n\n\n  \n\n\n\n\n\n**Responsibilities** \n\n\n\n\n  \n\n\n\n\n* Very good knowledge of Convergent Mediation as part of SAP BRIM and Revenue Cloud\n* Strong understanding of the systems and architecture enabling SAP’s processes.\n* Working in Agile development environment (preferably SCRUM) and DevOps; with cross\\-cultural and onshore teams is an advantage\n\n\n\n  \n\n\n\n\n\n**Required Skills** \n\n\n\n\n  \n\n\n\n\n* 6\\+ years of Hands\\-on SAP Convergent Invoicing configuration knowledge with real time project experience\n* Very good knowledge of Convergent Mediation as part of SAP BRIM and Revenue Cloud\n* Strong overall knowledge of Information Technology with particular focus on Finance.\n* Strong understanding of the systems and architecture enabling SAP’s processes.\n* Knowledge of Order Management, Billing, A/R, A/P, CM, CC, CI, FI\\-CA\n* Strong customer and quality focus, highly motivated and able to work independently\n* Strong Collaborative mindset (across teams and functions).\n* Working in Agile development environment (preferably SCRUM) and DevOps; with cross\\-cultural and onshore teams is an advantage\n\n\n\n  \n\n\n\n\n\n**How to Apply:** \n\n\n\n\n  \n\n\n\n\n\n 📧\n **Send your updated resume to: harika.p@zettamine.com** \n or WhatsApp to 8977781938\n **.** \n\n\n\n\n  \n\n\n\n\n\n Please include the following in your email/WhatsApp:\n \n\n\n* **Full Name**\n* **Contact Number**\n* **Total Experience**\n* **Relevant Experience**\n* **Current CTC**\n* **Expected CTC**\n* **Notice Period**\n\n\n\n  \n\n\n\n\n\n Regards,\n \n\n\n\n Harika P\n \n\n\n\n  \n\n\n\n\n\n \\#SAP \\#SAPBRIMCI \\#BRIM \\#SCRUM \\#DEVOPS",
-   "query": "SAP BRIM",
-   "id": "057256948b6a7697",
-   "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-09-21",
-   "repost_count": 0
-  },
-  {
    "title": "SAP BRIM FICA Configurator",
    "company": "Univedge Consulting LLC",
    "location": "",
    "remote": true,
-   "posted_at": "",
+   "posted_at": "2026-09-21",
    "apply_url": "https://www.linkedin.com/jobs/view/4469943338",
    "listing_url": "https://www.linkedin.com/jobs/view/4469943338",
    "job_type": "fulltime",
@@ -71,31 +251,11 @@
    "repost_count": 0
   },
   {
-   "title": "Senior SAP Application Configuration Analyst",
-   "company": "Puget Sound Energy",
-   "location": "Bothell, WA, US",
-   "remote": false,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://jobs.pse.com/job/Bothell-Senior-SAP-Application-Configuration-Analyst-WA-98011/1410561300/?feedId=291300&utm_source=Indeed&utm_campaign=PSE_Indeed",
-   "listing_url": "https://www.indeed.com/viewjob?jk=25284c68e179e2ac",
-   "job_type": "",
-   "salary": "103100.0 181300.0 USD yearly",
-   "description": "Puget Sound Energy is looking to grow our community with top talented individuals like you! With our rapidly growing, award winning energy efficiency programs, our pathway to an exciting and innovative future is now.\n\n  \n\nPSE's IT Application Solutions team is looking for qualified candidates to fill an open **Senior SAP Application Configuration Analyst** position!\n\n  \n\nSpecific details regarding the work arrangements for this position will be discussed in further detail during the interview process.\n\n**Job Description**\n-------------------\n\n\nThe SAP Customer Information Systems team is an experienced and collaborative group that works to deliver projects and support PSE’s business and an extensive SAP footprint. Join our dynamic team and you will be able to contribute and grow as an IT professional as you deliver solutions to in support of PSE’s goal to meets our aggressive clean energy goals for the future.\n\n  \n\nThis position works comprehensively across all phases of systems analysis while evaluating the strategic business implications of technology applications within the current operational environment. Facilitates collaborative processes to gather and establish detailed business requirements, and may participate in critical hardware/software selection and vendor evaluation processes. Participates actively in project initiation phases by defining high\\-level requirements and contributing to the development of business strategies, objectives, and key organizational drivers.\n\n  \n\nUpholds the safety compliance standards inherent in PSE’s operating and/or field procedures related to work responsibilities. Promotes and supports a culture of total safety.\n\n  \n\nDemonstrates commitment to conduct business honestly, ethically and consistent with our core values and Code of Conduct. Ensures duties are performed in accordance with all regulatory compliance obligations.\n\n**Job Responsibilities**\n------------------------\n\n* Diagnoses complex problems, develops and implements solutions in an SAP environment (from list below).\n* Effectively understands relevant business processes so that they can be modeled in internal systems.\n* Develops and maintains scope and objectives for internal systems requirements as defined by the organization inclusive of mySAP R/3, 4\\.6, ECC 5\\.0/6\\.0, or S/4 modules and affected applications, to allow for programming business rules into said systems.\n* Maintains extensive knowledge of their assigned functional area in SAP environment (from list below), active business processes, business areas, as well as industry.\n* Assists in tailoring the development process to meet the project needs and assists SAP project manager in scheduling budget tasks and defines high\\-level requirements.\n* Serves as a resource to ABAP programmers, developers, and BASIS Administrators in designing, configuring and implementing an SAP system, which supports the company’s business and operational needs. Provides leadership and guidance to subordinates.\n* Configures complex application components (analysis, design, development and implementation of solutions) based on functional requirements without supervision in the SAP environment (from list below).\n* Deep understanding of project and software development ASAP or Agile methodologies and process and may assist in aligning the process with project needs.\n\n **SAP System Modules and Skills**\n\n* CRM (Customer Relationship Management)\n* SAP Front Office\n\t+ IS\\-U (Utilities)\n* Billing \\& Invoicing (Primary)\n* CS (Customer Service)\n* Device Management\n* FICA (Finance \\& Contract Accounting)\n\t+ FI (Financial Accounting)\n\t+ AMI (Adv. Metering Infra.)\n* Other supporting Functional Areas for Utility Industry.\n* Performs other duties as assigned.\n**Minimum Qualifications**\n--------------------------\n\n* Bachelor’s degree in Computer Science, Industrial Engineering, Business Administration, or related field.\n* 5\\+ years IT experience, including several years of systems development experience in the design and development of department\\-wide or enterprise\\-wide applications.\n* Detailed understanding and experience: 5\\+ years hands\\-on systems experience in one or more (specialized technical requirements as shown in technical addendum) modules appropriate for the job (or other related functional area experience).\n* Possesses full technical knowledge of phases of software development life cycle.\n* Advanced knowledge of Microsoft Office.\n* Knowledge of systems and/or business analysis design concepts. Demonstrated proficiency in the applied use of systems and process analysis tools. Full system life cycle experience, including development lifecycle methodologies.\n* Ability to facilitate interactive design and functional specification sessions.\n* Highly developed interpersonal, written and verbal skills with an ability to express complex technical concepts in business terms. Excellent technical writing and system documentation skills\n* Strong analytical problem\\-solving and conceptual skills.\n* Demonstrated project management skills for smaller projects.\n* Must be a “team player” able to work with management in developing and implementing new processes and enabling systems. Able to work with end user groups to define application needs and identify feasible solutions.\n* Proactive, self\\-motivated with the ability to motivate others and a customer\\-focused service attitude.\n* Good organizational skills, with the ability to meet objectives and effectively multi\\-task.\n* Ability to work with all levels of the organization, both technical and non\\-technical.\n**Desired Qualifications**\n--------------------------\n\n* IS\\-U Billing Functional Experience of the following but not limited to:\n* Extensive SAP IS\\-Utilities CR\\&B Experience\n* Full lifecycle implementation experience within IS\\-U (Electric and Gas).\n* Experience in setup of Rate Structure, Billing Schema, Price management including all Billing Master Data/Tariff Structure and Bill Print\n* Expertise in Billin",
-   "query": "SAP FICA",
-   "id": "9e18557196b5f2e0",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-09-21",
-   "repost_count": 0
-  },
-  {
    "title": "Revenue and QTC Transformation Senior Manager",
    "company": "Palo Alto Networks",
    "location": "Santa Clara, CA",
    "remote": false,
-   "posted_at": "",
+   "posted_at": "2026-09-21",
    "apply_url": "https://www.linkedin.com/jobs/view/4411544147",
    "listing_url": "https://www.linkedin.com/jobs/view/4411544147",
    "job_type": "fulltime",
@@ -151,46 +311,6 @@
    "repost_count": 0
   },
   {
-   "title": "Billing Analyst",
-   "company": "Brightspeed",
-   "location": "Charlotte, NC, US",
-   "remote": true,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://jobs.smartrecruiters.com/Brightspeed/744000150427771-billing-analyst",
-   "listing_url": "https://www.indeed.com/viewjob?jk=dfd1803e89cbf4d7",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "**Company Description**  \n\nAt Brightspeed, we are reimagining how people live, work, play and connect by providing fast, reliable internet connections and an awesome customer experience in twenty states throughout the Midwest and South.\n\n\nBacked by funds managed by Apollo Global Management, **our vision is to accelerate the upgrade of copper to fiber optic technologies, bringing faster and more reliable internet service to many rural markets traditionally underserved by broadband providers, while delivering best\\-in\\-class customer experience.**\n\n\nBe a part of the team that will make this vision a reality….designing and building a world class fiber network and creating a customer experience second to none.\n\n\nCheck us out on the web!\n\n **Job Description**  \n\nThe Billing Analyst plays a critical role in executing and maintaining accurate, compliant, and timely billing operations across all customer segments. Reporting to the Billing Supervisor within the Billing Operations organization, this role supports Brightspeed’s end\\-to\\-end billing process within the SAP Billing and Revenue Innovation Management (BRIM) platform. The position ensures data accuracy, revenue assurance, and operational efficiency through cross\\-functional collaboration with Finance, IT, Revenue Assurance, and Customer Care teams.\n\n**Key Responsibilities**\n\n**Billing Execution and Analysis**\n\n* Execute monthly billing cycles across multiple business segments using SAP BRIM.\n* Review and validate rating, charging, and invoicing data to ensure accurate application of pricing, taxes, discounts, and contractual terms.\n* Perform detailed pre\\- and post\\-billing reconciliations to ensure invoice integrity and completeness.\n* Identify, document, and resolve discrepancies in source data, usage feeds, or customer hierarchies.\n\n**Data Validation and Quality Assurance**\n\n* Conduct audits of billing data to ensure compliance with company policies, SOX controls, and tariff or contractual obligations.\n* Partner with IT, Finance, and Product teams to ensure BRIM master data (subscriptions, charges, price plans) are accurate and up to date.\n* Support revenue assurance activities, reconciling billed versus unbilled usage and validating invoice\\-level revenue alignment.\n\n**System Support and Continuous Improvement**\n\n* Participate in User Acceptance Testing (UAT) and Operational Readiness Testing (ORT) during system releases, migrations, or new product implementations.\n* Identify and recommend process improvements or automation opportunities to enhance billing efficiency and accuracy.\n\n**Reporting and Collaboration**\n\n* Develop and maintain billing dashboards and KPI reports to track cycle completion, accuracy rates, and exceptions.\n* Collaborate with Accounting, Collections, Customer Service, and Revenue Operations teams to support billing dispute resolution and ensure end\\-to\\-end transparency.\n* Communicate recurring issues, root causes, and recommended process enhancements to leadership.\n\n **Qualifications** **Qualifications**\n\n**Education \\& Experience**\n\n* Bachelor’s degree in Accounting, Finance, Business Administration, or a related field preferred, or equivalent combination of education and experience.\n* 2–4 years of experience in billing operations, preferably in telecommunications, SaaS, or subscription\\-based billing environments.\n* Experience with SAP BRIM modules (Convergent Invoicing, FICA, SOM) preferred.\n* Familiarity with telecom product hierarchies, usage\\-based billing, and taxation (E911, USF, SLED, etc.) is a plus.\n\n**Skills \\& Competencies**\n\n* Proficiency in Microsoft Excel (VLOOKUP, pivot tables, data validation, and reconciliation).\n* Strong analytical and investigative skills, with the ability to identify and explain complex data anomalies.\n* Excellent organizational and time management skills to manage concurrent billing cycles.\n* Effective communication and collaboration skills for cross\\-departmental interaction.\n* Working knowledge of SQL, Power BI, or Looker preferred.\n* Core competencies include:\n* Analytical Accuracy: Ensures precision in billing data and reporting.\n* Ownership \\& Accountability: Takes initiative in resolving issues and ensuring full billing cycle execution.\n* Collaboration: Works effectively with technical and business partners to maintain seamless billing operations.\n* Process Innovation: Seeks continuous improvement in efficiency and billing accuracy.\n* Customer Focus: Promotes transparency and trust through timely, accurate billing.\n\n**Preferred Qualifications**\n\n* Experience in telecommunications billing systems or enterprise\\-scale SAP BRIM environments.\n* Knowledge of financial reporting and revenue recognition principles.\n* Certification or formal training in SAP BRIM or related modules.\n\n**Physical Demands \\& Work Conditions**\n\n* Primarily office\\-based, with regular use of computer and standard office equipment.\n* May participate in after\\-hours or weekend support during billing cutovers, migrations, or month\\-end cycles.\n* Minimal travel may be required (up to 5%).\n\n\n\\#LI\\-RW1\n\n **Additional Information** **WHY JOIN US?**\n\n**We aspire to contemporary ways of working.**\n\n\nWe are committed to being a leader in defining a new way to work because we recognize the changing mindset of today's workforce. We are opening a new, state\\-of\\-the\\-art corporate HQ in Charlotte, NC and our current priority is to make it a truly vibrant destination by hiring talent in the greater Charlotte area who are interested in a hybrid remote/office work arrangement. As always, however, we are also open to providing sensible remote options to talent outside of the Charlotte area. Why? Because our purpose is to reimagine how people work, learn, play and connect!\n\n**We offer competitive compensation and comprehensive benefits.**\n\n\nOur benefits and paid time off programs reflect our underlying belief in promoting overall wellness through physical, emotional and financial health. We are committed to buildi",
-   "query": "SAP BRIM",
-   "id": "fa161f316e071d5a",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-09-21",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U Billing Functional Lead Consultant",
-   "company": "7Th Sky Tech",
-   "location": "Palo Alto, CA",
-   "remote": true,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://www.linkedin.com/jobs/view/4467879883",
-   "listing_url": "https://www.linkedin.com/jobs/view/4467879883",
-   "job_type": "contract",
-   "salary": "",
-   "description": "Job Location: Remote with Willing to Travel Detroit, MI\n   \n\n  \n\n Duration: 12\\+ Months Contract with Possible extension\n   \n\n  \n\n Visa: Open with Valid I94 and Travel HistoryI\n   \n\n  \n\n nterview Mode: 2 Video Interviews\n   \n\n  \n\n**Job Summary**\n We are seeking an experienced SAP IS\\-U Billing Functional Consultant with strong hands\\-on expertise in SAP Industry Solutions for Utilities, specifically IS\\-U Billing. The ideal consultant will have a solid understanding of end\\-to\\-end utility billing processes and the ability to work closely with business stakeholders, functional teams, and technical teams to analyze requirements, configure solutions, troubleshoot issues, and support project delivery.\n   \n\n  \n\n The consultant should have recent, hands\\-on experience working with SAP IS\\-U Billing and be comfortable operating independently in a client\\-facing environment. Experience supporting complex utility billing processes, integrations, testing, and production issues is highly valued.\n   \n\n  \n\n Key ResponsibilitiesLead and support SAP IS\\-U Billing functional activities throughout the project lifecycle.Analyze business requirements and translate them into effective SAP IS\\-U Billing solutions.\n   \n\n  \n\n Perform functional configuration and customization within the SAP IS\\-U Billing module.Work with business stakeholders to understand utility billing requirements, business processes, and pain points.\n   \n\n  \n\n Design and document end\\-to\\-end billing processes and functional solutions.Configure and support billing\\-related master data, billing parameters, rates, and billing processes.\n   \n\n  \n\n Analyze and resolve billing errors, exceptions, and production issues.Investigate complex billing scenarios and determine root causes across functional processes and integrations.\n   \n\n  \n\n Work closely with technical teams on functional specifications, enhancements, interfaces, reports, and custom developments.\n   \n\n  \n\n Review technical solutions to ensure they align with SAP IS\\-U Billing business requirements.\n   \n\n  \n\n Participate in requirements gathering, process design, configuration, testing, deployment, and post\\-production support.\n   \n\n  \n\n Develop functional specifications and detailed business/process documentation as required.\n   \n\n  \n\n Support SIT, UAT, regression testing, and defect resolution.Prepare and execute functional test scenarios covering various utility billing scenarios.\n   \n\n  \n\n Collaborate with integration teams to validate data flow between IS\\-U Billing and related SAP/non\\-SAP systems.\n   \n\n  \n\n Support data validation, reconciliation, and issue resolution during testing and implementation.\n   \n\n  \n\n Participate in cutover, go\\-live, hypercare, and production support activities.Provide functional guidance and knowledge transfer to other team members.\n   \n\n  \n\n Identify opportunities to improve billing processes, controls, and operational efficiency.\n   \n\n  \n\n Communicate effectively with technical teams, business users, project managers, and other functional teams.\n   \n\n  \n\n Skills: sap,sap is,project,sap is\\-u,teams,utility billing,data,business requirements,testing",
-   "query": "SAP BRIM",
-   "id": "1f6f7c2112643b37",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-09-21",
-   "repost_count": 0
-  },
-  {
    "title": "SAP BRIM Engineer - Convergent Mediation (CM)",
    "company": "Zoox",
    "location": "Foster City, CA",
@@ -224,6 +344,26 @@
    "query": "SAP BRIM",
    "id": "4aef18ec3ff115d8",
    "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-09-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Convergent Mediation",
+   "company": "Infosys",
+   "location": "Chennai, Tamil Nadu, India",
+   "remote": false,
+   "posted_at": "2026-09-20",
+   "apply_url": "https://www.linkedin.com/jobs/view/4440785676",
+   "listing_url": "https://www.linkedin.com/jobs/view/4440785676",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "* 5\\+ years’ experience in BRIM Convergent Mediation implementations, exposure in client facing roles and SAP ABAP and Webservice development.\n* Experience and Strong knowledge of J2EE (EJB, Servlet/JSP, XML).\n* Experience in HTML, CSS, JavaScript.\n* Strong knowledge of Oracle, SQL programming and tuning, stored procedures.\n* Strong knowledge of Unix, Windows, JVM, Web servers, Application servers.\n* Experienced in security programming and concepts.\n* Experience in Utility or Telecommunication\n\n\n A day in the life of an Infoscion\n   \n\n  \n\n* As part of the Infosys consulting team, your primary role would be to get to the heart of customer issues, diagnose problem areas, design innovative solutions and facilitate deployment resulting in client delight.\n* You will develop a proposal by owning parts of the proposal document and by giving inputs in solution design based on areas of expertise.\n* You will plan the activities of configuration, configure the product as per the design, conduct conference room pilots and will assist in resolving any queries related to requirements and solution design\n* You will conduct solution/product demonstrations, POC/Proof of Technology workshops and prepare effort estimates which suit the customer budgetary requirements and are in line with organization’s financial guidelines\n* Actively lead small projects and contribute to unit\\-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! Location of posting \\- Infosys Ltd. is committed to ensuring you have the best experience throughout your journey with us. We currently have open positions in a number of locations across India \\- Bangalore, Pune, Hyderabad, Chennai, Chandigarh, Trivandrum, Indore, Nagpur, Mangalore, Noida, Bhubaneswar, Kolkata, Coimbatore, Jaipur. While we work in accordance with business requirements, we shall strive to offer you the location of your choice, where possible.",
+   "query": "SAP BRIM",
+   "id": "f03fa0aa6df8b98b",
+   "region": "India",
    "sources": [
     "linkedin"
    ],
@@ -288,139 +428,6 @@
     "linkedin"
    ],
    "first_seen": "2026-09-19",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP FICO/FI-CA-BRIM",
-   "company": "VOLTO Consulting",
-   "location": "Austin, TX",
-   "remote": false,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://www.linkedin.com/jobs/view/4467885322",
-   "listing_url": "https://www.linkedin.com/jobs/view/4467885322",
-   "job_type": "contract",
-   "salary": "",
-   "description": "Role Descriptions:\n \n\n\n\n  \n\n\n\n\n\n SAP FI: 5\\-10 years\n \n\n\n\n • Analytical Thinking: 5\\-10 years SAP FICO functional experience specializing in design and configuration of SAP Finance modules. Experience in 2\\-3 full implementation of SAP FI modules. Experience in gathering business requirements.\n \n\n\n\n • Providing conceptual and detailed designs to meet business needs\\| performing necessary SAP configurations\n \n\n\n\n • Writing detail specifications for development of custom programs\\| testing\\| co\\-ordination of transports to production and post go live support.\n \n\n\n\n • Requires excellent verbal and written communication skills\\| including presentations creation and delivery. Minimum 5 years of SAP FICO / FI\\-CA experience.\n \n\n\n\n • Good understanding of accounting concepts.\n \n\n\n\n • Bachelor’s Degrees and Post graduate degree (MBA / CA) is required. Prior experience in high tech or software industries is preferred.",
-   "query": "SAP FICA",
-   "id": "a1c8b4a8ef5d0cd7",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-09-19",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP BRIM Functional SME",
-   "company": "Lumen Technologies India",
-   "location": "Bengaluru, Karnataka, India",
-   "remote": false,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://www.linkedin.com/jobs/view/4469154748",
-   "listing_url": "https://www.linkedin.com/jobs/view/4469154748",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "**About Lumen Technologies**\n Lumen Technologies is a global technology company that delivers innovative communication and network solutions. Our mission is to empower businesses and individuals to connect, grow, and thrive in the digital age. With a focus on customer experience and operational excellence, we strive to provide cutting\\-edge solutions that meet the evolving needs of our customers.\n   \n\n  \n\n The Role\n   \n\n  \n\n**Key Responsibilities**\n* Solution Design \\& Configuration: Lead end\\-to\\-end SAP BRIM implementations, rollouts, and support projects. Design, configure, and implement BRIM solutions based on business needs, including CI, FI\\-CA and FICO.\n* Business Process Analysis: Gather requirements from stakeholders and translate them into effective BRIM solutions.\n* System Integration: Ensure seamless integration between BRIM components and other SAP modules (like SD, MM, HR) and external systems.\n* Project Management: Lead workshops, conduct fit\\-gap analysis, manage testing (SIT, UAT), and oversee cutover activities.\n* Client Interaction: Act as a liaison with business users and stakeholders, conduct system demonstrations, and provide training and support.\n* Documentation: Create functional specifications, configuration documents, and process flows.\n* Support: Provide post\\-go\\-live support, perform root cause analysis, and assist with issue remediation.\n\n\n**Required Skills And Experience**\n* Relevant Experience:\n\n\n Minimum of 13\\-16 years of hands\\-on experience in SAP BRIM, with at least two full end\\-to\\-end implementation projects.\n   \n\n  \n\n* Functional Expertise:\n\n\n Deep knowledge of SAP BRIM components, including Convergent Invoicing (CI) and Contract Accounts Receivable and Payable (FI\\-CA).\n   \n\n  \n\n- Hands on experience with CI (Convergent Invoicing)\n\n* BIT Configuration and enhancement for various business processes\n* Hands on experience on Billing and Invoice document configuration\n* Periodic Invoicing\n* Credit and Debit memo processing\n* Events and Posting Area in\\-depth knowledge\n* Must have done enhancements during BIT to Invoice process\n* Hands\\-on experience on Intercompany BIT processing\n\n\n- Hands on experience with FICA\n\n* CI and FICA integration\n* Hands\\-on experience of all FICA modules \\- Payments, Banks, Real time payments, Collections \\-Dunning via collection strategy, Deposits, Promise to pay\n* Handling Intercompany transactions in FICA\n* Correspondence Printing\n* Deferred Revenue Configuration and hands on experience\n* Hands on experience on GL configuration, House bank configuration\n* FICA \\- FICO integration\n* Technical Expertise:\n* Should be able to translate business requirements to ABAP developers\n* Understanding of ODATA, CDS views, Reports, OOP concepts\n* Should be able to debug and conduct root cause analysis.\n\n\n**\"We are an equal opportunity employer committed to fair and ethical hiring practices. We do not charge any fees or accept any form of payment from candidates at any stage of the recruitment process. If anyone claims to offer employment opportunities in our company in exchange for money or any other benefit, please treat it as fraudulent and report it immediately** \n .\"\n   \n\n  \n\n SAP FICA/FICO, ABAP, Convergent invoicing, Odata",
-   "query": "SAP BRIM",
-   "id": "738f587c5eb2fdbd",
-   "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-09-18",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP BRIM Solution Consultant",
-   "company": "HRS Group",
-   "location": "Bengaluru East, Karnataka, India",
-   "remote": false,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://www.linkedin.com/jobs/view/4467881238",
-   "listing_url": "https://www.linkedin.com/jobs/view/4467881238",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "**Job Title: SAP BRIM Solution Consultant**\n**Hrs As a Company**\n HRS, a pioneer in business travel, aims to elevate every stay through innovative technology.\n   \n\n  \n\n With over 50 years of experience, their digital platform, driven by ProcureTech, TravelTech,\n   \n\n  \n\n and FinTech, transforms how companies and travelers Stay, Work, and Pay.\n   \n\n  \n\n ProcureTech digitally revolutionizes lodging procurement, connecting corporations and\n   \n\n  \n\n suppliers in a cutting\\-edge ecosystem. This enables seamless efficiency and automation,\n   \n\n  \n\n surpassing travelers' expectations.\n   \n\n  \n\n TravelTech redefines the online lodging experience, offering personalized content from\n   \n\n  \n\n selection to check\\-in, ensuring an unparalleled journey for corporate travelers.\n   \n\n  \n\n In FinTech, HRS introduces advancements like mobile banking and digital payments, turning\n   \n\n  \n\n corporate back offices into touchless lodging enablers, eliminating legacy cost barriers. The\n   \n\n  \n\n innovative 2\\-click book\\-to\\-pay feature streamlines interactions for travelers and hoteliers.\n   \n\n  \n\n Combining these technology propositions, HRS unlocks exponential catalyst effects. Their\n   \n\n  \n\n data\\-driven focus delivers value\\-added services and high\\-return network effects, creating\n   \n\n  \n\n substantial customer value.\n   \n\n  \n\n HRS's exponential growth since 1972 serves over 35% of the global Fortune 500 and leading\n   \n\n  \n\n hotel chains.\n   \n\n  \n\n Join HRS to shape the future of business travel, empowered by a culture of growth and\n   \n\n  \n\n setting new industry standards worldwide.\n   \n\n  \n\n**BUSINESS UNIT**\n HRS, a pioneer in business travel, aims to elevate every stay through innovative technology.\n   \n\n  \n\n With over 50 years of experience, their digital platform, driven by ProcureTech, TravelTech,\n   \n\n  \n\n and FinTech, transforms how companies and travelers Stay, Work, and Pay.\n   \n\n  \n\n ProcureTech digitally revolutionizes lodging procurement, connecting corporations and\n   \n\n  \n\n suppliers in a cutting\\-edge ecosystem. This enables seamless efficiency and automation,\n   \n\n  \n\n surpassing travelers' expectations.\n   \n\n  \n\n TravelTech redefines the online lodging experience, offering personalized content from\n   \n\n  \n\n selection to check\\-in, ensuring an unparalleled journey for corporate travelers.\n   \n\n  \n\n In FinTech, HRS introduces advancements like mobile banking and digital payments, turning\n   \n\n  \n\n corporate back offices into touchless lodging enablers, eliminating legacy cost barriers. The\n   \n\n  \n\n innovative 2\\-click book\\-to\\-pay feature streamlines interactions for travelers and hoteliers.\n   \n\n  \n\n Combining these technology propositions, HRS unlocks exponential catalyst effects. Their\n   \n\n  \n\n data\\-driven focus delivers value\\-added services and high\\-return network effects, creating\n   \n\n  \n\n substantial customer value.\n   \n\n  \n\n HRS's exponential growth since 1972 serves over 35% of the global Fortune 500 and leading\n   \n\n  \n\n hotel chains.\n   \n\n  \n\n Join HRS to shape the future of business travel, empowered by a culture of growth and\n   \n\n  \n\n setting new industry standards worldwide.\n   \n\n  \n\n**POSITION**\n We are seeking a skilled SAP BRIM (Billing and Revenue Innovation Management) Solution\n   \n\n  \n\n Consultant to join our inhouse SAP Team. As a SAP BRIM Consultant, you will play a crucial\n   \n\n  \n\n role in implementing, configuring, and supporting SAP BRIM solutions for our clients. This role requires deep technical expertise in SAP BRIM modules, strong analytical skills, and the ability to collaborate effectively with clients and internal teams.\n   \n\n  \n\n**CHALLENGE**\n**Key Responsibilities**\n**Implementation and Configuration:**\n Lead the implementation and configuration of SAP BRIM solutions based on stakeholder requirements\n   \n\n  \n\n Represent the BRIM standard design in the requirement definition process and advocate for a few deviations\n   \n\n  \n\n as possible\n   \n\n  \n\n When necessary, customize SAP BRIM modules to align with business processes and integration needs\n   \n\n  \n\n Ensure seamless integration of SAP BRIM with other SAP modules and third\\-party systems\n   \n\n  \n\n**Technical Expertise**\n Provide expert guidance on SAP BRIM functionalities, including subscription order management, billing,\n   \n\n  \n\n invoicing, and revenue recognition\n   \n\n  \n\n Be an expert on the BRIM standard design and devise ways to implement processes within the standard\n   \n\n  \n\n Troubleshoot and resolve technical issues related to SAP BRIM implementations\n   \n\n  \n\n Perform system testing and assist in user acceptance testing (UAT) processes\n   \n\n  \n\n**Project Management**\n Collaborate with project managers, business analysts, and stakeholders to define project scope, goals, and\n   \n\n  \n\n deliverables\n   \n\n  \n\n Manage timelines and deliverables related to SAP BRIM implementations\n   \n\n  \n\n Provide regular updates and reports on project progress to stakeholders\n   \n\n  \n\n**Training And Support**\n Conduct training sessions for end\\-users and teams on SAP BRIM functionalities and best practices\n   \n\n  \n\n Provide ongoing support and maintenance for SAP BRIM solutions post\\-implementation\n   \n\n  \n\n Address and resolve user queries and issues related to SAP BRIM usage\n   \n\n  \n\n**Documentation And Best Practices**\n Create comprehensive documentation including functional specifications, configuration guides, and user\n   \n\n  \n\n manuals\n   \n\n  \n\n Promote best practices for SAP BRIM implementation, configuration, and usage within the organization\n   \n\n  \n\n**FOR THIS EXCITING MISSION YOU ARE EQUIPPED WITH...**\n**Qualifications**\n Bachelor’s degree in Computer Science, Information Systems, or related field\n   \n\n  \n\n Proven minimum 5 years of experience in SAP BRIM implementation and configuration,\n   \n\n  \n\n minimum completion of at least 3 HANA implementations\n   \n\n  \n\n In\\-depth knowledge of SAP BRIM modules for Subscription Order Management, Billing and\n   \n\n  \n\n Invoicing, and Revenue Management (mo",
-   "query": "SAP BRIM",
-   "id": "7f663a322bfbf1ca",
-   "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-09-18",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP CI FICA Functional - SENIOR",
-   "company": "EY",
-   "location": "Multiple (11): MH, IN, Bengaluru, Karnataka, India, Trivandrum, Kerala, India, Noida, Uttar Pradesh, India …",
-   "remote": false,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://careers.ey.com/ey/job/Pune-SAP-CI-FICA-Functional-SENIOR-MH-411014/1438301233/",
-   "listing_url": "https://in.indeed.com/viewjob?jk=6d33cc2aec91d66e",
-   "job_type": "",
-   "salary": "",
-   "description": "Location: Pune\nOther locations: Anywhere in Country\nSalary: Competitive\nDate: Sep 18, 2026\n**Job description**\n-------------------\n\n\nRequisition ID: 1726109\nAt EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n\n  \n\n\n**Senior Functional Consultant**\n\n  \n\n\n**The opportunity**\n\n  \n\n\n\nAs part of our EY GDS team, you will work to implement and support SAP FI\\-CA/ Convergent Invoicing projects for clients. You will get an opportunity to work with high quality team. You will get an opportunity to build innovating product which solves client’s problem.\n\n  \n\n\n\nWe’re looking for Senior resources with expertise in **SAP FI\\-CA / FI\\-CAX and SAP Billing and Revenue Innovation Management – Convergent Invoicing** to join the EYD GDS team. This is a fantastic opportunity to be part of a leading firm whilst being instrumental in the growth.\n\n  \n\n\n**Your key responsibilities**\n\n  \n\n\n* To provide functional knowledge with hands\\-on experience in electricity, gas and water utilities.\n* Hands on experience configuring the IS\\-U system\n* Drive Business Workshops, Blueprint Sessions, develop BBPs/BBDs FS, Test Scenarios, conduct Trainings, perform Testing and provide defect management support for Device Management module\n* Design core / customized business processes and provide best practices for ISU.\n* Communicate complex requirements to and from Technical and Non\\-technical stakeholders\n* Willing to travel as per requirement\n* Monitors the progress and the quality of the project\n\n  \n\n\n\n.\n\n\n**Skills and attributes for success**\n\n  \n\n\n* Sound experience in SAP FI\\-CA (Contract Accounting)\n* Strong SAP FI\\-CA, FICA – FI SD and FI MM integration knowledge\n* Development experience in S/4 HANA, SAP ECC across all types of RICEFW objects\n* Being familiar with SAP CRM/SOM/Hybris would also be very helpful\n* Strong knowledge of SAP CI would be very helpful with minimum one end\\-end BRIM CI implementation experience integration with SAP BRIM SOM, CC.\n* SAP BRIM (CI) Functional Consultant in implementing SAP BRIM (CI) solution to support subscription business models.\n* Must have strong knowledge of CI configuration and integration with SOM, CC, SD \\& FI\\-CA, FI/CO components of SAP solution.\n* Hands\\-on experience in SAP BRIM Convergent Invoicing configuration, including billable item management, BIT/CIT class setup, billing and invoicing process configuration, invoice reversal, aggregation, grouping, taxation and discounts.\n* Ability to design and support end\\-to\\-end SAP BRIM CI flows integrated with SAP SOM, Convergent Charging, FI\\-CA and S/4HANA, including functional specifications, unit testing, integration testing, defect resolution and go\\-live/hypercare support.\n* Additionally, must have extensive experience in implementing SAP FI\\-CA, FI/CO solution.\n* Must have completed multiple SAP projects and have excellent communication skills\n* Confidence working within an offshore/onshore delivery model\n* Proven expedience large stream of work across multiple locations\n* Consulting experience advantageous\n* Strong hands\\-on experience on FI\\-CA concepts:\n\t+ Company Code Setup\n\t+ Chart of Accounts and GL setup\n\t+ Main / Sub Transaction Setup\n\t+ Security Deposit Process\n\t+ Incoming Payments (Real Time, Direct Debit, Cash Desk, etc.)\n\t+ Outgoing Payments and Returns\n\t+ Collection process using Collection Strategy\n\t+ Collection Agency related process\n\t+ Transfer Posting process\n\t+ Escheatment process\n* Strong knowledge of month\\-end and period\\-end closing and FICA to FICO GL integration.\n* Implementation experience of BRF Plus.\n* Experience and knowledge of using middleware technology to integrate SAP with third party systems for payments, collection agencies, etc.\n* Experience in data migration.\n* Can work under minimum supervision, good time management and work planning\n\n  \n\n\n**To qualify for the role, you must have**\n\n  \n\n\n* College degree in related technology field (Computer, Engineering, Science, etc.) or comparable job experiences\n* Approximately 5 to 8 years of experience in a functional role. Able to exhibit a progression of increasingly complex job responsibilities during the period\n* Prior SAP BRIM CI role is a must\n* Should have worked on minimum 1 implementation from scratch as a lead consultant.\n\n  \n\n\n**Ideally, you’ll also have**\n\n  \n\n\n* Experience on integration with third\\-party applications\n* Knowledge of integration with SAP RAR, BRIM CI/SOM/CM\n* Hands on experience in SAP S4 HANA Platform\n* Experience on tools like JIRA or equivalent tool to maintain stories.\n* SAP Utilities certifications are a plus:\n\t+ Certification in SAP FICA (IUT240 / AC240 / BR240\\)\n\t+ Certifications in SAP BRIM Convergent Invoicing (AC245 / BR245\\)\n\n  \n\n\n**Technologies and Tools**\n\n  \n\n\n* SAP FI\\-CA / FI\\-CAX\n* SAP BRIM CI\n* SAP FIORI\n* Jira\n* Azure DevOps\n\n  \n\n\n**What we look for**\n\n  \n\n\n* A Team of people with commercial acumen, technical experience, and enthusiasm to learn new things in this fast\\-moving environment\n* An opportunity to be a part of market\\-leading, multi\\-disciplinary team in the integrated global transaction business worldwide.\n* Opportunities to work with EY Utilities practices globally with leading businesses across a range of geographies\n\n  \n\n\n**What we offer**\n\n  \n\n\n\nEY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across six locations – Argentina, China, India, the Philippines, Poland and the UK – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business discip",
-   "query": "SAP BRIM",
-   "id": "90fc641271310e6b",
-   "region": "India",
-   "sources": [
-    "indeed"
-   ],
-   "locations": [
-    "MH, IN",
-    "Bengaluru, Karnataka, India",
-    "Trivandrum, Kerala, India",
-    "Noida, Uttar Pradesh, India",
-    "Chennai, Tamil Nadu, India",
-    "Kochi, Kerala, India",
-    "Pune City, Maharashtra, India",
-    "Mumbai, Maharashtra, India",
-    "Kolkata, West Bengal, India",
-    "Coimbatore, Tamil Nadu, India",
-    "Hyderabad, Telangana, India"
-   ],
-   "first_seen": "2026-09-18",
-   "repost_count": 0
-  },
-  {
-   "title": "Billing Analyst",
-   "company": "Brightspeed",
-   "location": "Charlotte, NC",
-   "remote": true,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://www.linkedin.com/jobs/view/4469208311",
-   "listing_url": "https://www.linkedin.com/jobs/view/4469208311",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "At Brightspeed, we are reimagining how people live, work, play and connect by providing fast, reliable internet connections and an awesome customer experience in twenty states throughout the Midwest and South.\n   \n\n  \n\n Backed by funds managed by Apollo Global Management,\n **our vision is to accelerate the upgrade of copper to fiber optic technologies, bringing faster and more reliable internet service to many rural markets traditionally underserved by broadband providers, while delivering best\\-in\\-class customer experience.**\n Be a part of the team that will make this vision a reality….designing and building a world class fiber network and creating a customer experience second to none.\n   \n\n  \n\n Check us out on the web!\n   \n\n  \n\n****Job Description****\n The Billing Analyst plays a critical role in executing and maintaining accurate, compliant, and timely billing operations across all customer segments. Reporting to the Billing Supervisor within the Billing Operations organization, this role supports Brightspeed’s end\\-to\\-end billing process within the SAP Billing and Revenue Innovation Management (BRIM) platform. The position ensures data accuracy, revenue assurance, and operational efficiency through cross\\-functional collaboration with Finance, IT, Revenue Assurance, and Customer Care teams.\n   \n\n  \n\n****Key Responsibilities****\n**Billing Execution and Analysis**\n* Execute monthly billing cycles across multiple business segments using SAP BRIM.\n* Review and validate rating, charging, and invoicing data to ensure accurate application of pricing, taxes, discounts, and contractual terms.\n* Perform detailed pre\\- and post\\-billing reconciliations to ensure invoice integrity and completeness.\n* Identify, document, and resolve discrepancies in source data, usage feeds, or customer hierarchies.\n\n\n**Data Validation and Quality Assurance**\n* Conduct audits of billing data to ensure compliance with company policies, SOX controls, and tariff or contractual obligations.\n* Partner with IT, Finance, and Product teams to ensure BRIM master data (subscriptions, charges, price plans) are accurate and up to date.\n* Support revenue assurance activities, reconciling billed versus unbilled usage and validating invoice\\-level revenue alignment.\n\n\n**System Support and Continuous Improvement**\n* Participate in User Acceptance Testing (UAT) and Operational Readiness Testing (ORT) during system releases, migrations, or new product implementations.\n* Identify and recommend process improvements or automation opportunities to enhance billing efficiency and accuracy.\n\n\n**Reporting and Collaboration**\n* Develop and maintain billing dashboards and KPI reports to track cycle completion, accuracy rates, and exceptions.\n* Collaborate with Accounting, Collections, Customer Service, and Revenue Operations teams to support billing dispute resolution and ensure end\\-to\\-end transparency.\n* Communicate recurring issues, root causes, and recommended process enhancements to leadership.\n\n\n****Qualifications****\n**Qualifications**\n****Education \\& Experience****\n* Bachelor’s degree in Accounting, Finance, Business Administration, or a related field preferred, or equivalent combination of education and experience.\n* 2–4 years of experience in billing operations, preferably in telecommunications, SaaS, or subscription\\-based billing environments.\n* Experience with SAP BRIM modules (Convergent Invoicing, FICA, SOM) preferred.\n* Familiarity with telecom product hierarchies, usage\\-based billing, and taxation (E911, USF, SLED, etc.) is a plus.\n\n\n****Skills \\& Competencies****\n* Proficiency in Microsoft Excel (VLOOKUP, pivot tables, data validation, and reconciliation).\n* Strong analytical and investigative skills, with the ability to identify and explain complex data anomalies.\n* Excellent organizational and time management skills to manage concurrent billing cycles.\n* Effective communication and collaboration skills for cross\\-departmental interaction.\n* Working knowledge of SQL, Power BI, or Looker preferred.\n* Core competencies include:\n* Analytical Accuracy: Ensures precision in billing data and reporting.\n* Ownership \\& Accountability: Takes initiative in resolving issues and ensuring full billing cycle execution.\n* Collaboration: Works effectively with technical and business partners to maintain seamless billing operations.\n* Process Innovation: Seeks continuous improvement in efficiency and billing accuracy.\n* Customer Focus: Promotes transparency and trust through timely, accurate billing.\n\n\n****Preferred Qualifications****\n* Experience in telecommunications billing systems or enterprise\\-scale SAP BRIM environments.\n* Knowledge of financial reporting and revenue recognition principles.\n* Certification or formal training in SAP BRIM or related modules.\n\n\n**Physical Demands \\& Work Conditions**\n* Primarily office\\-based, with regular use of computer and standard office equipment.\n* May participate in after\\-hours or weekend support during billing cutovers, migrations, or month\\-end cycles.\n* Minimal travel may be required (up to 5%).\n\n\n****Additional Information****\n**WHY JOIN US?**\n**We aspire to contemporary ways of working.**\n We are committed to being a leader in defining a new way to work because we recognize the changing mindset of today's workforce. We are opening a new, state\\-of\\-the\\-art corporate HQ in Charlotte, NC and our current priority is to make it a truly vibrant destination by hiring talent in the greater Charlotte area who are interested in a hybrid remote/office work arrangement. As always, however, we are also open to providing sensible remote options to talent outside of the Charlotte area. Why? Because our purpose is to reimagine how people work, learn, play and connect!\n   \n\n  \n\n****We Offer Competitive Compensation And Comprehensive Benefits.****\n Our benefits and paid time off programs reflect our underlying belief in promoting overall wellness through physical, emotional and financial health. We ",
-   "query": "SAP BRIM",
-   "id": "5c22fb521b4eb408",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-09-18",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U Billing Functional Lead Consultant",
-   "company": "7Th Sky Tech",
-   "location": "Detroit, MI",
-   "remote": true,
-   "posted_at": "2026-09-18",
-   "apply_url": "https://www.linkedin.com/jobs/view/4467890179",
-   "listing_url": "https://www.linkedin.com/jobs/view/4467890179",
-   "job_type": "contract",
-   "salary": "",
-   "description": "Job Location: Remote with Willing to Travel Detroit, MI\n   \n\n  \n\n Duration: 12\\+ Months Contract with Possible extension\n   \n\n  \n\n Visa: Open with Valid I94 and Travel HistoryI\n   \n\n  \n\n nterview Mode: 2 Video Interviews\n   \n\n  \n\n**Job Summary**\n We are seeking an experienced SAP IS\\-U Billing Functional Consultant with strong hands\\-on expertise in SAP Industry Solutions for Utilities, specifically IS\\-U Billing. The ideal consultant will have a solid understanding of end\\-to\\-end utility billing processes and the ability to work closely with business stakeholders, functional teams, and technical teams to analyze requirements, configure solutions, troubleshoot issues, and support project delivery.\n   \n\n  \n\n The consultant should have recent, hands\\-on experience working with SAP IS\\-U Billing and be comfortable operating independently in a client\\-facing environment. Experience supporting complex utility billing processes, integrations, testing, and production issues is highly valued.\n   \n\n  \n\n Key ResponsibilitiesLead and support SAP IS\\-U Billing functional activities throughout the project lifecycle.Analyze business requirements and translate them into effective SAP IS\\-U Billing solutions.\n   \n\n  \n\n Perform functional configuration and customization within the SAP IS\\-U Billing module.Work with business stakeholders to understand utility billing requirements, business processes, and pain points.\n   \n\n  \n\n Design and document end\\-to\\-end billing processes and functional solutions.Configure and support billing\\-related master data, billing parameters, rates, and billing processes.\n   \n\n  \n\n Analyze and resolve billing errors, exceptions, and production issues.Investigate complex billing scenarios and determine root causes across functional processes and integrations.\n   \n\n  \n\n Work closely with technical teams on functional specifications, enhancements, interfaces, reports, and custom developments.\n   \n\n  \n\n Review technical solutions to ensure they align with SAP IS\\-U Billing business requirements.\n   \n\n  \n\n Participate in requirements gathering, process design, configuration, testing, deployment, and post\\-production support.\n   \n\n  \n\n Develop functional specifications and detailed business/process documentation as required.\n   \n\n  \n\n Support SIT, UAT, regression testing, and defect resolution.Prepare and execute functional test scenarios covering various utility billing scenarios.\n   \n\n  \n\n Collaborate with integration teams to validate data flow between IS\\-U Billing and related SAP/non\\-SAP systems.\n   \n\n  \n\n Support data validation, reconciliation, and issue resolution during testing and implementation.\n   \n\n  \n\n Participate in cutover, go\\-live, hypercare, and production support activities.Provide functional guidance and knowledge transfer to other team members.\n   \n\n  \n\n Identify opportunities to improve billing processes, controls, and operational efficiency.\n   \n\n  \n\n Communicate effectively with technical teams, business users, project managers, and other functional teams.\n   \n\n  \n\n Skills: sap,sap is,project,sap is\\-u,teams,utility billing,data,business requirements,testing",
-   "query": "SAP BRIM",
-   "id": "97384c9abe6caff5",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-09-18",
    "repost_count": 0
   }
  ],
