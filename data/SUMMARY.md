@@ -1,19 +1,13 @@
-# Feed summary 2026-10-04
+# Feed summary 2026-10-06
 
-raw 484 · relevant 24 · new today 2 · emitted 15
+raw 473 · relevant 21 · new today 6 · emitted 9
 
+- 2026-10-06 · **Starcom Consultant** — SAP BRIM CM – SAP Convergent Mediation Consultant · Bengaluru, Karnataka, India · linkedin
+- 2026-10-06 · **Starcom Consultant** — SAP BRIM CC – SAP Convergent Charging Consultant · Bengaluru, Karnataka, India · linkedin
+- 2026-10-06 · **Jobgether** — SAP ABAP Developer with BRIM ·  · linkedin
+- 2026-10-06 · **Booking Holdings** — Convergent Mediation Engineer (Evergreen) · KA, IN · indeed
+- 2026-10-06 · **Avangrid** — Sr Manager - SAP Billing & FICA · Orange, CT · linkedin
+- 2026-10-06 · **AMRADNET India** — SAP BRIM CC Consultant · KA, IN · indeed
 - 2026-10-04 · **VertexOne** — Director, SAP Operations · US · indeed
-- 2026-10-04 · **PwC India** — IN_Manager_-SAP Service Management_SAP_Advisory_Pune · Pune Division, Maharashtra, India · linkedin
-- 2026-10-04 · **Mobolutions** — Senior SAP FICA Lead · Plano, TX · linkedin
-- 2026-10-04 · **Fujitsu** — SAP FICO RAR - Senior Functional Consultant - 10169 · Hyderabad, Telangana, India · linkedin
-- 2026-10-04 · **Deloitte** — Senior Consultant - SAP BRIM CM · San Francisco, CA · linkedin
 - 2026-10-04 · **Altraize** — SAP ABAP Developer with BRIM ·  · linkedin
 - 2026-10-04 · **Accenture** — SAP Sales and Distribution/Billing and Invoicing Manager - High Tech (CMT) · Multiple (26): Houston, TX, US, Milwaukee, WI, US, Pittsburgh, PA, US, Nashville, TN, US … · indeed
-- 2026-10-04 · **ASSA ABLOY Group** — SAP S/4 HANA SD Application Expert · Plano, TX · linkedin
-- 2026-10-02 · **Mobolutions** — Senior SAP FICA Lead · Plano, TX, US · indeed
-- 2026-10-02 · **Mobolutions** — SAP FICA / SAP BRIM Consultant · Plano, TX, US · indeed
-- 2026-10-02 · **Infosys** — SAP SD Consultant · WB, IN · indeed
-- 2026-10-02 · **Data-Core Systems Inc** — SAP BRIM ABAP Developer · Remote, IN · indeed
-- 2026-10-02 · **Data-Core Systems Inc** — SAP BRIM ABAP Developer · Middletown, PA, US · indeed
-- 2026-10-01 · **DCG Data-Core Systems (India) Pvt. Ltd.** — SAP BRIM Developer · Remote, IN · indeed
-- 2026-10-01 · **Accenture services Pvt Ltd** — GN-I&E- Comms & Media - SAP · Gurugram, Haryana, India · linkedin
