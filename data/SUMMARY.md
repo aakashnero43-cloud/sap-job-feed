@@ -1,19 +1,15 @@
-# Feed summary 2026-10-31
+# Feed summary 2026-11-03
 
-raw 436 · relevant 23 · new today 4 · emitted 15
+raw 390 · relevant 20 · new today 8 · emitted 11
 
-- 2026-10-31 · **Robotics Technologies** — SAP S4 HANA BRIM · Dallas, TX, US · indeed
+- 2026-11-03 · **PwC Acceleration Center India** — SAP -  RAR - Manager - Kolkata · Kolkata, West Bengal, India · linkedin
+- 2026-11-03 · **KPMG Delivery Network** — KDN India_Consulting_SAP FICA · Pune City, Maharashtra, India · linkedin
+- 2026-11-03 · **Innovatech Staffing** — SAP ISU Consultants (W2 only) ·  · linkedin
+- 2026-11-03 · **Digital Dhara LLC** — Senior SAP Basis / Platform Operations Lead on W2 · Remote, US · indeed
+- 2026-11-03 · **Deloitte** — SAP IS-U Billing Consultant · Multiple (19): Miami, FL, , Chicago, IL, Milwaukee, WI … · linkedin
+- 2026-11-03 · **Deloitte** — Manager - SAP RAR · Multiple (3): Detroit, MI, US, New York, NY, US, Boston, MA, US · indeed
+- 2026-11-03 · **Cinntra** — SAP IS-Utilities FICA Consultant · New York, NY · linkedin
+- 2026-11-03 · **Altraize** — SAP BRIM Functional ·  · linkedin
 - 2026-10-31 · **Palo Alto Networks** — Senior Manager, Revenue and QTC Transformation · Santa Clara, CA, US · indeed
-- 2026-10-31 · **KARL STORZ North America** — Senior SAP Analyst - Commerical · El Segundo, CA · linkedin
-- 2026-10-31 · **KARL STORZ** — Senior SAP Analyst - Commerical · El Segundo, CA, US · indeed
 - 2026-10-31 · **Infosys** — SAP FICA Enterprise Application Consultant · US · indeed
 - 2026-10-31 · **Deloitte** — SAP IS-U Billing Senior Consultant · Omaha, NE · linkedin
-- 2026-10-31 · **Deloitte** — SAP IS-U Billing Consultant ·  · linkedin
-- 2026-10-31 · **Capgemini** — SAP SD/OTC- Principal Application Business Architect · Atlanta, GA, US · indeed
-- 2026-10-30 · **Predica Inc** — SAP Billing Consultant ·  · linkedin
-- 2026-10-30 · **EY** — SAP BRIM-Convergent Mediation-Senior · Multiple (4): UP, IN, Kolkata, West Bengal, India, Bengaluru, Karnataka, India, Noida, Uttar Pradesh, India · indeed
-- 2026-10-30 · **EY** — SAP BRIM-Convergent Invoicing -Senior · Multiple (9): UP, IN, Bengaluru, Karnataka, India, Chennai, Tamil Nadu, India, Kochi, Kerala, India … · indeed
-- 2026-10-30 · **EY** — SAP BRIM-Convergent Charging -Senior · Multiple (6): UP, IN, Bengaluru, Karnataka, India, Trivandrum, Kerala, India, Kochi, Kerala, India … · indeed
-- 2026-10-30 · **EY** — SAP BRIM - SOM Functional-Senior · Multiple (10): UP, IN, Bengaluru, Karnataka, India, Chennai, Tamil Nadu, India, Noida, Uttar Pradesh, India … · indeed
-- 2026-10-30 · **Codeone Technology Pvt ltd** — SAP ABAP Developer(RICEFW+HANA+BRIM/FSCM) · MH, IN · indeed
-- 2026-10-29 · **VertexOne** — SAP Device Management Functional Consultant · US · indeed
