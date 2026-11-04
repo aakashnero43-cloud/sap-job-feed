@@ -1,53 +1,285 @@
 {
- "generated_at": "2026-11-03T02:45:16+00:00",
+ "generated_at": "2026-11-04T01:00:31+00:00",
  "window_days": 4,
  "counts": {
-  "raw": 390,
-  "relevant": 20,
-  "new_today": 8,
-  "emitted": 11,
-  "expired_today": 2,
+  "raw": 405,
+  "relevant": 25,
+  "new_today": 13,
+  "emitted": 17,
+  "expired_today": 0,
   "liveness_checked": 60
  },
  "jobs": [
   {
-   "title": "SAP -  RAR - Manager - Kolkata",
-   "company": "PwC Acceleration Center India",
-   "location": "Kolkata, West Bengal, India",
-   "remote": false,
-   "posted_at": "2026-10-30",
-   "apply_url": "https://www.linkedin.com/jobs/view/4483472903",
-   "listing_url": "https://www.linkedin.com/jobs/view/4483472903",
-   "job_type": "fulltime",
+   "title": "Senior SAP Basis - Platform Operations Lead",
+   "company": "VeeRteq Solutions Inc.",
+   "location": "Newfield, NJ, US",
+   "remote": true,
+   "posted_at": "2026-11-02",
+   "apply_url": "https://candidateportal.ceipal.com/job-details/EOu1FCkysj5zsaWQC09wa5wrup5nlALl-0l-NKt40Hs#.job_boards.Indeed",
+   "listing_url": "https://www.indeed.com/viewjob?jk=99a916095d637d32",
+   "job_type": "",
    "salary": "",
-   "description": "The Opportunity\n   \n\n  \n\n Join our Acceleration Center India and help shape the future of business for our diverse client portfolio across geographies and jurisdictions. You’ll work at the heart of global teams across Advisory, Assurance, Tax and Business Services—solving real client challenges through connected collaboration. We’ll help you grow your skills so you can go further. With hands\\-on learning, cutting\\-edge tools and an inclusive culture, this is your opportunity to do inspiring work that makes a difference—every day.\n   \n\n  \n\n As a SAP \\- RAR \\- Manager you will lead client service work focused on SAP Customer Relationship Management solutions, helping organizations analyze needs, implement configuration changes, and support integration and training efforts. As a Manager you will guide teams, coach junior professionals, manage multiple workstreams, and apply independent judgment while navigating complex issues and maintaining PwC’s quality and conduct expectations. In this role at PwC, you will bring together SAP consulting experience, business application consulting knowledge, and an understanding of finance technology delivery within our Advisory practice to support revenue accounting, testing, data migration, and functional design activities.\n   \n\n  \n\n PwC Acceleration Center India offers an opportunity to develop SAP capabilities in a setting that values accountability, collaboration, and consistent delivery. You will help shape solutions across SAP RAR, SAP SD, and BRIM, working on implementation tasks, requirement gathering, blueprinting, and configuration for S/4HANA environments. The role also calls for mentoring others, reviewing deliverables, handling stakeholder conversations, and contributing to work that supports client operations and business transformation.\n   \n\n  \n\n**Responsibilities**\n* Leading SAP RAR workstreams across requirements gathering, blueprinting, design, configuration, and implementation\n* Managing client\\-facing project activities, timelines, and deliverables for revenue accounting transformation efforts\n* Coordinating SAP RAR data migration, source data extraction, and transformation into target solution designs\n* Configuring revenue accounting engine settings, including RAI class setup, interface components, and source item types\n* Developing functional specifications for ABAP enhancements and validating solution behavior through testing cycles\n* Overseeing integration design and configuration across SAP RAR, SAP SD, BRIM, and S/4HANA environments\n* Guiding test planning, test script development, functional testing, and UAT preparation activities\n* Reviewing revenue recognition setup for time\\-based and event\\-based fulfillment scenarios\n* Interpreting IFRS 15 accounting requirements and translating them into SAP RAR process and reporting designs\n* Coaching team members, reviewing deliverables, and supporting problem solving across complex implementation issues\n\n\n What You Must Have\n   \n\n  \n\n* At least a Bachelor's degree\n* At least 9 years of experience\n* Oral and written proficiency in English required\n\n\n What Sets You Apart\n   \n\n  \n\n* At least one of the following: One or more SAP certifications in SAP Customer or S/4HANA customer\\-facing solutions, including Sales, Service, Commerce, or Customer Data platforms\n* Leading SAP RAR implementations and data migration across client programs\n* Configuring SAP RAR integrations with SAP SD and BRIM landscapes\n* Designing revenue recognition models for time\\-based and event\\-based fulfillment\n* Developing functional specifications and guiding ABAP customizations\n* Handling blueprinting, testing, and UAT activities across SAP workstreams",
+   "description": "Job description\n**Job Title Senior SAP Basis / Platform Operations Lead**\n\n\n**Location \\-** Remote (USA)\n\n\n**What you'll be doing**\n\n\nAs a Senior SAP Basis / Platform Operations Leadyou will be a part of an Agile team to build healthcare applications and implement new features while adhering to the best coding development standards.\n\n\n**Responsibilities: \\-**\n\n\nRole Overview :\n\n\nWe are seeking a hands\\-on Senior SAP Basis / Platform Operations Lead to oversee SAP platform operations, production support, and infrastructure administration.\n\n\nThe ideal candidate will have deep expertise in SAP landscapes and be capable of independently managing complex production issues while driving operational excellence.\n\n\n**Key Responsibilities :**\n\n\nProvide leadership and support for SAP Basis and platform operations.\n\n\nIndependently troubleshoot and resolve production issues across SAP environments. Coordinate effectively with SAP teams, AMS teams, and stakeholders to ensure timely issue resolution. Enhance platform monitoring, incident management, and root cause analysis (RCA) processes. Support platform administration activities and provide backup coverage for assigned operational controls. Drive system stability, performance optimization, and operational best practices. Collaborate with cross\\-functional teams to ensure seamless SAP operations.\n\n\n**Required Skills \\& Experience :**\n\n\nExtensive hands\\-on experience in SAP Basis Administration. Strong expertise in SAP S/4HANA and SAP HANA environments. Experience with SAP RISE implementations and operations. Proven experience managing production support and platform operations. Strong troubleshooting, incident management, and root cause analysis skills. Excellent stakeholder management and coordination abilities.\n\n\nPreferred Skills Experience with SAP BRIM (Billing and Revenue Innovation Management). Hands\\-on expertise with Convergent Charging and Convergent Mediation. Experience supporting large\\-scale enterprise SAP environments.",
    "query": "SAP BRIM",
-   "id": "5eda11a938a3701a",
-   "region": "India",
+   "id": "9065025646c30b72",
+   "region": "US",
    "sources": [
-    "linkedin"
+    "indeed"
    ],
-   "first_seen": "2026-11-03",
+   "first_seen": "2026-11-04",
    "repost_count": 0
   },
   {
-   "title": "KDN India_Consulting_SAP FICA",
-   "company": "KPMG Delivery Network",
-   "location": "Pune City, Maharashtra, India",
-   "remote": false,
-   "posted_at": "2026-10-30",
-   "apply_url": "https://www.linkedin.com/jobs/view/4485325007",
-   "listing_url": "https://www.linkedin.com/jobs/view/4485325007",
+   "title": "SAP BRIM Functional",
+   "company": "Jobgether",
+   "location": "",
+   "remote": true,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4486039408",
+   "listing_url": "https://www.linkedin.com/jobs/view/4486039408",
    "job_type": "fulltime",
    "salary": "",
-   "description": "Roles \\& responsibilities\n \n\n\n\n We are seeking an experienced Technical Project Manager with strong expertise in SAP \\& S/4HANA Finance transformations, capable of leading end\\-to\\-end implementations while effectively engaging with business stakeholders across Finance stream.\n \n\n\n\n •Working with the team to support priorities, estimates, and resource allocation for initiatives related to Payments and Order to Cash processes.\n \n\n\n\n •Solution design notes for small\\-to\\-medium changes, including architecture impact, business requirements, technology constraints, and future extensibility considerations\n \n\n\n\n •Integration design and support documentation for SAP BIM (CI) FICA interfaces with adjacent finance, reservation, billing, and master\\-data systems.\n \n\n\n\n •Release, deployment, rollback, and hypercare playbooks for changes and production\\-safe releases\n \n\n\n\n •Security, compliance, and production best\\-practice checklist with evidence tracking for operational changes\n \n\n\n\n •System architecture, runbook, opdoc, and recovery\\-procedure set to reduce bus factor and speed restoration of service\n \n\n\n\n •Continuous quality and process improvement plan covering bottlenecks, scaling risks and performance gains\n \n\n\n\n •Agile Methodology \\- if possible with JIRA knowledge\n \n\n\n\n •Stakeholder communication pack for manager, peers, infrastructure, networking, and security teams.\n \n\n\n\n •Reservation\\-to\\-finance process design document covering Manage Reservations and downstream posting impacts covering:\n \n\n\n\n •Finance and master data governance framework for chart of accounts, customer, booking, and reference\\-data ownership\n \n\n\n\n •Billing process design pack covering invoice generation, adjustments, credit and rebill scenarios, and control points\n \n\n\n\n •Cash allocation operating model for reservation receipts, matching logic, suspense handling, and exception resolution\n \n\n\n\n •Dispute management workflow design covering intake, classification, investigation, resolution, and escalation paths\n \n\n\n\n •End\\-to\\-end process inventory and RACI across Reservations, Finance, Master Data, Billing, Cash Allocation, and Disputes\n \n\n\n\n •Functional and technical backlog for SAP configuration, interface, data, control, and reporting enhancements\n \n\n\n\n •Support booking testing cycles SIT, UAT, and regression test library covering reservation, billing, allocation, Payments, and dispute scenarios\n \n\n\n\n •Test evidence packs with defect logs, retest outcomes, and sign\\-off tracking per release\n \n\n\n\n •Cutover and deployment playbooks for master data, open transactions, billing interfaces, and cash application readiness\n \n\n\n\n •Hypercare issue log, command\\-center reporting, and stabilization dashboard for post\\-go\\-live support\n \n\n\n\n  \n\n\n\n\n\n This role is for you if you have the below\n \n\n\n\n**Educational qualifications** \n\n\n\n\n •Bachelor’s degree (BBM / BBA / BCom) from an accredited college/university\n \n\n\n\n •Master’s degree (MBA/M.com) from an accredited college/university\n \n\n\n\n**Work experience** \n\n\n\n\n •10\\+ years of relevant experience\n \n\n\n\n •Previous experience in Big 4/Big 6 firms is highly preferred\n \n\n\n\n •Experience in people management, performance management, leading teams of 5\\-6 members, reviewing work of juniors",
-   "query": "SAP Convergent Charging",
-   "id": "28349fd1ee07728c",
+   "description": "**This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a SAP BRIM Functional Data Analyst based in India.**\n Join a team supporting enterprise\\-scale SAP Billing and Revenue Innovation Management (BRIM) initiatives, with a focus on data analysis, quality, migration, and reporting. In this senior functional role, you will work across subscription management, charging, invoicing, and financial processes. You will help ensure the accuracy, consistency, and integrity of critical billing and customer data throughout migration and integration activities. Working closely with business stakeholders, SAP specialists, architects, and technical teams, you will translate business needs into reliable functional data solutions. Your contributions will support effective reporting, sound financial reconciliation, and continuous process improvement. This is an opportunity to make a meaningful impact within complex enterprise SAP environments while supporting business\\-critical operations.\n   \n\n  \n\n Accountabilities\n   \n\n  \n\n In this role, you will contribute to SAP BRIM data analysis, migration, reporting, and governance activities, ensuring that enterprise billing and financial information remains accurate and reliable.\n   \n\n  \n\n* Analyze and support SAP BRIM data structures and business processes across Subscription Order Management (SOM), Convergent Charging (CC), Convergent Invoicing (CI), and Contract Accounts Receivable and Payable (FI\\-CA).\n* Support data\\-related activities covering customer accounts, subscriptions, billing, invoicing, payments, and receivables management.\n* Identify, investigate, and help resolve data quality issues across SAP BRIM environments.\n* Develop and maintain source\\-to\\-target mapping documents, data transformation rules, validation procedures, and reconciliation documentation.\n* Analyze legacy system data and support its mapping to SAP BRIM target structures.\n* Contribute to data migration activities, including extraction, cleansing, transformation, loading, validation, and reconciliation.\n* Collaborate with migration architects and technical teams to resolve migration defects and support mock conversions, cutover planning, and production deployments.\n* Support the development and validation of billing reports, revenue and invoicing analytics, customer account reports, financial reconciliation reports, operational dashboards, and KPIs.\n* Respond to business reporting and data analysis requests while ensuring outputs align with operational and regulatory requirements.\n* Engage with stakeholders to gather and document data and reporting requirements, analyze business processes, and identify opportunities for improved data quality and process optimization.\n* Translate business requirements into functional data specifications and support workshops and requirements\\-gathering sessions.\n* Work with SAP BRIM consultants, SAP S/4HANA teams, data architects, integration specialists, and developers to support data integration and reconciliation across connected systems.\n* Develop and execute data validation scripts, test scenarios, user acceptance testing (UAT), and reconciliation tests.\n* Track defects, investigate issues, validate end\\-to\\-end data flows, and verify reporting outputs.\n* Maintain functional specifications, data dictionaries, governance documentation, reporting definitions, and operational procedures.\n* Support enterprise data governance, compliance, audit requirements, and established data quality standards.\n* Provide user support, troubleshooting assistance, and knowledge transfer to improve adoption of SAP BRIM data and reporting processes.\n\n\n**Requirements**\n The ideal candidate combines strong SAP data analysis experience with practical knowledge of enterprise billing processes, data migration, reporting, and financial reconciliation.\n   \n\n  \n\n* 7\\+ years of experience in SAP data analysis, reporting, or functional support roles.\n* At least 4 years of direct experience supporting SAP BRIM or related SAP billing environments.\n* Proven experience with enterprise billing, invoicing, subscription management, and customer account processes.\n* Strong understanding of SAP BRIM data structures and business processes, including billing and invoicing operations.\n* Experience supporting data migration, data mapping, transformation, validation, and reconciliation activities.\n* Solid knowledge of enterprise data management, data quality principles, reporting, analytics, and financial reconciliation.\n* Practical experience with SQL, data analysis tools, SAP reporting tools, and SAP S/4HANA integrations.\n* Ability to prepare functional specifications, testing documentation, and data governance materials.\n* Strong analytical and problem\\-solving skills, with excellent attention to detail and a commitment to data accuracy.\n* Effective communication and stakeholder engagement skills, including the ability to facilitate workshops and requirements discussions.\n* Strong organizational and documentation abilities, with the capacity to manage multiple priorities and deadlines.\n\n\n**Preferred Qualifications**\n* Experience with SAP Datasphere, SAP Analytics Cloud (SAC), SAP BW/4HANA, or SAP Data Services (BODS).\n* Familiarity with enterprise ETL platforms and reporting tools.\n* Experience in utilities, telecommunications, transportation, finance, or subscription\\-based industries.\n* Exposure to Agile or hybrid project delivery methodologies.\n* Previous consulting or contractor experience in enterprise SAP environments.\n\n\n**Preferred Certifications**\n* SAP Certified Application Associate – SAP Billing and Revenue Innovation Management.\n* SAP Certified Application Associate – Financial Contract Accounting (FI\\-CA).\n* SAP S/4HANA certifications.\n* Data analytics or business intelligence certifications.\n\n\n**Education**\n* Bachelor's degree in Information Systems, Computer Science, Data Analytics, Finance, Busines",
+   "query": "SAP BRIM",
+   "id": "6b8489cd1ce8dbc2",
+   "region": "Other",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "Grip SAP Brim",
+   "company": "InfoBeans",
+   "location": "Chennai, Tamil Nadu, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4486899199",
+   "listing_url": "https://www.linkedin.com/jobs/view/4486899199",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Job Description:**\n\n\n\n\n 1\\. Deep knowledge of SAP BRIM\n \n\n\n\n 2\\. Having strong Functional and Technical Skills specifically on Converging Mediation in BRIM environment.\n \n\n\n\n 3\\. Mandatory to have at least 3 years hands on experience in Converging Mediation (CM)\n \n\n\n\n 4\\. Ability to work independently and autonomously, high advisory competency\n \n\n\n\n 5\\. Have basic understanding on ABAP Development\n \n\n\n\n 6\\. Understanding Workflow Process\n \n\n\n\n 7\\. Understanding Complex Integration Process\n \n\n\n\n 8\\. Debugging Skill\n \n\n\n\n 9\\. Good analytical skills are mandatory.\n \n\n\n\n 10\\. Very good English skills in word and writing.\n \n\n\n\n 11\\. Knowledge of SAP UI5 \\& Fiori are added advantages.\n \n\n\n\n Knowledge of SAP UI5 \\& Fiori are added advantages.\n \n\n\n\n 12\\. Propose Solution Design and work closely with other ABAP Developers or Functional to complete the solution.\n \n\n\n\n  \n\n\n\n\n\n Work Result: SAP BRIM Functional Consultation and Supports mainly on Convergent Mediation\n \n\n\n\n Skill Area: COTS\n \n\n\n\n Technology: SAP S/4 Hana\n \n\n\n\n Proficiency \\- Technology: Expert\n \n\n\n\n Secondary Skill Area: COTS\n \n\n\n\n Secondary Technology: SAP ERP\n \n\n\n\n Proficiency \\- Secondary Technology: Advanced\n \n\n\n\n  \n\n\n\n\n\n If you are interested or know someone who would be a great fit, please share your profile / connect with us.\n \n\n\n\n  \n\n\n\n\n\n Kindly share the updated CV/Resume to mentioned mail ID\\- shruti.mudiganti@infobeans.com\n \n\n\n\n  \n\n\n\n\n\n Regards,\n \n\n\n\n Shruti M\n \n\n\n\n Associate\\- Talent Acquisition",
+   "query": "SAP BRIM",
+   "id": "e873fb1645f0c074",
    "region": "India",
    "sources": [
     "linkedin"
    ],
-   "first_seen": "2026-11-03",
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP FICO Product Specialist",
+   "company": "HCLTech",
+   "location": "IN",
+   "remote": false,
+   "posted_at": "2026-11-03",
+   "apply_url": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=188619&lang=en_US&source=Indeed",
+   "listing_url": "https://in.indeed.com/viewjob?jk=5f875bbe87a91dd0",
+   "job_type": "",
+   "salary": "",
+   "description": "**Job Summary**\n---------------\n\n\n\nLooking for 10\\+ Years of experienced **SAP FICO Consultant with strong expertise in SAP Revenue Accounting and Reporting (RAR)** to support and drive SAP S/4HANA Finance transformations. The ideal candidate should possess deep functional knowledge in **Financial Accounting (FI), Controlling (CO), Revenue Recognition, IFRS 15/ASC 606 compliance**, and end\\-to\\-end integration with SAP modules such as SD, PS, MM, and BRIM.\n\n\nThe candidate will be responsible for solution design, business process analysis, system configuration, testing, deployment, and post\\-go\\-live support across complex SAP implementations.\n\n\n**Key Responsibilities**\n------------------------\n\n\n* Lead SAP FICO and RAR solution design workshops with business stakeholders.\n* Gather, analyze, and document business requirements related to finance and revenue recognition processes\n* Configure and implement SAP FICO components\n* Design and implement SAP RAR solutions aligned with IFRS 15 and ASC 606 standards\n* Configure Revenue Accounting Contracts (RAC), Performance Obligations (POBs), Revenue Posting, and Revenue Recognition processes\n* Integrate SAP RAR with SD OTC, SAP Subscription Billing, BRIM etc.\n* Conduct fit\\-gap analysis and propose industry best\\-practice solutions.\n* Prepare functional specifications for custom developments and enhancements.\n* Execute SIT, UAT, and support defect resolution.\n* Collaborate with technical, integration, and reporting teams.\n* Support data migration and cutover activities.\n* Provide post\\-implementation support and issue resolution\n* Strong expertise in SAP S/4HANA Finance transformations\n* Experience in migration from ECC to S/4HANA\n\n  \n\n\n**Skill Requirements**\n----------------------\n\n\nStrong hands\\-on experience in SAP FI and CO configuration\n\n\nMinimum 3\\+ years of hands\\-on SAP RAR implementation experience\n\n  \n\n\n**Must Have Skill**\n-------------------\n\n\nSAP Finance and Costing\n**Good to Have Skill**\n----------------------\n\n\nSAP Subscription Billing,SAP S/4HANA Financial Accounting,SAP S/4HANA Finance for group reporting\n**Other Requirements**\n----------------------\n\n\n\nExcellent stakeholder management\n\n\nStrong communication and presentation skills\n\n\nAnalytical and problem\\-solving mindset.\n\n\nAbility to lead workshops and work independently",
+   "query": "SAP BRIM",
+   "id": "80ebc3ad41bad9dd",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP FICO Lead Consultant",
+   "company": "HCLTech",
+   "location": "IN",
+   "remote": false,
+   "posted_at": "2026-11-03",
+   "apply_url": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=188495&lang=en_US&source=Indeed",
+   "listing_url": "https://in.indeed.com/viewjob?jk=01e0988f7ede7f48",
+   "job_type": "",
+   "salary": "",
+   "description": "**Job Summary**\n---------------\n\n\n\nWe are seeking an experienced SAP FICO QA Test Analyst with over 8\\+ years ofexperience in SAP Finance testing, specializing in Record\\-to\\-Report (RTR) and Revenue Accountingand Reporting (RAR) processes. The ideal candidate will have strong expertise in SAP FICO functional testing, end\\-to\\-end business process validation, integration testing, defect management, and test automation support across SAP S/4HANA environments.\n\n\nExperience with SAP S/4HANA implementations, upgrades, or transformation projects.\n\n\n**Key Responsibilities**\n------------------------\n\n\n* Perform functional, integration, regression, system, and UAT testing for SAP FICO modules.\n* Validate end\\-to\\-end Record\\-to\\-Report (RTR) business processes, including:\n* + General Ledger (GL)\n\t+ Accounts Payable (AP)\n\t+ Accounts Receivable (AR)\n\t+ Asset Accounting (AA)\n\t+ Bank Accounting\n\t+ Financial Closing and Reporting\n* Test and validate SAP Revenue Accounting and Reporting (RAR) processes:\n* + Revenue Recognition\n\t+ Contract Accounting\n\t+ Performance Obligations\n\t+ Revenue Posting and Adjustments\n\t+ IFRS15 / ASC606 compliance requirements\n* Develop and execute test scenarios, test cases, and test scripts based on business requirements.\n* Conduct SIT, UAT, regression, and end\\-to\\-end testing across SAP and integrated applications.\n* Analyze business requirements, functional specifications, and technical design documents.\n* Identify, document, and track defects using tools such as JIRA, HP ALM, or Azure DevOps.\n* Collaborate closely with Business Analysts, Functional Consultants, Developers, and Business Users.\n* Support release management, deployment validation, and post\\-production testing.\n* Participate in requirement workshops and provide quality assurance recommendations.\n\n\n**Skill Requirements**\n----------------------\n\n\nSAP Functional Expertise in SAP FI/CO testing, S/4 Hana Finance\n\n* Testing Expertise inFunctional Testing, Integration Testing, Regression Testing etc.\n\n**Required knowledge on the below Tools**\n\n* JIRA\n* HP ALM / Quality Center\n* Azure DevOps\n* SAP Solution Manager\n* Excel and Reporting Tools\n\n**Preferred Qualifications**\n\n* Experience with SAP S/4HANA implementations, upgrades, or transformation projects.\n* Knowledge of IFRS15 and ASC606 revenue recognition standards.\n* Experience testing integrations with SAP FI with SD OTC etc.\n* Exposure to SAP Test Automation tools (Tricentis Tosca, Worksoft, CBTA, etc.).\n* SAP Certification in FICO or S/4HANA Finance is preferred.\n\n\n**Must Have Skill**\n-------------------\n\n\nSAP Finance and Costing\n**Good to Have Skill**\n----------------------\n\n\nSAP FICO Testing,SAP Upgrade \\& Migration Strategy,SAP S/4HANA Financial Accounting,SAP S/4HANA for central finance\n**Other Requirements**\n----------------------\n\n\n\n**Education**\n\n* Bachelor's Degree in Finance, Accounting, Computer Science, Information Technology, or related field.\n\n**Key Competencies**\n\n* Strong analytical and problem\\-solving skills.\n* Excellent stakeholder management and communication skills.\n* Ability to work independently in global delivery environments.\n* Strong understanding of financial business processes and controls.\n* Experience in Agile and Waterfall project delivery models.\n\n**Nice to Have**\n\n* SAP BRIM Testing experience.\n* SAP Central Finance (CFIN) exposure.\n* SAP Group Reporting testing experience.\n\n\nAutomation testing experience with SAP environments.",
+   "query": "SAP BRIM",
+   "id": "e9af19c6097cab78",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP ISU Senior Consultant",
+   "company": "Deloitte",
+   "location": "Chennai, Tamil Nadu, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4486006916",
+   "listing_url": "https://www.linkedin.com/jobs/view/4486006916",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Summary**\n**Position Summary**\n**Enterprise Performance**\n Our Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to support the delivery of holistic performance improvement and digital transformation. We support Deloitte client service teams of strategic advisors and architects, differentiated by our industry depth to help collaborate with leading insights providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable the heart of business solutions\n   \n\n  \n\n**Position Summary**\n**Level: SAP ISU Senior Consultant**\n As an experienced Senior Consultant at Deloitte Consulting, you will be responsible for individually delivering high quality work products within due timelines. Need\\-basis you will be mentoring and/or directing junior team members/liaising with onsite/offshore teams to understand the functional requirements.\n   \n\n  \n\n**Work you’ll do:**\n SAP ISU Sr Consultant at Deloitte is responsible for ensuring quality solutions are provided to our clients which not only solve the problem at hand but also have longevity and can be easily maintained. Few of the key areas a Utilities consultant is involved in are mentioned below:\n   \n\n  \n\n* Conduct As\\-Is and To\\-Be business process workshops while working on implementation project\n* Map Business Processes to SAP\n* Configure SAP to reflect the business requirements.\n* Write Functional Specification / Configuration documents.\n* Exhibit effective communication while working with cross\\-functional and technical teams\n\n\n**The Team:**\n Deloitte’s SAP Service Line is among the world’s largest, with 8,000 global practitioners and over 1,700 SAP implementation projects completed. More than half our consultants have 10\\+ years of experience, and Deloitte has been an SAP Global Partner — Services since 1989\\. We offer a full range of SAP services, from business case development to deployment, supported by nine solution centers and proprietary accelerators that enhance project delivery. Our CMMI Level 5 and SAS 70\\-certified practice covers S4 Hana, CRM, NetWeaver, BO, Development, BASIS \\& Infrastructure, and serves all functional areas and industry sectors.\n   \n\n  \n\n**Qualifications:**\n**Must have Skills:**\n* 6\\-12 years of industry experience and Process Know\\-how in the Utilities Industry: Power, Gas and Water\n* Must of knowledge in one of the following functional areas:\n* IS\\-U Rates and Billing\n* IS\\-U Device Management\n* Contract Accounting (FI\\-CA)\n* IS\\-U Energy Data Management\n* CRM for Utilities\n* Mobile Solutions and AMI (desirable)\n* Strong experience on the SAP ERP (desirable)\n* Worked on implementation project of the most recent version\n* Should have run Blueprint Workshop and should be able to map Business Processes to SAP\n\n\n**Good to have Skills:**\n* Experience in SAP FICA\n\n\n**Education:**\n* BE/B.Tech/M.C.A./M.Sc (CS) degree or equivalent from accredited university\n\n\n**Location:**\n* Bengaluru/Hyderabad/Pune/Chennai\n\n\n \\#CSReferral\\-FY26\n   \n\n  \n\n**\\#FY27SAPSr.ConsultantHiring**\n**Our purpose**\n Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities.\n   \n\n  \n\n**Our people and culture**\n Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas and perspectives, and bring more creativity and innovation to help solve our clients’ most complex challenges. This makes Deloitte one of the most rewarding places to work.\n   \n\n  \n\n**Professional development**\n At Deloitte, professionals have the opportunity to work with some of the best and discover what works best for them. Here, we prioritize professional growth, offering diverse learning and networking opportunities to help accelerate careers and enhance leadership skills. Our state\\-of\\-the\\-art DU: The Leadership Center in India, located in Hyderabad, represents a tangible symbol of our commitment to the holistic growth and development of our people. Explore DU: The Leadership Center in India .\n   \n\n  \n\n**Benefits To Help You Thrive**\n At Deloitte, we know that great people make a great organization. Our comprehensive rewards program helps us deliver a distinctly Deloitte experience that helps that empowers our professionals to thrive mentally, physically, and financially—and live their purpose. To support our professionals and their loved ones, we offer a broad range of benefits. Eligibility requirements may be based on role, tenure, type of employment and/ or other criteria. Learn more about what working at Deloitte can mean for you.\n   \n\n  \n\n**Recruiting tips**\n From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters.\n   \n\n  \n\n Requisition code: 351804",
+   "query": "SAP Convergent Charging",
+   "id": "4b7d50e645c352b9",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP IS-U Billing Senior Consultant",
+   "company": "Deloitte",
+   "location": "Multiple (3): Miami, FL, New Orleans, LA, Omaha, NE",
+   "remote": false,
+   "posted_at": "2026-10-31",
+   "apply_url": "https://www.linkedin.com/jobs/view/4485656248",
+   "listing_url": "https://www.linkedin.com/jobs/view/4485656248",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced\n **SAP IS\\-U Billing Senior Consultant,** \n you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Talent Model. Project Talent Model (PTM) is a talent model that is tailored specifically for long\\-term, onsite client service delivery.\n   \n\n  \n\n**Work You'll Do/Responsibilities**\n As a Senior Consultant at Deloitte, you will work within an engagement team and be responsible for supporting the overall project goals and objectives. In this role, you will interact with stakeholders and cross\\-functional teams. It is expected that you will be able to perform independent tasks as well as provide technical guidance to team members, as needed.\n   \n\n  \n\n* Provide strategic and in\\-depth research, analysis, and recommendations related to Customer Service business processes, operational performance, and continuous improvement initiatives.\n* Serve as a subject matter expert (SME) for Billing processes and transactions, exception management, and regulatory and operational support.\n* Act as a liaison between the business area and technical support organizations to ensure business needs are properly documented and translated into technical requirements.\n* Support business process analysis, procedure development, workflow optimization, issue resolution, testing, validation, and implementation of operational improvements.\n* Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management.\n\n\n**The Team**\n Our Deloitte Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to deliver holistic performance improvement and digital transformation. Join our team of strategic advisers and architects, differentiated by our industry depth to collaborate with leading solution providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable heart\\-of\\-the\\-business solutions.\n   \n\n  \n\n Enterprise Operations as a Service provides multi\\-year managed service contracts to support enterprise technology investments and key business processes. We ensure continuous modernization and transformative business changes through five key services: SAP Operations, Oracle Operations, IT Operations, Supply Chain Operations, and Finance Operations. Our mission is to help businesses thrive by maintaining their essential operations and enabling growth.\n   \n\n  \n\n**Qualifications**\n**Required**\n* 5\\+ years of SAP IS\\-U Billing experience\n* Experience in utility Customer Service operations, SAP utility system processes, query and reporting tools, and data analysis.\n* Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience\n* Limited immigration sponsorship may be available.\n* Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve\n\n\n**Preferred**\n* Analytical/ Decision Making Responsibilities\n* Analytical ability to manage multiple projects and prioritize tasks into manageable work products\n* Can operate independently or with minimum supervision\n* Excellent Written and Communication Skills\n* Ability to deliver technical demonstrations\n\n\n The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $115,000 to $155,000\\.\n   \n\n  \n\n You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.",
+   "query": "SAP BRIM",
+   "id": "7a49fde4ad354f0c",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "locations": [
+    "Miami, FL",
+    "New Orleans, LA",
+    "Omaha, NE"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP BRIM Consultant",
+   "company": "Deloitte",
+   "location": "Multiple (5): KA, IN, Pune Division, Maharashtra, India, Bengaluru, Karnataka, India, Chennai, Tamil Nadu, India …",
+   "remote": false,
+   "posted_at": "2026-11-03",
+   "apply_url": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-FY27-Consulting-EP-SAP-BRIM-Consultant/351238",
+   "listing_url": "https://in.indeed.com/viewjob?jk=fe8c4ac3d595d9f3",
+   "job_type": "",
+   "salary": "",
+   "description": "**Enterprise Performance****Our Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to support the delivery of holistic performance improvement and digital transformation. We support Deloitte client service teams of strategic advisors and architects, differentiated by our industry depth to help collaborate with leading insights providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable the heart of business solutions****Position Summary****Level: SAP BRIM Consultant****As an experienced Consultant at Deloitte Consulting, you will be responsible for individually delivering high quality work products within due timelines. Need\\-basis you will be mentoring and/or directing junior team members/liaising with onsite/offshore teams to understand the functional requirements.****Work you’ll do:****SAP BRIM Functional Consultant will provide expertise and knowledge ensuring Quality Solutions are provided to our clients \\& help our Deloitte SAP practice to grow. The position requires core business knowledge on Quote to Cash processes, hands on system configuration expertise of SAP BRIM (Must have specialized Skill in at least one or more of the core BRIM module (SOM/CC/CI\\-FICA), and may include team management, Experience in preparing estimates for an implementation, rollout and support engagement, experience in creating proof of concepts with BRIM etc. Consultants should be able to guide clients through the best practices through industry, help in project scoping and delivery to ensure overall project success in implementing BRIM solutions.*** **Collaborate with functional teams for issue resolution**\n* **Conduct Fit\\-Gap test between business requirements and SAP BRIM solutions.**\n* **Work on requirements definition, solution design and build, risk test, customization, testing and training.**\n* **System configuration for SOM (in S4 Hana \\& SAP CRM) or SAP CC or SAP CI\\-FICA**\n* **Work on Middleware design \\& configuration between BRIM modules, SAP \\& Non\\-SAP systems managing internal \\& external system integrations.**\n* **Support Order \\& Contract Management processes, Setting up Products, Business Partners \\& related Master/Transaction Data;**\n* **Hands\\-on Experience on configuration of CC Product Catalog items especially defining complex Price Plans**\n* **Should have knowledge on Admin tool, Cockpit etc.**\n* **Experience Configuring \\& working with Billable Item management, Consumption Item Management, CI Billing and Invoicing processes etc.**\n* **Setting up of Posting Areas as per business requirement**\n* **Set\\-up Rating and Partner Settlement functionality**\n* **CI/FICA Integration including Reconciliation Key, FICA\\-GL Transfer**\n* **Detailed knowledge of FQ\\-Events and should be able to relate it to business requirement**\n* **Knowledge on SAP CPQ / SAP Sales \\& Distribution / Mediation Zone is a plus.**\n* **Track timesheets accurately**\n* **Use project management tools as trained**\n* **Capture minutes of meetings (MOM) during technical reviews**\n* **Demonstrate strong attention to detail and commitment to quality**\n* **Work effectively within structured, process\\-driven environments**\n\n**The Team:****Deloitte’s SAP Service Line is among the world’s largest, with 8,000 global practitioners and over 1,700 SAP implementation projects completed. More than half our consultants have 10\\+ years of experience, and Deloitte has been an SAP Global Partner — Services since 1989\\. We offer a full range of SAP services, from business case development to deployment, supported by nine solution centers and proprietary accelerators that enhance project delivery. Our CMMI Level 5 and SAS 70\\-certified practice covers S4 Hana, CRM, NetWeaver, BO, Development, BASIS \\& Infrastructure, and serves all functional areas and industry sectors.****Qualifications:****Must have Skills:*** **3\\-6 Years of hands\\-on experience with SAP BRIM**\n* **Hands\\-on experience with implementation projects**\n* **Should be able to independently design new solutions and conduct workshops**\n* **Excellent analytical and problem\\-solving skills**\n* **Able to collaborate with clients and have a strong desire to excel and be committed to gaining exposure to multiple industries while further developing your career.**\n* **Technical involvement in at least one full\\-cycle implementation project**\n* **Good understanding of the Functional Processes**\n* **Experience of writing technical specification documents**\n* **Good communication skills**\n\n**Good to have Skills:*** **Experience in SAP BRIM**\n\n**Education:*** **BE/B.Tech/M.C.A./M.Sc (CS) degree or equivalent from accredited university**\n\n**Location:*** **Bengaluru/Hyderabad/Pune/Chennai**\n\n**\\#FY27EPReferralCampaign****\\#FY27SAPOPENROLES**\n======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================",
+   "query": "SAP BRIM",
+   "id": "dbd091f5980d3611",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "locations": [
+    "KA, IN",
+    "Pune Division, Maharashtra, India",
+    "Bengaluru, Karnataka, India",
+    "Chennai, Tamil Nadu, India",
+    "Hyderabad, Telangana, India"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "Manager - Tax Transformation Consulting (TTC)- SAP FICO | Vertex | ONESOURCE | Avalara | Sovos - Hyderabad/Bengaluru/Mumbai/Pune/Gurugram/Chennai/Kolkata",
+   "company": "Deloitte",
+   "location": "Gurugram, Haryana, India",
+   "remote": false,
+   "posted_at": "2026-11-02",
+   "apply_url": "https://www.linkedin.com/jobs/view/4424570077",
+   "listing_url": "https://www.linkedin.com/jobs/view/4424570077",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Summary**\n**Position Summary**\n**Manager, Tax Services** \n**– Tax Transformation Consulting (TTC) \\- SAP FICO/MM/SD integration with Direct or Indirect Tax experience**\n You will lead and support SAP\\-enabled tax transformation efforts for US\\-based clients, helping organizations improve the way tax integrates with enterprise processes and technology. As part of Deloitte Tax Services India Private Limited, this role sits at the intersection of tax, ERP, and business transformation, with a focus on direct and indirect tax integration across SAP FICO, MM, and SD. You will work with client stakeholders, lead teams, and help deliver implementation\\-driven solutions in a complex global tax environment.\n   \n\n  \n\n**Work you'll do**\n As a Manager, Tax Services on the Tax Transformation Consulting (TTC) team, you will be responsible for:\n   \n\n  \n\n* Business Development: Develop and maintain contact with top decision makers at key clients; organize and lead pursuit teams; participate and lead aspects of the proposal development process; contribute to the development of proposal pricing strategies.\n* Client Management: Manage the day\\-to\\-day interactions with executive clients and sponsors.\n* Engagement Management: Lead engagement planning and budgeting; mobilize and manage engagement teams; define deliverable structure and content; facilitate buy\\-in of proposed solutions from top management levels at the client; direct on\\-time, quality delivery of work products; manage engagement economics; and manage engagement risk.\n* Practice Development \\& Eminence: Develop practical solutions and methodologies; develop \"thought\\-ware\" and \"point\\-of\\-view\" documents; participate in public speaking events; get published in industry periodicals.\n* People Development: Perform role of counselor and coach; provide input and guidance into the staffing process; actively participate in staff recruitment and retention activities; provide leadership and support for delivery teams and staff in local offices.\n\n\n**The team**\n Deloitte’s Tax Transformation Consulting (TTC) group helps our clients’ tax departments improve their operations by developing new technology\\-enabled, cutting\\-edge methods and processes. Deloitte TTC professionals are aligned across our global network of member firms to address our clients’ objectives in a seamless fashion. Deloitte TTC teams include industry, tax, organizational change, technology, and co\\-sourcing specialists who help connect our clients’ global strategies and the options that exist to turn theory into an executable plan.\n   \n\n  \n\n TTC’s Enterprise Tax Integration (ETI) professionals provide an integrated approach to process improvement that can help the tax department maximize its strategic value to the organization. Companies that have already implemented or are considering implementing an enterprise resource planning (ERP) system often overlook the tax benefits these systems can provide or underestimate the impact on the tax department. To be most effective from a tax perspective, a successful ERP implementation requires professionals who specialize in tax and can effectively address a corporate tax function’s unique needs, requirements, and obligations. Our ETI team, the largest of its type, offers the necessary combination of skills, methodology and practical experience to help clients avoid the pitfalls of an ERP implementation.\n   \n\n  \n\n Tax Transformation Consulting (TTC) \\- Ever expanding regulations and increasing scrutiny on multinational corporations has made it necessary for leading\\-edge tax departments to serve a critical role in the risk management and overall performance of the enterprise. This has resulted in an opportunity for Deloitte to provide even greater value through our tax services, in helping develop tax departments of the future that are strategic, agile, and, above all, focused on creating value for the business.\n   \n\n  \n\n Deloitte's TTC group helps our clients’ tax department move forward from their current state to the next generation of tax functions and is dedicated to finding new methods and processes to assist clients in improving their tax operations. Deloitte Tax LLP professionals are aligned worldwide to serve our clients’ needs through the TTC group. Deloitte TTC teams include industry, tax, organizational change, technology, and co\\-sourcing specialists who can help make the necessary connections between our clients’ global strategies and the many options for carrying them out in the tax function.\n   \n\n  \n\n**Location: Bengaluru, Chennai, Gurugram, Hyderabad, Kolkata, Mumbai, Pune**\n**Qualifications**\n Required:\n   \n\n  \n\n* 8 to 15\\+ years of total experience.\n* 5\\+ years of Implementation experience in SAP ECC 6\\.0 \\& S4 HANA with focus on Tax integration with SAP FICO/MM/SD integration with direct or indirect tax experience.\n* Experience with tax technology applications i.e., ONESOURCE /Global NEXT Integration, Vertex/Accelerator \\& Chain flow Accelerator Integration, Avalara, Sovos.\n* Expert in Direct and Indirect Tax configuration, Withholding Taxes, local country indirect tax localizations, VAT customizations and Reporting.\n* Experience with User Exits, preparing functional specifications, executing test cycles, cutovers, go\\-live and Hypercare, providing user training and documentation.\n* Expert in cross functional integration of modules \\- SD\\-FI \\& MM\\-FI\n* Strong analytical skills in business process design and requirements preparation\n\n\n Preferred:\n   \n\n  \n\n* SAP MM or SD (ECC or S4 HANA) Certified\n* SAP DRC, Central Finance with Tax integration, Transfer Pricing, BRIM\n* Experience with New GL, Accounts Receivable, Accounts Payable, Intercompany, Materials Management, Logistics Invoice Verification, Asset Accounting implementation.\n* Experience with Ariba, Coupa, Hybris, Open Text, Read soft Integration with ERP.\n\n\n \\#SAPFICO\\-TTC\n   \n\n  \n\n**Our purpose**\n Deloitte’s purpose is to make an impact that matters for our people, cl",
+   "query": "SAP Convergent Invoicing",
+   "id": "697b5dcd4dc4c80d",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "Manager - SAP RAR",
+   "company": "Deloitte",
+   "location": "Detroit, MI, US",
+   "remote": false,
+   "posted_at": "2026-10-31",
+   "apply_url": "https://deloitteus.avature.net/careers/InviteToApply?jobId=373519",
+   "listing_url": "https://www.indeed.com/viewjob?jk=d8d26ef0c34242e5",
+   "job_type": "fulltime",
+   "salary": "134500.0 265100.0 USD yearly",
+   "description": "Join Deloitte's SAP practice and build a career at the forefront of business transformation, where innovation, industry insight, and leading technology come together to solve complex challenges. You'll work with dynamic teams and leading organizations to modernize core processes, enable digital transformation, and help clients unlock lasting value through SAP\\-enabled solutions.  \n\n  \n\nRecruiting for this role ends on 1/15/2027\\.  \n\n  \n\n**Work you'll do**  \n\n  \n\nAs a Manager on the SAP team, you will support clients across the solution lifecycle, from business process assessment through design, build, testing, deployment, and post\\-go\\-live activities.\n  \n\n* Lead SAP Revenue Accounting and Reporting (RAR) design and delivery on SAP S/4HANA programs, from fit\\-gap assessment through build, testing, cutover, and stabilization.\n* Own solution design for ASC 606 and IFRS 15, including performance obligation determination, standalone selling price (SSP) allocation, variable consideration, contract modifications, and contract combinations.\n* Assess and design solutions for complex revenue scenarios, including cross\\-company contracts, percentage\\-of\\-completion, multi\\-element arrangements, and in\\-flight contract migration; support OCM capabilities and migration from CCM to OCM; and support integration between SD\\-RAR and SOM\\-RAR.\n* Lead functional design and oversee configuration, data migration, testing, defect management, cutover, deployment, hypercare, and change adoption.\n* Design RAR integrations with BRIM, Sales and Distribution (SD) and billing, Project Systems, configure\\-price\\-quote (CPQ) platforms, Universal Journal, and reporting and analytics; apply SAP BRF\\+ and other SAP capabilities to support rules\\-based determination and address solution gaps through Clean Core\\-aligned options, including Business Technology Platform (BTP) extensions, hybrid approaches, and controlled custom development.\n* Advise client stakeholders on RAR design decisions and their business or compliance implications; contribute to proposals, client presentations, and key design\\-decision documentation; and mentor and review team members' work while supporting quality, knowledge transfer, stakeholder communications, and training.\n\n  \n\nA successful candidate would possess these skills:\n  \n\n* Ability to work independently and collaborate as part of a team\n* Effective written and verbal communication skills\n* Meticulous attention to detail and quality of work product\n* Ability to build and sustain professional relationships\n* Ability to lead projects or workstreams\n* Ability to manage and prioritize multiple tasks in a fast\\-paced and dynamic environment\n* Strong interpersonal skills and professional demeanor\n* Ability to meet deadlines\n* Ability to mentor and provide clear guidance to others\n\n  \n\n**The team**  \n\n  \n\nDeloitte's SAP practice helps clients design, implement, and sustain SAP\\-enabled transformations across core business functions. Our teams combine industry knowledge, functional experience, and technology capabilities to support first\\-time implementations, business\\-led enhancements, and large\\-scale SAP S/4HANA programs.  \n\n  \n\nProfessionals in the practice work with leading organizations across industries to modernize operations, improve process performance, and unlock value through cloud, automation, analytics, artificial intelligence, and machine learning.  \n\n  \n\n**Qualifications**  \n\n  \n\n**Required**  \n\n* Bachelor's degree, or Associate's degree plus 10\\+ years of experience in SAP, ERP, or consulting\n* 8\\+ years of SAP consulting experience supporting solution design and end\\-to\\-end delivery in a consulting firm, industry environment, or both\n* 4\\+ years of SAP Revenue Accounting and Reporting (RAR) experience, including solution design and hands\\-on configuration supporting ASC 606 or IFRS 15 requirements\n* Experience delivering at least 2 full\\-lifecycle SAP RAR implementations or migrations, with a primary delivery or workstream leadership role on at least 1; at least 1 must be on SAP S/4HANA\n* Experience designing a solution for at least 1 of the following revenue scenarios: cross\\-company contract combinations, percentage\\-of\\-completion, or multi\\-element SSP allocation\n* Experience presenting SAP RAR design decisions to client stakeholders\n* Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve\n\n  \n\n**Preferred**  \n\n* 2\\+ years of client service delivery experience in a consulting or professional services firm supporting transformation engagements\n* SAP certification in S/4HANA Finance, RAR, or Billing and Revenue Innovation Management (BRIM), or a CPA or CA credential.\n* Experience with BRF\\+ for rules\\-based determination (POB, SSP) and moving custom ECC logic to Clean Core\\-compliant designs.\n* Experience with in\\-flight contract migration, opening\\-balance reconciliation, and SOX / audit trail design.\n* Experience with pre\\-sales and orals, including proposal contributions.\n* Experience evaluating or applying SAP Business AI or Joule use cases involving contract and performance obligation interpretation, AI\\-assisted standalone selling price estimation, ABAP remediation, or continuous controls monitoring , including documentation of human\\-review considerations.\n\n  \n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current r",
+   "query": "SAP BRIM",
+   "id": "4fdc6bbea8fe234f",
+   "region": "US",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "Manager - SAP RAR",
+   "company": "Deloitte",
+   "location": "Houston, TX, US",
+   "remote": false,
+   "posted_at": "2026-10-31",
+   "apply_url": "https://deloitteus.avature.net/careers/InviteToApply?jobId=373519",
+   "listing_url": "https://www.indeed.com/viewjob?jk=a2e5ffdd927d54f6",
+   "job_type": "fulltime",
+   "salary": "134500.0 265100.0 USD yearly",
+   "description": "Join Deloitte's SAP practice and build a career at the forefront of business transformation, where innovation, industry insight, and leading technology come together to solve complex challenges. You'll work with dynamic teams and leading organizations to modernize core processes, enable digital transformation, and help clients unlock lasting value through SAP\\-enabled solutions.  \n\n  \n\nRecruiting for this role ends on 1/15/2027\\.  \n\n  \n\n**Work you'll do**  \n\n  \n\nAs a Manager on the SAP team, you will support clients across the solution lifecycle, from business process assessment through design, build, testing, deployment, and post\\-go\\-live activities.\n  \n\n* Lead SAP Revenue Accounting and Reporting (RAR) design and delivery on SAP S/4HANA programs, from fit\\-gap assessment through build, testing, cutover, and stabilization.\n* Own solution design for ASC 606 and IFRS 15, including performance obligation determination, standalone selling price (SSP) allocation, variable consideration, contract modifications, and contract combinations.\n* Assess and design solutions for complex revenue scenarios, including cross\\-company contracts, percentage\\-of\\-completion, multi\\-element arrangements, and in\\-flight contract migration; support OCM capabilities and migration from CCM to OCM; and support integration between SD\\-RAR and SOM\\-RAR.\n* Lead functional design and oversee configuration, data migration, testing, defect management, cutover, deployment, hypercare, and change adoption.\n* Design RAR integrations with BRIM, Sales and Distribution (SD) and billing, Project Systems, configure\\-price\\-quote (CPQ) platforms, Universal Journal, and reporting and analytics; apply SAP BRF\\+ and other SAP capabilities to support rules\\-based determination and address solution gaps through Clean Core\\-aligned options, including Business Technology Platform (BTP) extensions, hybrid approaches, and controlled custom development.\n* Advise client stakeholders on RAR design decisions and their business or compliance implications; contribute to proposals, client presentations, and key design\\-decision documentation; and mentor and review team members' work while supporting quality, knowledge transfer, stakeholder communications, and training.\n\n  \n\nA successful candidate would possess these skills:\n  \n\n* Ability to work independently and collaborate as part of a team\n* Effective written and verbal communication skills\n* Meticulous attention to detail and quality of work product\n* Ability to build and sustain professional relationships\n* Ability to lead projects or workstreams\n* Ability to manage and prioritize multiple tasks in a fast\\-paced and dynamic environment\n* Strong interpersonal skills and professional demeanor\n* Ability to meet deadlines\n* Ability to mentor and provide clear guidance to others\n\n  \n\n**The team**  \n\n  \n\nDeloitte's SAP practice helps clients design, implement, and sustain SAP\\-enabled transformations across core business functions. Our teams combine industry knowledge, functional experience, and technology capabilities to support first\\-time implementations, business\\-led enhancements, and large\\-scale SAP S/4HANA programs.  \n\n  \n\nProfessionals in the practice work with leading organizations across industries to modernize operations, improve process performance, and unlock value through cloud, automation, analytics, artificial intelligence, and machine learning.  \n\n  \n\n**Qualifications**  \n\n  \n\n**Required**  \n\n* Bachelor's degree, or Associate's degree plus 10\\+ years of experience in SAP, ERP, or consulting\n* 8\\+ years of SAP consulting experience supporting solution design and end\\-to\\-end delivery in a consulting firm, industry environment, or both\n* 4\\+ years of SAP Revenue Accounting and Reporting (RAR) experience, including solution design and hands\\-on configuration supporting ASC 606 or IFRS 15 requirements\n* Experience delivering at least 2 full\\-lifecycle SAP RAR implementations or migrations, with a primary delivery or workstream leadership role on at least 1; at least 1 must be on SAP S/4HANA\n* Experience designing a solution for at least 1 of the following revenue scenarios: cross\\-company contract combinations, percentage\\-of\\-completion, or multi\\-element SSP allocation\n* Experience presenting SAP RAR design decisions to client stakeholders\n* Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve\n\n  \n\n**Preferred**  \n\n* 2\\+ years of client service delivery experience in a consulting or professional services firm supporting transformation engagements\n* SAP certification in S/4HANA Finance, RAR, or Billing and Revenue Innovation Management (BRIM), or a CPA or CA credential.\n* Experience with BRF\\+ for rules\\-based determination (POB, SSP) and moving custom ECC logic to Clean Core\\-compliant designs.\n* Experience with in\\-flight contract migration, opening\\-balance reconciliation, and SOX / audit trail design.\n* Experience with pre\\-sales and orals, including proposal contributions.\n* Experience evaluating or applying SAP Business AI or Joule use cases involving contract and performance obligation interpretation, AI\\-assisted standalone selling price estimation, ABAP remediation, or continuous controls monitoring , including documentation of human\\-review considerations.\n\n  \n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current r",
+   "query": "SAP BRIM SAP",
+   "id": "ce2cab7b9800b2ed",
+   "region": "US",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Convergent Charging Functional Consultant",
+   "company": "Arohana Tech Solutions Private Limited",
+   "location": "",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4486029149",
+   "listing_url": "https://www.linkedin.com/jobs/view/4486029149",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Job Description**\n We are looking for an experienced SAP Convergent Charging (CC) Functional Consultant with hands\\-on experience in implementing, configuring, and developing objects in SAP Convergent Charging. The ideal candidate should have strong knowledge of SAP CC functionalities, charging processes, and integration with SAP BRIM solutions.\n   \n\n  \n\n Key Responsibilities\n   \n\n  \n\n* Implement and configure SAP Convergent Charging solutions based on business requirements.\n* Develop and maintain SAP CC objects, including charge plans, charging plans, pricing plans, and mapping tables.\n* Configure charging, pricing, and rating processes.\n* Work on recurring, one\\-time, and usage\\-based charging scenarios.\n* Support integration of SAP CC with SAP Convergent Invoicing (CI) and SAP SOM.\n* Perform functional testing, troubleshooting, and issue resolution.\n* Collaborate with technical and functional teams for implementation and deployment.\n\n\n Mandatory Skills\n   \n\n  \n\n* Hands\\-on experience in SAP Convergent Charging (SAP CC).\n* Experience in implementing and developing objects in SAP CC.\n* Strong knowledge of charging and rating processes.\n* Experience with charge plans, pricing plans, and mapping tables.\n* Understanding of SAP BRIM processes and integration.\n\n\n**Preferred Skills**\n* Experience in SAP Convergent Invoicing (CI) and SAP SOM.\n* Knowledge of subscription\\-based and usage\\-based billing.\n* Experience in SAP BRIM implementation projects.\n\n\n Skills: convergent charging,sap som,charging,charging plans,convergent,sap cc,sap brim",
+   "query": "SAP BRIM",
+   "id": "cbab8328080726b1",
+   "region": "Other",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-04",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Manager",
+   "company": "Anlage Digital",
+   "location": "Bengaluru, Karnataka, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4439799146",
+   "listing_url": "https://www.linkedin.com/jobs/view/4439799146",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "* Experience\\- 7\\- 15 yrs\n* **Hiring Locations:** \n Hyderabad, Bengaluru, Pune\n* **Project Type:** \n Implementation projects\n* **Education:** \n B.Sc/B.Com/B.Tech/BE/ME/M.Tech/MBAs or M.Com/CA/PGDM\\- No Diploma ITI Candidates\n* **Interview Date:** \n Weekday’s (Virtual interviews)\n* work Mode\\- Hybrid\\- 2\\-3 days work from office\n\n\n\n  \n\n\n\n\n\n Looking for below skills\n \n\n\n\n SAP FICA\\- Brim with implementation experience\n \n\n\n\n SAP FICO\\- R2R\\- (record to record) with implementation experience",
+   "query": "SAP FI-CA",
+   "id": "89d13e03f363c36a",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-04",
    "repost_count": 0
   },
   {
@@ -55,7 +287,7 @@
    "company": "Innovatech Staffing",
    "location": "",
    "remote": true,
-   "posted_at": "",
+   "posted_at": "2026-11-02",
    "apply_url": "https://www.linkedin.com/jobs/view/4481382281",
    "listing_url": "https://www.linkedin.com/jobs/view/4481382281",
    "job_type": "contract",
@@ -91,97 +323,11 @@
    "repost_count": 0
   },
   {
-   "title": "SAP IS-U Billing Consultant",
-   "company": "Deloitte",
-   "location": "Multiple (19): Miami, FL, , Chicago, IL, Milwaukee, WI …",
-   "remote": false,
-   "posted_at": "2026-10-31",
-   "apply_url": "https://www.linkedin.com/jobs/view/4485647803",
-   "listing_url": "https://www.linkedin.com/jobs/view/4485647803",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced\n **SAP IS\\-U Billing Consultant,** \n you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Talent Model. Project Talent Model (PTM) is a talent model that is tailored specifically for long\\-term, onsite client service delivery.\n   \n\n  \n\n**Work You'll Do/Responsibilities**\n As a Consultant at Deloitte, you will work within an engagement team and be responsible for supporting the overall project goals and objectives. In this role, you will interact with stakeholders and cross\\-functional teams. It is expected that you will be able to perform independent tasks as well as provide technical guidance to team members, as needed.\n   \n\n  \n\n* Assist in implementing solutions and/or Billing Configuration changes to meet new as well as ongoing requirements from Billing, Bill Printing, Pricing, and Rate \\& Regulatory departments.\n* Act as liaison and communicate effectively with business users, vendors, and IT to resolve systems/application needs and issues.\n* Assist in assessing impacts of any application or system changes on business operations and other applications and systems.\n* Anticipates business/regulatory needs \\& develops standards, process improvements and documentation for billing solutions.\n* Promotes a customer service focus when approaching assigned projects and billing system trouble shooting.\n* Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management.\n\n\n**The Team**\n Our Deloitte Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to deliver holistic performance improvement and digital transformation. Join our team of strategic advisers and architects, differentiated by our industry depth to collaborate with leading solution providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable heart\\-of\\-the\\-business solutions.\n   \n\n  \n\n Enterprise Operations as a Service provides multi\\-year managed service contracts to support enterprise technology investments and key business processes. We ensure continuous modernization and transformative business changes through five key services: SAP Operations, Oracle Operations, IT Operations, Supply Chain Operations, and Finance Operations. Our mission is to help businesses thrive by maintaining their essential operations and enabling growth.\n   \n\n  \n\n**Qualifications**\n**Required**\n* 3\\+ years of SAP IS\\-U Billing experience\n* Experience in utility Customer Service operations, SAP utility system processes, query and reporting tools, and data analysis.\n* Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience\n* Limited immigration sponsorship may be available.\n* Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve\n\n\n**Preferred**\n* Analytical/ Decision Making Responsibilities\n* Analytical ability to manage multiple projects and prioritize tasks into manageable work products\n* Can operate independently or with minimum supervision\n* Excellent Written and Communication Skills\n* Ability to deliver technical demonstrations\n\n\n The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $85,000 to $115,000\\.\n   \n\n  \n\n You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.",
-   "query": "SAP BRIM",
-   "id": "90236ab88f0666da",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "locations": [
-    "Miami, FL",
-    "",
-    "Chicago, IL",
-    "Milwaukee, WI",
-    "Jersey City, NJ",
-    "Hartford, CT",
-    "Boston, MA",
-    "Stamford, CT",
-    "Jericho, NY",
-    "Detroit, MI",
-    "Dayton, OH",
-    "Lake Mary, FL",
-    "Tampa, FL",
-    "Minneapolis, MN",
-    "Columbus, OH",
-    "Williamsville, NY",
-    "Louisville, KY",
-    "Grand Rapids, MI",
-    "Cincinnati, OH"
-   ],
-   "first_seen": "2026-11-03",
-   "repost_count": 0
-  },
-  {
-   "title": "Manager - SAP RAR",
-   "company": "Deloitte",
-   "location": "Multiple (3): Detroit, MI, US, New York, NY, US, Boston, MA, US",
-   "remote": false,
-   "posted_at": "2026-10-31",
-   "apply_url": "https://deloitteus.avature.net/careers/InviteToApply?jobId=373519",
-   "listing_url": "https://www.indeed.com/viewjob?jk=d8d26ef0c34242e5",
-   "job_type": "fulltime",
-   "salary": "134500.0 265100.0 USD yearly",
-   "description": "Join Deloitte's SAP practice and build a career at the forefront of business transformation, where innovation, industry insight, and leading technology come together to solve complex challenges. You'll work with dynamic teams and leading organizations to modernize core processes, enable digital transformation, and help clients unlock lasting value through SAP\\-enabled solutions.  \n\n  \n\nRecruiting for this role ends on 1/15/2027\\.  \n\n  \n\n**Work you'll do**  \n\n  \n\nAs a Manager on the SAP team, you will support clients across the solution lifecycle, from business process assessment through design, build, testing, deployment, and post\\-go\\-live activities.\n  \n\n* Lead SAP Revenue Accounting and Reporting (RAR) design and delivery on SAP S/4HANA programs, from fit\\-gap assessment through build, testing, cutover, and stabilization.\n* Own solution design for ASC 606 and IFRS 15, including performance obligation determination, standalone selling price (SSP) allocation, variable consideration, contract modifications, and contract combinations.\n* Assess and design solutions for complex revenue scenarios, including cross\\-company contracts, percentage\\-of\\-completion, multi\\-element arrangements, and in\\-flight contract migration; support OCM capabilities and migration from CCM to OCM; and support integration between SD\\-RAR and SOM\\-RAR.\n* Lead functional design and oversee configuration, data migration, testing, defect management, cutover, deployment, hypercare, and change adoption.\n* Design RAR integrations with BRIM, Sales and Distribution (SD) and billing, Project Systems, configure\\-price\\-quote (CPQ) platforms, Universal Journal, and reporting and analytics; apply SAP BRF\\+ and other SAP capabilities to support rules\\-based determination and address solution gaps through Clean Core\\-aligned options, including Business Technology Platform (BTP) extensions, hybrid approaches, and controlled custom development.\n* Advise client stakeholders on RAR design decisions and their business or compliance implications; contribute to proposals, client presentations, and key design\\-decision documentation; and mentor and review team members' work while supporting quality, knowledge transfer, stakeholder communications, and training.\n\n  \n\nA successful candidate would possess these skills:\n  \n\n* Ability to work independently and collaborate as part of a team\n* Effective written and verbal communication skills\n* Meticulous attention to detail and quality of work product\n* Ability to build and sustain professional relationships\n* Ability to lead projects or workstreams\n* Ability to manage and prioritize multiple tasks in a fast\\-paced and dynamic environment\n* Strong interpersonal skills and professional demeanor\n* Ability to meet deadlines\n* Ability to mentor and provide clear guidance to others\n\n  \n\n**The team**  \n\n  \n\nDeloitte's SAP practice helps clients design, implement, and sustain SAP\\-enabled transformations across core business functions. Our teams combine industry knowledge, functional experience, and technology capabilities to support first\\-time implementations, business\\-led enhancements, and large\\-scale SAP S/4HANA programs.  \n\n  \n\nProfessionals in the practice work with leading organizations across industries to modernize operations, improve process performance, and unlock value through cloud, automation, analytics, artificial intelligence, and machine learning.  \n\n  \n\n**Qualifications**  \n\n  \n\n**Required**  \n\n* Bachelor's degree, or Associate's degree plus 10\\+ years of experience in SAP, ERP, or consulting\n* 8\\+ years of SAP consulting experience supporting solution design and end\\-to\\-end delivery in a consulting firm, industry environment, or both\n* 4\\+ years of SAP Revenue Accounting and Reporting (RAR) experience, including solution design and hands\\-on configuration supporting ASC 606 or IFRS 15 requirements\n* Experience delivering at least 2 full\\-lifecycle SAP RAR implementations or migrations, with a primary delivery or workstream leadership role on at least 1; at least 1 must be on SAP S/4HANA\n* Experience designing a solution for at least 1 of the following revenue scenarios: cross\\-company contract combinations, percentage\\-of\\-completion, or multi\\-element SSP allocation\n* Experience presenting SAP RAR design decisions to client stakeholders\n* Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve\n\n  \n\n**Preferred**  \n\n* 2\\+ years of client service delivery experience in a consulting or professional services firm supporting transformation engagements\n* SAP certification in S/4HANA Finance, RAR, or Billing and Revenue Innovation Management (BRIM), or a CPA or CA credential.\n* Experience with BRF\\+ for rules\\-based determination (POB, SSP) and moving custom ECC logic to Clean Core\\-compliant designs.\n* Experience with in\\-flight contract migration, opening\\-balance reconciliation, and SOX / audit trail design.\n* Experience with pre\\-sales and orals, including proposal contributions.\n* Experience evaluating or applying SAP Business AI or Joule use cases involving contract and performance obligation interpretation, AI\\-assisted standalone selling price estimation, ABAP remediation, or continuous controls monitoring , including documentation of human\\-review considerations.\n\n  \n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current r",
-   "query": "SAP BRIM",
-   "id": "14c5029b1721dc1a",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "locations": [
-    "Detroit, MI, US",
-    "New York, NY, US",
-    "Boston, MA, US"
-   ],
-   "first_seen": "2026-11-03",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-Utilities FICA Consultant",
-   "company": "Cinntra",
-   "location": "New York, NY",
-   "remote": false,
-   "posted_at": "2026-11-01",
-   "apply_url": "https://www.linkedin.com/jobs/view/4485959442",
-   "listing_url": "https://www.linkedin.com/jobs/view/4485959442",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "**Role:** \n**SAP IS\\-Utilities FICA Consultant**\n**Location: New York \\- Onsite\n   \n\n  \n\n Duration: 24\\+ months**\n**Position Overview**\n We are seeking an experienced\n **SAP IS\\-Utilities (IS\\-U) FICA Consultant** \n with strong functional and technical understanding of utility business processes, particularly within\n **Electricity and Gas utilities** \n in New York for a 2–3\\-year engagement.\n **Consultant should expect 25% or more travel onsite**\n**Experience \\& Qualifications**\n* Minimum 8–10 years of SAP experience, with significant hands\\-on experience in SAP IS\\-U / FICA (Contract Accounts Receivable and Payable).\n* Strong experience supporting Electricity and Gas utility business processes.\n* Experience working in large\\-scale SAP IS\\-U implementations, enhancements, upgrades, and production support environments.\n\n\n**Key Responsibilities**\n* Configure, enhance, and support SAP IS\\-U FICA processes covering:\n* Contract Accounts Receivable and Payable\n* Invoicing and Posting\n* Payment Processing and Payment Lots\n* Incoming and Outgoing Payments\n* Payment Allocation and Clarification\n* Dunning and Collections\n* Installment Plans and Payment Arrangements\n* Returns and Refunds\n* Write\\-offs\n* Security Deposits\n* Interest and Charges\n* Account Maintenance and Clearing\n* Reconciliation with SAP FI/GL\n* Support end\\-to\\-end Electricity and Gas customer financial processes from billing/invoicing through\n* payment, collections, and financial reconciliation.\n* Strong understanding of integration between FICA, IS\\-U Billing \\& Invoicing, Device Management, Customer Service, and SAP Finance.\n* Experience with FICA events, posting areas, main/sub\\-transactions, clearing rules, dunning procedures, and account determination.\n* Analyze business requirements and translate them into SAP functional designs and configuration.\n* Prepare functional specifications for enhancements, interfaces, conversions, reports, and forms.\n* Work closely with ABAP, integration, billing, finance, and business teams to resolve complex issues.\n* Perform FIT/GAP analysis, solution design, configuration, unit testing, SIT, UAT, cutover, and postproduction support.\n* Troubleshoot production issues, perform root\\-cause analysis, and recommend sustainable solutions.\n* Experience handling high\\-volume utility customer transactions and mass processing.\n* Strong understanding of utility customer lifecycle and meter\\-to\\-cash processes.\n* Ability to work directly with business stakeholders, facilitate workshops, and communicate solutions effectively.\n\n\n**Preferred Qualifications**\n* Experience with SAP S/4HANA Utilities, Fiori, BPEM, BRF\\+, integration with payment processors/banks, collections agencies, and external customer platforms is highly desirable. The candidate should possess strong analytical and problem\\-solving skills, excellent communication abilities, and the capability to work independently as a Senior SAP IS\\-U FICA Functional Consultant in a complex utility environment.",
-   "query": "SAP Convergent Charging",
-   "id": "8b38f98bd2fb2ea7",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-11-03",
-   "repost_count": 0
-  },
-  {
    "title": "SAP BRIM Functional",
    "company": "Altraize",
    "location": "",
    "remote": false,
-   "posted_at": "",
+   "posted_at": "2026-11-02",
    "apply_url": "https://www.linkedin.com/jobs/view/4485471056",
    "listing_url": "https://www.linkedin.com/jobs/view/4485471056",
    "job_type": "fulltime",
@@ -215,64 +361,9 @@
    ],
    "first_seen": "2026-10-31",
    "repost_count": 0
-  },
-  {
-   "title": "SAP FICA Enterprise Application Consultant",
-   "company": "Infosys",
-   "location": "US",
-   "remote": false,
-   "posted_at": "2026-10-30",
-   "apply_url": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155520BR?Codes=Indeed",
-   "listing_url": "https://www.indeed.com/viewjob?jk=2e902d6f8fc9d04b",
-   "job_type": "",
-   "salary": "116700.0 150000.0 USD yearly",
-   "description": "Infosys is seeking an SAP FICA Enterprise Application Consultant\n  \n\n  \n\nAs an SAP FICA Enterprise Application consultant, you will be a key player in the consulting team that helps discover and define the problem statement, evaluates the solution options, and makes recommendations. You will plan the activities of configuration, configure the product as per the design, conduct conference room pilots and will assist in resolving any queries related to requirements and solution design. You will conduct solution/product demonstrations, POC/Proof of Technology workshops and prepare effort estimates which suit the customer budgetary requirements and are in line with organization’s financial guidelines. You will also support knowledge transfer with the objective of providing value\\-adding consulting solutions that enable our clients to meet the changing needs of the global landscape.  \n\n  \n\n**Basic Qualifications**  \n\nBachelor's degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.  \n\nAt least 11 years of experience with Information Technology.  \n\nCandidates authorized to work for any employer in the United States without employer\\-based visa sponsorship are welcome to apply. Infosys is unable to provide immigration sponsorship for this role now or in the future.  \n\n  \n\n**Preferred Qualifications**  \n\nExperience in SAP CR\\&B implementation programs in at least one of the modules of ISU FICA  \n\nExperience across Electricity (preferred), or Gas or Water Utilities industries, North America  \n\nExperience of at least 1 end to end lifecycle implementation activities including:  \n\nRequirement gathering  \n\nBusiness process design  \n\nSAP configuration  \n\nRICEFW Functional design  \n\nSystems and Integration Testing  \n\nResolving production issues  \n\nExperience in setup of Org Structure, GL setup \\& Integration  \n\nExperience in Cash journal, Clearing Control, Account Assignment and Setup of Direct Debit Payments.  \n\nStrong Understanding of Dunning Process, Collection, Installment Plan.  \n\nSetup of Main \\& Sub transaction Experience in analyzing issue in Billing \\& Invoicing process.  \n\nGood Experience in Invoice Layout \\& Bill Print.  \n\n  \n\nThis job may entail extensive travel. The job may also entail sitting as well as working at a computer for extended periods of time. Candidates should be able to effectively communicate by telephone, email or face to face.\n  \n\n  \n\nEstimated annual compensation range for this role will be as follows:\n  \n\nIn CA, WA, NY, CO, MD, IL, MN, NJ : $116700 to $150000",
-   "query": "SAP FICA",
-   "id": "fdffa4d3051986c6",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-10-31",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U Billing Senior Consultant",
-   "company": "Deloitte",
-   "location": "Omaha, NE",
-   "remote": false,
-   "posted_at": "2026-10-31",
-   "apply_url": "https://www.linkedin.com/jobs/view/4485660122",
-   "listing_url": "https://www.linkedin.com/jobs/view/4485660122",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced\n **SAP IS\\-U Billing Senior Consultant,** \n you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Talent Model. Project Talent Model (PTM) is a talent model that is tailored specifically for long\\-term, onsite client service delivery.\n   \n\n  \n\n**Work You'll Do/Responsibilities**\n As a Senior Consultant at Deloitte, you will work within an engagement team and be responsible for supporting the overall project goals and objectives. In this role, you will interact with stakeholders and cross\\-functional teams. It is expected that you will be able to perform independent tasks as well as provide technical guidance to team members, as needed.\n   \n\n  \n\n* Provide strategic and in\\-depth research, analysis, and recommendations related to Customer Service business processes, operational performance, and continuous improvement initiatives.\n* Serve as a subject matter expert (SME) for Billing processes and transactions, exception management, and regulatory and operational support.\n* Act as a liaison between the business area and technical support organizations to ensure business needs are properly documented and translated into technical requirements.\n* Support business process analysis, procedure development, workflow optimization, issue resolution, testing, validation, and implementation of operational improvements.\n* Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management.\n\n\n**The Team**\n Our Deloitte Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to deliver holistic performance improvement and digital transformation. Join our team of strategic advisers and architects, differentiated by our industry depth to collaborate with leading solution providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable heart\\-of\\-the\\-business solutions.\n   \n\n  \n\n Enterprise Operations as a Service provides multi\\-year managed service contracts to support enterprise technology investments and key business processes. We ensure continuous modernization and transformative business changes through five key services: SAP Operations, Oracle Operations, IT Operations, Supply Chain Operations, and Finance Operations. Our mission is to help businesses thrive by maintaining their essential operations and enabling growth.\n   \n\n  \n\n**Qualifications**\n**Required**\n* 5\\+ years of SAP IS\\-U Billing experience\n* Experience in utility Customer Service operations, SAP utility system processes, query and reporting tools, and data analysis.\n* Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience\n* Limited immigration sponsorship may be available.\n* Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve\n\n\n**Preferred**\n* Analytical/ Decision Making Responsibilities\n* Analytical ability to manage multiple projects and prioritize tasks into manageable work products\n* Can operate independently or with minimum supervision\n* Excellent Written and Communication Skills\n* Ability to deliver technical demonstrations\n\n\n The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $115,000 to $155,000\\.\n   \n\n  \n\n You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.",
-   "query": "SAP Hybris Billing",
-   "id": "4b58fede9bb9fcd2",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-10-31",
-   "repost_count": 0
   }
  ],
- "expired": [
-  {
-   "id": "fe6ea6a9491dcc8f",
-   "company": "Hewlett Packard Enterprise | HPE",
-   "title": "Managed Services Linux & SAP SME",
-   "location": "KA, IN",
-   "gone": "2026-11-03"
-  },
-  {
-   "id": "88bfe7ba2b7a11ac",
-   "company": "Elfonze Technologies",
-   "title": "SAP Convergent Mediation (CM) Consultant",
-   "location": "Remote, IN",
-   "gone": "2026-11-03"
-  }
- ],
+ "expired": [],
  "reposts": [
   {
    "id": "823f524a0d1fb5f0",
@@ -680,6 +771,12 @@
    "id": "4ebe9282164476c2",
    "company": "Cognizant",
    "title": "SAP ISU FICA Consultant",
+   "reposts": 1
+  },
+  {
+   "id": "9dde42f82abd9fa5",
+   "company": "Omnicell",
+   "title": "SAP RAR & BRIM Business Analyst",
    "reposts": 1
   }
  ]
