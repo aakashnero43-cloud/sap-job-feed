@@ -1,15 +1,229 @@
 {
- "generated_at": "2026-11-10T03:07:39+00:00",
+ "generated_at": "2026-11-11T00:59:29+00:00",
  "window_days": 4,
  "counts": {
-  "raw": 384,
-  "relevant": 21,
-  "new_today": 6,
-  "emitted": 11,
+  "raw": 387,
+  "relevant": 22,
+  "new_today": 10,
+  "emitted": 13,
   "expired_today": 0,
   "liveness_checked": 60
  },
  "jobs": [
+  {
+   "title": "SAP ABAP Developer",
+   "company": "Visdinsolution",
+   "location": "Remote, IN",
+   "remote": true,
+   "posted_at": "2026-11-10",
+   "apply_url": "http://in.indeed.com/job/sap-abap-developer-99d6dd32d3f8e9af",
+   "listing_url": "https://in.indeed.com/viewjob?jk=99d6dd32d3f8e9af",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**SAP ABAP Developer**\n\nWe are looking for experienced **SAP ABAP Senior Developers** with strong technical expertise in SAP ABAP, SAP HANA, RICEFW, and SAP BRIM/FSCM to join our team.\n\n**Location:** Pune / Remote\n\n**Experience:** 7\\+ Years\n\n**Joining:** Immediate Joiners Preferred\n\n**Mandatory Skills:**\n\n1\\. Strong hands\\-on experience in **SAP ABAP Development**.\n\n2\\. Good expertise in **SAP HANA**, including CDS Views and AMDP.\n\n3\\. Extensive experience in **RICEFW Objects** – Reports, Interfaces, Conversions, Enhancements, Forms and Workflows.\n\n4\\. Hands\\-on experience in **SAP BRIM / FSCM**.\n\n5\\. Experience in developing, enhancing and supporting complex SAP applications.\n\n6\\. Knowledge of SAP integrations, debugging, performance optimization and troubleshooting.\n\n**Key Responsibilities:**\n\n1\\. Design, develop and implement SAP ABAP technical solutions.\n\n2\\. Work on custom developments, enhancements and RICEFW objects.\n\n3\\. Develop and optimize applications using SAP HANA technologies.\n\n4\\. Handle SAP BRIM/FSCM\\-related technical requirements and integrations.\n\n5\\. Collaborate with functional and technical teams to deliver quality solutions.\n\n**Interested candidates can share their updated resumes at:**preethielangovan@visdinsolutions.comhr@visdinsolutions.com\n\nKnow someone who would be a good fit? Please share this opportunity with them!\n\nApplication Question(s):\n\n* Do you have experience in SAP HANA?\n* Do you have experience in SAP RICEFW?\n* Do you have experience in SAP BSIM/FSCM?\n* Do you have experience in SAP ABAP?\n* Are you an immediate joiner? what's your notice period?\n\nWork Location: Remote",
+   "query": "SAP BRIM",
+   "id": "6398109a59a3ad41",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP FICO Consultant",
+   "company": "Viraaj HR Solutions Private Limited",
+   "location": "Chennai, Tamil Nadu, India",
+   "remote": false,
+   "posted_at": "2026-11-09",
+   "apply_url": "https://www.linkedin.com/jobs/view/4487686185",
+   "listing_url": "https://www.linkedin.com/jobs/view/4487686185",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "Position Summary\n   \n\n  \n\n SAP FI Senior Consultant\n   \n\n  \n\n Are you looking for a career trajectory that few other organizations can offer in SAP? With a high\\-quality portfolio of businesses and clients, opportunities to work across capabilities, industries, and geographies in roles and on projects aligned with your SAP Finance skills, if this matches your interests and aspirations, Deloitte may be the right fit for you.\n   \n\n  \n\n Work you’ll do\n   \n\n  \n\n**Responsibilities**\n SAP FI Consultant at Deloitte is responsible for ensuring quality solutions are provided to our clients which not only solve the problem at hand but also have longevity and can be easily maintained. Few of the key areas a FI Consultant is involved in are mentioned below:\n   \n\n  \n\n Conduct As\\-Is and To\\-Be business process workshops while working on implementation project\n   \n\n  \n\n Map Business Processes to SAP\n   \n\n  \n\n Configure SAP to reflect the business requirements.\n   \n\n  \n\n Write Functional Specification / Configuration documents.\n   \n\n  \n\n Exhibit effective communication while working with cross\\-functional and technical teams\n   \n\n  \n\n**The Team**\n Deloitte’s SAP Service Line is among the world’s largest, with 8,000 global practitioners and over 1,700 SAP implementation projects completed. More than half our consultants have 10\\+ years of experience, and Deloitte has been an SAP Global Partner — Services since 1989\\. We offer a full range of SAP services, from business case development to deployment, supported by nine solution centers and proprietary accelerators that enhance project delivery. Our CMMI Level 5 and SAS 70\\-certified practice covers S4 Hana, CRM, NetWeaver, BO, Development, BASIS \\& Infrastructure, and serves all functional areas and industry sectors\n   \n\n  \n\n**Qualifications**\n Must have skills/Project Experience/Certifications:\n   \n\n  \n\n 6\\-10 years of industry experience\n   \n\n  \n\n Domain experience is required for Senior Consultant but is good to have at Consultant level\n   \n\n  \n\n GL – New GL with Segment Reporting\n   \n\n  \n\n Accounts Receivable / FSCM, Accounts Payable / Banking, Cost Center Accounting, Cost Element Accounting \\& Internal Orders, Project Systems, Investment Management, Asset Accounting, Product Costing,\n   \n\n  \n\n Worked on implementation project of the most recent version\n   \n\n  \n\n Should have run Blueprint Workshop and should be able to map Business Processes to SAP.\n   \n\n  \n\n Should have Industry Experience.\n   \n\n  \n\n**Good To Have Skills/Project Experience/Certifications**\n Cross process area experience in Product Costing, FSCM, FICA, PSCD and FSCD\n   \n\n  \n\n COPA\\- FICA, PSCD, FSCD, Cash Management, Treasury\n   \n\n  \n\n Skills: pc,s4hana,communication,papm,sap,gr,rar,crm,fico,fscm,accounting,sap fico,fas asset accounting",
+   "query": "SAP FICA",
+   "id": "c00a50c2f4817d1c",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP SD / SOM ANALYST & CONFIGURATOR",
+   "company": "VRINDA INTERNATIONAL",
+   "location": "",
+   "remote": false,
+   "posted_at": "2026-11-09",
+   "apply_url": "https://www.linkedin.com/jobs/view/4489410722",
+   "listing_url": "https://www.linkedin.com/jobs/view/4489410722",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Summary**\n We are seeking a highly skilled SAP SD / SOM Analyst \\& Configurator to join our IT Services team. In this pivotal role, you will leverage your extensive expertise in SAP BRIM, Convergent Invoicing, and S/4HANA SD Configuration to drive complex order\\-to\\-cash processes. You will play a critical part in integrating Financial Accounting with Revenue Accounting, managing contract lifecycles, and optimizing Subscription Order Management (SOM) workflows. This position is essential for ensuring the seamless execution of our subscription models and maintaining high standards of financial accuracy and operational efficiency within our enterprise landscape.\n   \n\n  \n\n**Responsibilities**\n* Design, configure, and maintain SAP S/4HANA SD modules with a specific focus on Subscription Order Management and Order\\-to\\-Cash cycles.\n* Implement and manage SAP BRIM solutions, including the setup of Convergent Invoicing and its integration with FI\\-AR and Revenue Accounting.\n* Oversee the end\\-to\\-end contract management process, ensuring alignment with business requirements and compliance standards.\n* Utilize SAP Fiori applications to enhance user experience and streamline daily operational tasks.\n* Analyze and resolve complex configuration issues related to billing, pricing, and revenue recognition within the SAP ecosystem.\n* Collaborate with cross\\-functional teams to translate business needs into technical specifications for system enhancements.\n* Conduct testing, validation, and user training to ensure smooth adoption of new configurations and processes.\n\n\n Requirements\n   \n\n  \n\n**Requirements:**\n* Possess 7 to 10 years of professional experience in SAP SD, SOM, and related financial modules.\n* Demonstrate deep proficiency in SAP BRIM, specifically regarding Convergent Invoicing (CI) and Revenue Accounting (RAR) integration.\n* Show strong command over Contract Management functionalities and Order\\-to\\-Cash (O2C) processes.\n* Have hands\\-on experience with SAP S/4HANA SD Configuration and SAP Fiori interface development.\n* Be well\\-versed in Subscription Order Management (SOM) principles and their application in modern enterprise environments.\n* Hold a competitive salary expectation aligned with the market rate of ₹25 LPA for this level of expertise.",
+   "query": "SAP BRIM",
+   "id": "0da3a67860bf6e30",
+   "region": "Other",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP BRIM",
+   "company": "VGAI Solutions",
+   "location": "Dallas, TX",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4488604949",
+   "listing_url": "https://www.linkedin.com/jobs/view/4488604949",
+   "job_type": "contract",
+   "salary": "",
+   "description": "Hi\n \n\n\n\n  \n\n\n\n\n\n Role : SAP BRIM\n \n\n\n\n Location : Dallas TX (Onsite)\n \n\n\n\n Exp : 13\\+ years\n \n\n\n\n SAP BRIM – specifically Convergent Charging, Mediation, and Invoicing; experience must include playing a techno\\-functional role in 2 or more BRIM implementation projects. The candidates much be willing to come to office daily. Years of experience – 13\\-15 years\n \n\n\n\n  \n\n\n\n\n\n Feel free to call at 4842823512",
+   "query": "SAP Hybris Billing",
+   "id": "7b321b54b6966981",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "Lead II - Enterprise Solutions - SAP ABAP Lead (ABAP & Implementation)",
+   "company": "UST",
+   "location": "KA, IN",
+   "remote": false,
+   "posted_at": "2026-11-10",
+   "apply_url": "https://usource.ripplehire.com/candidate/?token=5e5xftiMA1TyIbxQddhN&lang=en&source=INDEED&ref=INDEED#detail/job/68064",
+   "listing_url": "https://in.indeed.com/viewjob?jk=47e67d6d7a4d067f",
+   "job_type": "",
+   "salary": "",
+   "description": "**Role description**  \n\n\nSAP ABAP Technical Lead\n### **Job Description**\n\n\n\nWe are looking for an experienced **SAP ABAP Technical Lead** with **8–10 years of SAP technical experience**, including strong expertise in Core and Advanced ABAP development. The ideal candidate should have hands\\-on experience with SAP HANA, modern ABAP development, integrations, and end\\-to\\-end SAP implementations.\n\n\n### **Key Responsibilities**\n\n\n* Lead SAP technical design, development, architecture, and implementation activities.\n* Develop and enhance solutions using **Core ABAP, Advanced ABAP, SAP UI5, OOP ABAP, BAdIs, Enhancement Framework, IDocs, and interfaces**.\n* Work with **SAP HANA**, including Code\\-to\\-Data concepts, **OData, CDS Views, and AMDP**.\n* Participate in and lead multiple end\\-to\\-end SAP implementations from a technical perspective.\n* Collaborate with Solution Architects and functional teams to design scalable SAP solutions.\n* Develop and support integrations involving middleware and external systems.\n* Work with **APIs, SOAP/REST web services, and interface technologies**.\n* Support continuous improvement of development processes, technical standards, and delivery efficiency.\n* Collaborate effectively with business, functional, and technical stakeholders.\n* Work within **Agile SAP development environments**.\n\n### **Required Skills**\n\n\n* **Core \\& Advanced SAP ABAP**\n* **SAP HANA / ABAP on HANA**\n* **SAP NetWeaver**\n* **SAP UI5**\n* **OData**\n* **CDS Views**\n* **AMDP**\n* **OOP ABAP**\n* **BAdIs \\& Enhancement Framework**\n* **IDocs \\& Interfaces**\n* **APIs \\& Web Services**\n* **SOAP / REST**\n* SAP integration experience\n* Understanding of **SAP MM, SD, and FI/CO**\n\n### **Preferred Skills**\n\n\n* Knowledge of **Order Management, subscription\\-based billing, and invoicing**\n* Experience with **SAP BRIM**\n* Experience with **SAP Commerce**\n* Exposure to Agile development practices\n\n### **Experience**\n\n\n**8–10 years of relevant SAP technical experience**, with strong hands\\-on ABAP development experience and exposure to end\\-to\\-end SAP implementations.\n\n  \n\n**Skills**  \n\nSAP FICO, SAP, SAP ABAP, SAP BRIM, SAP Commerce, SAP HANA, SAP MM, SAP NetWeaver, SAP SD, SAP UI5, SOAP\n\n **About UST**  \n\nUST is a global digital transformation solutions provider. For more than 20 years, UST has worked side by side with the world’s best companies to make a real impact through transformation. Powered by technology, inspired by people and led by purpose, UST partners with their clients from design to operation. With deep domain expertise and a future\\-proof philosophy, UST embeds innovation and agility into their clients’ organizations. With over 30,000 employees in 30 countries, UST builds for boundless impact—touching billions of lives in the process.",
+   "query": "SAP BRIM",
+   "id": "00e1c50cf7972b0a",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Hiring (SAP SD+SOM/FICO+RAR/ABAP+RAP/ ABAP+Fiory -Pune/Bangalore/HYD-7+Years- Fulltime",
+   "company": "Tekgence Inc",
+   "location": "Pune District, Maharashtra, India",
+   "remote": false,
+   "posted_at": "2026-11-09",
+   "apply_url": "https://www.linkedin.com/jobs/view/4487657986",
+   "listing_url": "https://www.linkedin.com/jobs/view/4487657986",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Position1 : SAP SD\\+SOM Consultant** \n\n\n\n\n**Position2 : SAP FICO\\+RAE Consultant** \n\n\n\n\n**Position3 : SAP ABAP\\+RAP Consultant** \n\n\n\n\n**Position4 :SAP ABAP\\+Fiory Consultant** \n\n\n\n\n**Experience : 7\\+ Years** \n\n\n\n\n**Client: One of our Prestigious client.** \n\n\n\n\n**Mode of hiring :Full Time /Permanent** \n\n\n\n\n**Budget: 25\\-32 LPA (Including VP)** \n\n\n\n\n**Location: Pune/Bangalore/Hyderabad** \n\n\n\n\n**Mode of Interview: Face to Face Interview** \n\n\n\n\n**Note :** \n**No PF Overlap / dual employment in entire employments (if you have pls don't apply)**",
+   "query": "SAP Convergent Charging",
+   "id": "d1dbd65659bbeaf1",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "Associate Principal Engineer, SAP FICA",
+   "company": "Nagarro",
+   "location": "MH, IN",
+   "remote": false,
+   "posted_at": "2026-11-10",
+   "apply_url": "https://jobs.smartrecruiters.com/Nagarro1/744000160824048-associate-principal-engineer-sap-fica",
+   "listing_url": "https://in.indeed.com/viewjob?jk=327dcc26938647a5",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Company Description** **We're Nagarro,** we are a Digital Product Engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at scale across all devices and digital mediums, and our people exist everywhere in the world (18000\\+ experts across 40 countries, to be exact). Our work culture is dynamic and non\\-hierarchical. We are looking for great new colleagues. That is where you come in!\n\n **Job Description** **REQUIREMENTS:**\n\n* Total Experience: 10\\+ years\n* Must have 5\\-7 years experience as a SAP FICA (Financial Contract Accounting) Consultant to join our enterprise IT team.\n* Should be able to lead and execute end\\-to\\-end implementation and ECC to S/4HANA migration/conversion projects.\n* Should be able to execute functional stream activities for SAP ECC to S/4HANA migration (Brownfield, Greenfield, or Selective Data Transition).\n* Should manage Business Partner (BP) conversion, data cleanup, contract account adjustments, and migration of open items/history into S/4HANA FICA.\n* Should be able to perform impact analysis on existing FICA customizations and standard processes during S/4HANA upgrades/migrations.\n* Should be able to design, configure, and maintain core SAP FICA sub\\-modules: Contract Partner / Contract Account setup, Posting and Documents, Payments (Payment Lot, Direct Debit), Dunning, Interest Calculation, Security Deposits, Returns Processing, Write\\-offs, and Account Balance Display.\n* Should integrate SAP FICA seamlessly with adjacent modules/systems such as SAP SD, FI\\-CO, BRIM (SOM/CC/CI).\n* Should be able to configure and optimize General Ledger (FI\\-GL) integration, revenue posting, and reconciliation processes.\n* Should be able to design and execute mass processing activities (Payment Run, Dunning Run, Mass Changes).\n\nShould be able to collaborate with technical teams (ABAP developers) to draft high\\-quality Functional Specifications (WRICEF) for enhancements, interfaces, reports, and workflows.  \n* \n\n**RESPONSIBILITIES:**\n\n* Understanding functional requirements thoroughly and analysing the client’s needs in the context of the project\n* Play a crucial role in functional blueprinting, system configuration, data migration, and integration across related SAP modules.\n* Envisioning the overall solution for defined functional and non\\-functional requirements, and being able to define technologies, patterns, and frameworks to realize it.\n* Determining and implementing design methodologies and tool sets\n* Enabling application development by coordinating requirements, schedules, and activities.\n* Being able to lead/support UAT and production roll outs.\n* Creating, understanding, and validating WBS and estimated effort for given module/task, and being able to justify it.\n* Addressing issues promptly, responding positively to setbacks and challenges with a mindset of continuous improvement\n* Giving constructive feedback to the team members and setting clear expectations.\n* Helping the team in troubleshooting and resolving of complex bugs\n* Coming up with solutions to any issue that is raised during code/design review and being able to justify the decision taken.\n\n\nCarrying out POCs to make sure that suggested design/technologies meet the require\n\n **Qualifications**  \n\nBachelor’s or master’s degree in computer science, Information Technology, or a related field.",
+   "query": "SAP BRIM",
+   "id": "1de91beaf90dde6f",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "Director, SAP IS-U Architect - Power & Utilities",
+   "company": "KPMG US",
+   "location": "Multiple (12): Cleveland, OH, Detroit, MI, Tampa, FL, Orlando, FL …",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4488389551",
+   "listing_url": "https://www.linkedin.com/jobs/view/4488389551",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "The KPMG Advisory practice is at the forefront of transformation, offering excellent opportunities for individuals to advance their careers and expertise with KPMG. Looking ahead, we anticipate continued evolution and success within the practice, fostering both personal and professional development, thereby creating new pathways for growth. In this ever\\-changing market environment, our professionals must be adaptable and thrive in a collaborative, team\\-driven culture. At KPMG, our people are our number one priority. With a wealth of learning and career development opportunities, a world\\-class training facility, and leading market tools, we help our people continue to grow both professionally and personally. If you're looking for a firm with a strong team connection where you can be your whole self, have an impact, advance your skills, deepen your experiences, and have the flexibility and access to constantly find new areas of inspiration and expand your capabilities, then consider a career in Advisory.\n   \n\n  \n\n KPMG is currently seeking a Director, SAP IS\\-U Architect \\- Power \\& Utilities to join our Advisory Services practice.\n   \n\n  \n\n**Responsibilities:**\n* Direct and oversee SAP IS\\-U back office implementations, ensuring alignment with overall business objectives and utility industry best practices\n* Subject matter expert and architectural leader for the core pieces of the SAP IS\\-U landscape, specifically; oversees complex billing execution, invoicing processes, and print workbench configurations, manages the structuring of rates, billing schemas, and variant programs, FI\\-CA (contract, accounts, receivable and payable); directs the financial backbone of the IS\\-U solution, including dunning, payments, collections, and sub\\-ledger accounting, and oversees meter readings, installations, replacements, and integration with advanced metering infrastructure (AMI)\n* Drive seamless integration between IS\\-U back office functions and other critical SAP modules, including SAP customer relationship management (CRM) for front\\-office operations and SAP enterprise asset management (EAM) for asset lifecycle and work management\n* Lead project workstreams, manage resource allocation, and oversee financial management for large\\-scale S/4HANA migration programs\n* Mentor and manage teams of architects, functional consultants, and developers to deliver high\\-quality SAP solutions; act as a trusted advisor to C\\-level utility clients, guiding them through complex business transformations, process improvements, and technology adoption\n* Apply an AI\\-first, value driven mindset to identify, evaluate, and responsibly apply AI\\-enabled solutions that can enhance client outcomes, business performance, and operational effectiveness. Leverage foundational AI concepts while upholding KPMG Trusted AI principles to drive ethical, secure, and compliant adoption across business processes and solutions.\n* Act with integrity, professionalism, and personal responsibility to uphold KPMG's respectful and courteous work environment\n\n\n**Qualifications:**\n* Minimum of eight years of recent deep domain experience within the utilities sector (power, gas, or water)\n* Master's degree in computer science, information systems, business administration, or a related field from an accredited college or university is preferred; minimum of a Bachelor's degree in computer science, information systems, business administration, or a related field is required\n* Extensive, hands\\-on architectural experience with SAP IS\\-U, with deep specialization in billing, rates, invoicing, FI\\-CA, and device management\n* Strong understanding of end\\-to\\-end business processes and integration touchpoints with SAP CRM/C4C, SAP EAM, and SAP FI/CO\n* Proven track record in driving internal transformation initiatives and effectively influencing cross\\-functional teams\n* Demonstrated ability to manage large consulting teams, oversee complex project workstreams, and navigate executive\\-level stakeholder relationships\n* Ability to travel as needed\n* Applicants must be authorized to work in the U.S. without the need for employment\\-based visa sponsorship now or in the future; KPMG LLP will not sponsor applicants for U.S. work visa status for this opportunity (no sponsorship is available for H\\-1B, L\\-1, TN, O\\-1, E\\-3, H\\-1B1, F\\-1, J\\-1, OPT, CPT or any other employment\\-based visa)\n\n\n KPMG LLP and its affiliates and subsidiaries (“KPMG”) complies with all local/state regulations regarding displaying salary ranges. If required, the ranges displayed below or via the URL below are specifically for those potential hires who will work in the location(s) listed. Any offered salary is determined based on relevant factors such as applicant's skills, job responsibilities, prior relevant experience, certain degrees and certifications and market considerations. In addition, KPMG LLP is proud to offer a comprehensive, competitive benefits package, with options designed to help you make the best decisions for yourself, your family, and your lifestyle. Available benefits are based on eligibility. Depending on job classification, standard work hours, and years of service, KPMG LLP provides a Total Rewards Package that includes 401(k) and medical and may include dental, vision, disability and life insurance, personal well\\-being and Personal Time Off. Additionally, each year KPMG publishes a calendar of holidays to be observed during the year depending on your job classification and entity affiliation. Additional details about our benefits can be found towards the bottom of our KPMG US Careers site at Benefits \\& How We Work.\n   \n\n  \n\n Follow this link to obtain salary ranges by city outside of CA:\n   \n\n  \n\n https://kpmg.com/us/en/how\\-we\\-work/pay\\-transparency.html/?id\\=M132ADV\\_2\\_26 California Salary Range: $184870 \\- $324185\n   \n\n  \n\n KPMG LLP and its affiliates and subsidiaries (\"KPMG\") is an equal opportunity employer. KPMG complies with all applicable federal,",
+   "query": "SAP Convergent Charging",
+   "id": "ca121e5cb411ff47",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "locations": [
+    "Cleveland, OH",
+    "Detroit, MI",
+    "Tampa, FL",
+    "Orlando, FL",
+    "New York, NY",
+    "Houston, TX",
+    "Morristown, NJ",
+    "Atlanta, GA",
+    "Dallas, TX",
+    "San Francisco, CA",
+    "Philadelphia, PA",
+    "Kansas City, MO"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP FICO Business Analyst // Newark DE",
+   "company": "Global Business Ser. 4u",
+   "location": "Newark, DE",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4489478840",
+   "listing_url": "https://www.linkedin.com/jobs/view/4489478840",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**SAP Cost Allocation and Financial System Analyst**\n**Hybrid \\- Newark DE**\n**Duration: Fulltime**\n**Job Description**\n The Senior SAP Finance Business Analyst is responsible for the configuration, support, enhancement, and integration of SAP S/4HANA Finance solutions, with a primary focus on SAP FI/CO and related financial applications.\n   \n\n  \n\n Configure SAP FICO modules, including General Ledger (GL), Accounts Payable (AP), Accounts Receivable (AR), Asset Accounting (AA), Cost Center Accounting (CCA), Internal Orders, and Profit Center Accounting.\n   \n\n  \n\n* Leverage strong SAP FICO expertise across AP, AR, Tax, Fixed Assets, Treasury, and Banking functions.\n* Support SAP Group Reporting and consolidation activities; experience with SAC Group Reporting is preferred.\n* Apply working knowledge of cost center accounting, including primary and secondary cost elements, activity allocations, and CO actuals.\n* Contribute to S/4HANA Finance workstreams within transformation programs, including CIS and Billing system integrations.\n* Collaborate with cross\\-functional teams across Finance, IT, and Operations to ensure seamless data flow and alignment.\n* Execute and document configuration unit testing, system integration testing (SIT), and user acceptance testing (UAT).\n* Work with Vendor Invoice Management (VIM) or Procure\\-to\\-Pay (P2P) solutions, including configuration, support, and integration with SAP FI/CO modules.\n* Support month\\-end close activities using Advanced Financial Close (AFC preferred), including reconciliations and financial reporting validation.\n* Assist with post\\-go\\-live stabilization, ticket resolution, and continuous improvement initiatives.\n* Support FERC accounting structures and allocation setups.\n* Enable SAP S/4HANA integration with Concur.\n* Provide support for FICA implementations for utility customers.\n\n\n Best Regards\n   \n\n  \n\n**Suman (Sue)**\n Technical Recruiter\n   \n\n  \n\n Global Business Ser 4u Inc.\n   \n\n  \n\n**Email:** \n Sue@gbs4u.com \\|\n   \n\n  \n\n**Web:** \n www.gbs4u.com\n   \n\n  \n\n**USA** \n : 1755 Park Street, Suite 200, Naperville, IL 60563",
+   "query": "SAP FICA",
+   "id": "12edce38c92084fe",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
+  {
+   "title": "Lead / Senior SAP Joule & Multi-Agent Integration Engineer",
+   "company": "EPAM Systems",
+   "location": "MH, IN",
+   "remote": false,
+   "posted_at": "2026-11-10",
+   "apply_url": "https://careers.epam.com/en/vacancy/bltmc4frvxjnl3y8h99_en?city=Pune&state=Maharashtra&country=India&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta",
+   "listing_url": "https://in.indeed.com/viewjob?jk=3ac185d294e53008",
+   "job_type": "",
+   "salary": "",
+   "description": "*EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi\\-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting\\-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential.*\n\n\nWe are building the next generation of enterprise AI interoperability. As an **SAP Joule \\& Multi\\-Agent Integration Engineer**, you will pioneer our agentic AI roadmap — designing, building, and securing cross\\-platform agent networks that connect SAP's Joule ecosystem with ServiceNow and other enterprise platforms over open agent communication protocols. You will own the full lifecycle of agent development, from BTP provisioning through production A2A orchestration.\n\n**Responsibilities**\n\n* Design and deploy pro\\-code AI agents on SAP BTP (Cloud Foundry/Kyma) using Joule Studio, LangGraph, or SAP Cloud SDK for AI — defining agent tools, orchestration logic, and backend integrations against S/4HANA OData APIs (Orders, Quotes, Contracts, Accounts) via BTP Destination Service\n* Architect and implement end\\-to\\-end A2A communication between SAP Joule and the ServiceNow platform — exposing Joule agents as A2A\\-compliant servers via SAP Agent Gateway, authoring Agent Cards, configuring JSON\\-RPC endpoints, and registering External Agent Providers in ServiceNow AI Agent Studio over Google A2A protocol v0\\.3\\.0\n* Design primary/secondary agent delegation patterns, async push notification flows, and timeout\\-resilient pipelines across SAP and non\\-SAP agent networks — ensuring agents reason, delegate, and recover reliably at enterprise scale\n* Configure end\\-to\\-end authentication across agent boundaries using OAuth2, SAP IAS App2App trust, and BTP Cloud Identity Services — enforcing least\\-privilege access, token governance, and audit\\-ready agent call chains\n* Own the full SAP BTP stack underpinning agent workloads — AI Core provisioning, SAP Build Process Automation entitlements, Cloud Foundry runtime, Destination Service, and SAP Agent Gateway configuration\n* Instrument agent pipelines with structured logging, distributed tracing, and alerting so failures are caught early, root\\-caused quickly, and prevented systematically across multi\\-hop agent calls\n\n**Requirements**\n\n* 4\\+ years of hands\\-on SAP BTP engineering experience, including Cloud Foundry, SAP Cloud Identity Services, and Destination Service configuration\n* Proven experience building and deploying custom Joule agents in Joule Studio (pro\\-code path) with tool definitions wired to SAP backend systems via OData or REST APIs\n* Demonstrated production experience enabling Agent\\-to\\-Agent (A2A) integration between SAP Joule and ServiceNow AI Agent Studio, including Agent Card authoring, External Agent Provider registration, credential aliasing, and A2A protocol handshake validation\n* Strong command of agentic AI frameworks (LangGraph, CrewAI, or equivalent) and multi\\-agent orchestration patterns, including delegation, fallback, and async response handling\n* Solid understanding of API security and authentication: OAuth 2\\.0, mutual TLS, SAP IAS trust configurations, and BTP service bindings\n* Familiarity with ServiceNow platform internals — Now Assist AI Agents, Integration Hub, Flow Designer, and Connection \\& Credential Aliases\n* Strong grasp of distributed systems design, API performance, and fault\\-tolerance patterns relevant to multi\\-agent pipelines\n* Excellent communication skills with the ability to translate complex agent topology designs for both engineering and business audiences\n\n**Nice to have**\n\n* Experience with MCP (Model Context Protocol) alongside A2A for tool and resource exposure across agent boundaries\n* Exposure to SAP BRIM, SOM, or BTP Integration Suite (CPI) for SAP business process integration context\n* Familiarity with ServiceNow Yokohama/Zurich release features for external agent interoperability\n* SAP BTP or ServiceNow certifications (Certified Application Developer, Certified Implementation Specialist)\n* CI/CD experience for BTP workloads using Cloud Foundry CLI, MTA deployment, or GitHub Actions pipelines\n\n**We offer**\n\n* Opportunity to work on technical challenges that may impact across geographies\n* Vast opportunities for self\\-development: online university, knowledge sharing opportunities globally, learning opportunities through external certifications\n* Opportunity to share your ideas on international platforms\n* Sponsored Tech Talks \\& Hackathons\n* Unlimited access to LinkedIn learning solutions\n* Possibility to relocate to any EPAM office for short and long\\-term projects\n* Focused individual development\n* Benefit package:\n\t+ Health benefits\n\t+ Retirement benefits\n\t+ Paid time off\n\t+ Flexible benefits\n* Forums to explore beyond work passion (CSR, photography, painting, sports, etc.)",
+   "query": "SAP BRIM",
+   "id": "602a23acc799e5bd",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-11",
+   "repost_count": 0
+  },
   {
    "title": "SAP ABAP Developer (RICEFW, HANA, BRIM/FSCM)",
    "company": "appsierra",
@@ -26,52 +240,6 @@
    "region": "India",
    "sources": [
     "indeed"
-   ],
-   "first_seen": "2026-11-10",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP FICO Consultant",
-   "company": "Viraaj HR Solutions Private Limited",
-   "location": "Multiple (4): Chennai, Tamil Nadu, India, Pune Division, Maharashtra, India, Hyderabad, Telangana, India, Bengaluru, Karnataka, India",
-   "remote": false,
-   "posted_at": "",
-   "apply_url": "https://www.linkedin.com/jobs/view/4487686185",
-   "listing_url": "https://www.linkedin.com/jobs/view/4487686185",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "Position Summary\n   \n\n  \n\n SAP FI Senior Consultant\n   \n\n  \n\n Are you looking for a career trajectory that few other organizations can offer in SAP? With a high\\-quality portfolio of businesses and clients, opportunities to work across capabilities, industries, and geographies in roles and on projects aligned with your SAP Finance skills, if this matches your interests and aspirations, Deloitte may be the right fit for you.\n   \n\n  \n\n Work you’ll do\n   \n\n  \n\n**Responsibilities**\n SAP FI Consultant at Deloitte is responsible for ensuring quality solutions are provided to our clients which not only solve the problem at hand but also have longevity and can be easily maintained. Few of the key areas a FI Consultant is involved in are mentioned below:\n   \n\n  \n\n Conduct As\\-Is and To\\-Be business process workshops while working on implementation project\n   \n\n  \n\n Map Business Processes to SAP\n   \n\n  \n\n Configure SAP to reflect the business requirements.\n   \n\n  \n\n Write Functional Specification / Configuration documents.\n   \n\n  \n\n Exhibit effective communication while working with cross\\-functional and technical teams\n   \n\n  \n\n**The Team**\n Deloitte’s SAP Service Line is among the world’s largest, with 8,000 global practitioners and over 1,700 SAP implementation projects completed. More than half our consultants have 10\\+ years of experience, and Deloitte has been an SAP Global Partner — Services since 1989\\. We offer a full range of SAP services, from business case development to deployment, supported by nine solution centers and proprietary accelerators that enhance project delivery. Our CMMI Level 5 and SAS 70\\-certified practice covers S4 Hana, CRM, NetWeaver, BO, Development, BASIS \\& Infrastructure, and serves all functional areas and industry sectors\n   \n\n  \n\n**Qualifications**\n Must have skills/Project Experience/Certifications:\n   \n\n  \n\n 6\\-10 years of industry experience\n   \n\n  \n\n Domain experience is required for Senior Consultant but is good to have at Consultant level\n   \n\n  \n\n GL – New GL with Segment Reporting\n   \n\n  \n\n Accounts Receivable / FSCM, Accounts Payable / Banking, Cost Center Accounting, Cost Element Accounting \\& Internal Orders, Project Systems, Investment Management, Asset Accounting, Product Costing,\n   \n\n  \n\n Worked on implementation project of the most recent version\n   \n\n  \n\n Should have run Blueprint Workshop and should be able to map Business Processes to SAP.\n   \n\n  \n\n Should have Industry Experience.\n   \n\n  \n\n**Good To Have Skills/Project Experience/Certifications**\n Cross process area experience in Product Costing, FSCM, FICA, PSCD and FSCD\n   \n\n  \n\n COPA\\- FICA, PSCD, FSCD, Cash Management, Treasury\n   \n\n  \n\n Skills: pc,s4hana,communication,papm,sap,gr,rar,crm,fico,fscm,accounting,sap fico,fas asset accounting",
-   "query": "SAP FICA",
-   "id": "2fa392050eabce9d",
-   "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "locations": [
-    "Chennai, Tamil Nadu, India",
-    "Pune Division, Maharashtra, India",
-    "Hyderabad, Telangana, India",
-    "Bengaluru, Karnataka, India"
-   ],
-   "first_seen": "2026-11-10",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP BRIM Developer",
-   "company": "Tech Global",
-   "location": "Harrisburg, PA",
-   "remote": false,
-   "posted_at": "",
-   "apply_url": "https://www.linkedin.com/jobs/view/4487966815",
-   "listing_url": "https://www.linkedin.com/jobs/view/4487966815",
-   "job_type": "contract",
-   "salary": "",
-   "description": "SAP BRIM Developer / Technical Lead\n \n\n\n\n We are seeking an experienced SAP BRIM Developer with strong hands\\-on expertise in SAP S/4HANA, ABAP development, billing and revenue management, and enterprise system integrations.\n \n\n\n\n Key Responsibilities\n \n\n\n\n \\* Analyze existing billing and revenue processes, system configurations, and technical requirements.\n \n\n\n\n \\* Design, develop, and implement SAP BRIM solutions and enhancements using SAP S/4HANA and ABAP.\n \n\n\n\n \\* Develop complex business logic, technical designs, and system integrations following SAP best practices.\n \n\n\n\n \\* Collaborate with business stakeholders, functional consultants, and development teams to translate requirements into technical solutions.\n \n\n\n\n \\* Support integration with CRM, financial systems, and other enterprise applications.\n \n\n\n\n \\* Troubleshoot technical issues, identify risks, and recommend solutions.\n \n\n\n\n \\* Prepare technical documentation, support testing activities, and ensure quality delivery.\n \n\n\n\n Required Qualifications\n \n\n\n\n \\* 7\\+ years of SAP BRIM and SAP S/4HANA ABAP experience.\n \n\n\n\n \\* Hands\\-on experience as an SAP Developer or Technical SME on at least two system implementation projects.\n \n\n\n\n \\* Strong proficiency in ABAP development, including classic and object\\-oriented ABAP.\n \n\n\n\n \\* Experience with SAP HANA development tools and techniques.\n \n\n\n\n \\* Ability to work independently and deliver complex technical solutions.\n \n\n\n\n \\* Strong analytical, problem\\-solving, and communication skills.\n \n\n\n\n Preferred Skills\n \n\n\n\n \\* SAP FI\\-CA (Contract Accounts Receivable and Payable)\n \n\n\n\n \\* ABAP CDS, BOPF, AMDP, OData, and BODS\n \n\n\n\n \\* SAP HANA Studio, Web IDE, and SAP BTP\n \n\n\n\n \\* Lockbox processing and BAI2 bank statement integration\n \n\n\n\n \\* Funds management and billing/revenue processing\n \n\n\n\n \\* Integration with Microsoft Dynamics CE or other CRM platforms\n \n\n\n\n \\* Experience with high\\-volume transaction\\-processing or billing back\\-office systems\n \n\n\n\n \\* ServiceNow PPM/ITSM and ITIL practices\n \n\n\n\n Education \\& Certifications\n \n\n\n\n \\* Bachelor’s degree in Information Systems, Business Management, or a related field; equivalent experience may be considered.\n \n\n\n\n \\* SAP BRIM or SAP ABAP technical certifications preferred.",
-   "query": "SAP Hybris Billing",
-   "id": "e8815bcc9b906f9e",
-   "region": "US",
-   "sources": [
-    "linkedin"
    ],
    "first_seen": "2026-11-10",
    "repost_count": 0
@@ -97,26 +265,6 @@
    "repost_count": 0
   },
   {
-   "title": "SAP SD",
-   "company": "Helios Systems Asia",
-   "location": "Bangalore Urban district, India",
-   "remote": false,
-   "posted_at": "",
-   "apply_url": "https://www.linkedin.com/jobs/view/4487999096",
-   "listing_url": "https://www.linkedin.com/jobs/view/4487999096",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "SAP SD – Job DescriptionJob Details\n * **Employment Type:** \n  Full\\-Time Employment (FTE)\n* **Location:** \n  Bangalore / Pune / Hyderabad\n* **Work Mode:** \n  Work From Office (WFO)\n* **Budget:** \n  Up to ₹35 LPA (including variable pay)\n\n\n Job Overview\n \n We are seeking an experienced SAP SD professional with strong functional expertise in SAP S/4HANA Sales \\& Distribution (SD), Order\\-to\\-Cash (O2C), and Billing processes. The ideal candidate should have hands\\-on experience in SAP SD configuration, subscription\\-based business models, and end\\-to\\-end business process integration.\n \n\n\n Key Responsibilities\n * Demonstrate strong functional expertise in SAP S/4HANA Sales \\& Distribution (SD), Order\\-to\\-Cash (O2C), and Billing processes.\n* Manage Sales Order Management, pricing, contract management, invoicing, and credit/debit memo processes.\n* Provide functional understanding of Subscription Order Management (SOM) and SAP BRIM processes for subscription\\-based business models.\n* Perform SAP SD configuration, including sales document types, item categories, pricing procedures, copy controls, and billing types.\n* Support recurring billing, usage\\-based billing, subscription amendments, renewals, and cancellations.\n* Understand integration between SAP SD, SOM, Convergent Invoicing (CI), FI\\-AR, and Revenue Accounting (RAR).\n* Gather business requirements, perform fit\\-gap analysis, and translate requirements into functional specifications and user stories.\n* Design end\\-to\\-end Order\\-to\\-Cash solutions, process improvements, and automation initiatives.\n* Lead integration testing, UAT, defect management, and production support activities.\n* Collaborate with technical teams on enhancements, interfaces, APIs, and system integrations.\n* Work with SAP Fiori, S/4HANA business processes, and Agile delivery methodologies.\n* Demonstrate strong stakeholder management, analytical, problem\\-solving, and cross\\-functional collaboration skills.",
-   "query": "SAP Subscription Order Management",
-   "id": "07432765d03e0b33",
-   "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-11-10",
-   "repost_count": 0
-  },
-  {
    "title": "SAP ABAP Developer (RICEFW, HANA, BRIM/FSCM)",
    "company": "AppSierra",
    "location": "Pune Division, Maharashtra, India",
@@ -134,106 +282,6 @@
     "linkedin"
    ],
    "first_seen": "2026-11-10",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U ABAP Developer Manager - Resources/Utilities",
-   "company": "Information Technology Senior Management Forum",
-   "location": "Chicago, IL, US",
-   "remote": false,
-   "posted_at": "2026-07-19",
-   "apply_url": "https://jobs.itsmfleaders.org/job/2jkud4/sap-is-u-abap-developer-manager-resources-utilities/chicago/il",
-   "listing_url": "https://www.indeed.com/viewjob?jk=97705629a58c411f",
-   "job_type": "fulltime",
-   "salary": "87400.0 293800.0 USD yearly",
-   "description": "Posted Date 7/19/2026\nDescription\n**We Are:**\n\n\nAccenture's SAP practice brings reinvention to life through Compressed Transformation \\- design thinking, agile delivery, and the latest SAP innovations across S/4HANA Cloud (RISE and GROW), SAP Business Technology Platform (BTP), Clean Core, and SAP Business AI (Joule, Joule Studio, Generative AI Hub). Powered by our myConcerto platform and Accenture's GenWizard AI\\-assisted delivery, we help clients build the intelligent enterprise. We are SAP's most awarded delivery partner and the \\#1 recognized integrator across Microsoft Azure, AWS, and Google Cloud. We invest continuously in our people through training and a global SAP community \\- join us to shape the future of SAP development and extensibility.\n\n\n**You Are:**\n\n\nA transformation maven with the skills to help clients meet the challenges of digitization. Your human superpower? Using your know\\-how, creativity, and analytical powers to solve clients' most complex technical problems so their companies can do more. You are equally comfortable defining enterprise architecture, leading global development teams, conducting design reviews, and guiding organizations through Clean Core transformation while remaining hands\\-on with ABAP Cloud, RAP, CDS, Fiori, and SAP BTP technologies.\n\n\nYou bring the communication and people skills to inspire teams to bring their A\\-game and to advise senior client stakeholders with confidence.\n\n\n**The Work:**\n\n\n* Lead the design, build, and test of SAP custom development and extensibility solutions on S/4HANA and BTP, primarily using ABAP Cloud, RAP, CAP, Fiori, and Clean Core methodologies.\n* Drive the transition from classic ABAP to Clean Core; guide custom\\-code remediation and released\\-API adoption.\n* Own technical design for workstreams; conduct code reviews, architecture sign\\-offs, and design workshops.\n* Leverage Generative AI Hub / Joule Studio to infuse development with SAP Business AI where applicable.\n\nGuide and mentor global delivery teams; communicate effectively across technical levels and geographies.  \n* \n\n*Travel may be required for this role, from 0 to 100% depending on business need and client requirements.*\n\n\n**Here's what you need:**\n\n\n* Minimum of 5 years developing SAP applications using S/4HANA ABAP (NetWeaver 7\\.4/7\\.5\\) and ABAP Cloud.\n* Minimum 4 years with SAP BTP tools and services (latest Application Development and Automation stack).\n* Minimum of 3 years of experience with IS\\-U and related technologies\n* Minimum 3 years of data modeling using CDS views, AMDP, OData, or related custom development.\n* Minimum 3 years of SAP custom development using Fiori\\-first, Clean Core, and BTP side\\-by\\-side approaches, including RAP.\n* Minimum 3 years in a technical leadership role (code reviews, architecture sign\\-offs, client workshops).\n* Prior experience in a Consulting/Advisory role\n* Bachelor's degree or equivalent (minimum 12 years' work experience). If Associate's Degree, must have equivalent minimum 6\\-year work experience.\n  \n\n  \n\n**Bonus Points If:**\n\n\n* You have hands\\-on experience delivering SAP Utilities solutions across Customer Service, Meter\\-to\\-Cash, Billing, FICA, Device Management, Work Management, Asset Management, or Energy Data Management.\n* You have a minimum of 1 year with Cloud Application Programming (CAP).\n* You have led or contributed to large\\-scale SAP Utilities transformations, including SAP IS\\-U to SAP S/4HANA migrations, CIS modernization programs, or cloud adoption initiatives.\n* You have experience with SAP Build Apps, Build Process Automation, Build Work Zone, CAP (Node.js/Java), and event\\-driven architectures on SAP BTP.\n* You have implemented modern SAP engineering practices including gCTS, CI/CD pipelines, automated testing, DevOps, and cloud\\-native development frameworks.\n* You have practical experience leveraging SAP Business AI, Joule, Joule Studio, Generative AI Hub, RAG\\-based solutions, or AI\\-assisted development accelerators to improve delivery outcomes.\n* You possess a strong understanding of Utilities industry business processes, regulatory requirements, customer operations, and digital customer engagement platforms.\n* You have experience serving as a technical advisor to client leadership, driving architecture decisions, development governance, and innovation roadmaps.\n* You have contributed to SAP accelerators, reusable assets, thought leadership, innovation initiatives, or technical communities\n  \n\n  \n\nCompensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.  \n\n\n\n  \n\n**We anticipate this job posting will be posted until 12/11/2026\\.**\n  \n\n  \n\nAccenture offers a market competitive suite of benefits including medical, dental, vision, life, and long\\-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off.\n\n\nSee more information on our benefits here: U.S. Employee Benefits \\| Accenture\n\n  \n\n  \n\n**Role Location Annual Salary Range**\n  \n\nCalifornia $94,400 to $293,800\n  \n\nColorado $94,400 to $253,800\n  \n\nConnecticut $94,400 to $253,800\n  \n\nDistrict of Columbia $100,500 to $270,300\n  \n\nIllinois $87,400 to $253,800\n  \n\nMaine $80,400 to $216,200\n  \n\nMaryland $94,400 to $253,800\n  \n\nMassachusetts $94,400 to $270,300\n  \n\nMinnesota $94,400 to $253,800\n  \n\nNew York $87,400 to $293,800\n  \n\nNew Jersey $100,500 to $293,800\n  \n\nOhio $87,400 to $235,000\n  \n\nVirginia $87,400 to $270,300\n  \n\nWashington $100,500 to $270,300\n\n\n**Requesting an Accommodation**\n\n\nAccenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functio",
-   "query": "SAP FICA",
-   "id": "a43c886e75aed895",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-08",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U ABAP Developer Manager - Resources/Utilities",
-   "company": "Logic, Inc.",
-   "location": "Chicago, IL, US",
-   "remote": false,
-   "posted_at": "2026-11-05",
-   "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00367013_en&title=SAP+IS-U+ABAP+Developer+Manager+-+Resources%2FUtilities",
-   "listing_url": "https://www.indeed.com/viewjob?jk=fc78101a84895efe",
-   "job_type": "fulltime",
-   "salary": "87400.0 293800.0 USD yearly",
-   "description": "Enterprise Platform Advisory Manager \\| Senior Level \\| Full time\nJob No. R00367013 \\| Multiple Locations\n  \n**We Are:**\n\n\nAccenture's SAP practice brings reinvention to life through Compressed Transformation \\- design thinking, agile delivery, and the latest SAP innovations across S/4HANA Cloud (RISE and GROW), SAP Business Technology Platform (BTP), Clean Core, and SAP Business AI (Joule, Joule Studio, Generative AI Hub). Powered by our myConcerto platform and Accenture's GenWizard AI\\-assisted delivery, we help clients build the intelligent enterprise. We are SAP's most awarded delivery partner and the \\#1 recognized integrator across Microsoft Azure, AWS, and Google Cloud. We invest continuously in our people through training and a global SAP community \\- join us to shape the future of SAP development and extensibility.\n\n **You Are:**\n\n\nA transformation maven with the skills to help clients meet the challenges of digitization. Your human superpower? Using your know\\-how, creativity, and analytical powers to solve clients' most complex technical problems so their companies can do more. You are equally comfortable defining enterprise architecture, leading global development teams, conducting design reviews, and guiding organizations through Clean Core transformation while remaining hands\\-on with ABAP Cloud, RAP, CDS, Fiori, and SAP BTP technologies.\n\n  \n\nYou bring the communication and people skills to inspire teams to bring their A\\-game and to advise senior client stakeholders with confidence.\n\n **The Work:**\n\n* Lead the design, build, and test of SAP custom development and extensibility solutions on S/4HANA and BTP, primarily using ABAP Cloud, RAP, CAP, Fiori, and Clean Core methodologies.\n* Drive the transition from classic ABAP to Clean Core; guide custom\\-code remediation and released\\-API adoption.\n* Own technical design for workstreams; conduct code reviews, architecture sign\\-offs, and design workshops.\n* Leverage Generative AI Hub / Joule Studio to infuse development with SAP Business AI where applicable.\n* Guide and mentor global delivery teams; communicate effectively across technical levels and geographies.\n\n *Travel may be required for this role, from 0 to 100% depending on business need and client requirements.*\n\n\n  \n**Here's what you need:**\n\n\n* Minimum of 5 years developing SAP applications using S/4HANA ABAP (NetWeaver 7\\.4/7\\.5\\) and ABAP Cloud.\n* Minimum 4 years with SAP BTP tools and services (latest Application Development and Automation stack).\n* Minimum of 3 years of experience with IS\\-U and related technologies\n* Minimum 3 years of data modeling using CDS views, AMDP, OData, or related custom development.\n* Minimum 3 years of SAP custom development using Fiori\\-first, Clean Core, and BTP side\\-by\\-side approaches, including RAP.\n* Minimum 3 years in a technical leadership role (code reviews, architecture sign\\-offs, client workshops).\n* Prior experience in a Consulting/Advisory role\n* Bachelor's degree or equivalent (minimum 12 years' work experience). If Associate's Degree, must have equivalent minimum 6\\-year work experience.\n\n  \n\n**Bonus Points If:**\n\n\n* You have hands\\-on experience delivering SAP Utilities solutions across Customer Service, Meter\\-to\\-Cash, Billing, FICA, Device Management, Work Management, Asset Management, or Energy Data Management.\n* You have a minimum of 1 year with Cloud Application Programming (CAP).\n* You have led or contributed to large\\-scale SAP Utilities transformations, including SAP IS\\-U to SAP S/4HANA migrations, CIS modernization programs, or cloud adoption initiatives.\n* You have experience with SAP Build Apps, Build Process Automation, Build Work Zone, CAP (Node.js/Java), and event\\-driven architectures on SAP BTP.\n* You have implemented modern SAP engineering practices including gCTS, CI/CD pipelines, automated testing, DevOps, and cloud\\-native development frameworks.\n* You have practical experience leveraging SAP Business AI, Joule, Joule Studio, Generative AI Hub, RAG\\-based solutions, or AI\\-assisted development accelerators to improve delivery outcomes.\n* You possess a strong understanding of Utilities industry business processes, regulatory requirements, customer operations, and digital customer engagement platforms.\n* You have experience serving as a technical advisor to client leadership, driving architecture decisions, development governance, and innovation roadmaps.\n* You have contributed to SAP accelerators, reusable assets, thought leadership, innovation initiatives, or technical communities\n\n  \n\nCompensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.\n\n  \n\n**We anticipate this job posting will be posted until 12/11/2026\\.**  \n\n  \n\nAccenture offers a market competitive suite of benefits including medical, dental, vision, life, and long\\-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off.\n\n  \n\nSee more information on our benefits here: U.S. Employee Benefits \\| Accenture\n\n  \n\n**Role Location Annual Salary Range**  \n\nCalifornia $94,400 to $293,800  \n\nColorado $94,400 to $253,800  \n\nConnecticut $94,400 to $253,800  \n\nDistrict of Columbia $100,500 to $270,300  \n\nIllinois $87,400 to $253,800  \n\nMaine $80,400 to $216,200  \n\nMaryland $94,400 to $253,800  \n\nMassachusetts $94,400 to $270,300  \n\nMinnesota $94,400 to $253,800  \n\nNew York $87,400 to $293,800  \n\nNew Jersey $100,500 to $293,800  \n\nOhio $87,400 to $235,000  \n\nVirginia $87,400 to $270,300  \n\nWashington $100,500 to $270,300\n\n\n  \nChicago, IL\n\n\nAlbany, NY\n\n\nArlington, VA\n\n\nAtlanta, GA\n\n\nAustin, TX\n\n\nBeaverton, OR\n\n\nBentonville, AR\n\n\nBoston, MA\n\n\nCarmel, IN\n\n\nCharlotte, NC\n\n\nCincinnati, OH\n\n\nCleveland, OH\n\n\nColumbus, OH\n\n\nCulver City, CA\n\n\nDenver, CO\n\n\nDes Moines, IA",
-   "query": "SAP FICA",
-   "id": "b46cee6d3d728974",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-07",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U ABAP Developer Consultant - Resources/Utilities",
-   "company": "Logic, Inc.",
-   "location": "Chicago, IL, US",
-   "remote": false,
-   "posted_at": "2026-11-05",
-   "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00366613_en&title=SAP+IS-U+ABAP+Developer+Consultant+-+Resources%2FUtilities",
-   "listing_url": "https://www.indeed.com/viewjob?jk=2c5e7469c21f14b6",
-   "job_type": "fulltime",
-   "salary": "59100.0 205800.0 USD yearly",
-   "description": "Enterprise Platform Advisory Team Lead/Consultant \\| Mid\\-Level \\| Full time\nJob No. R00366613 \\| Multiple Locations\n  \n**We Are:**\n\n\nAccenture's SAP practice brings reinvention to life through Compressed Transformation \\- design thinking, agile delivery, and the latest SAP innovations across S/4HANA Cloud (RISE and GROW), SAP Business Technology Platform (BTP), Clean Core, and SAP Business AI (Joule, Joule Studio, Generative AI Hub). Powered by our myConcerto platform and Accenture's GenWizard AI\\-assisted delivery, we help clients build the intelligent enterprise. We are SAP's most awarded delivery partner and the \\#1 recognized integrator across Microsoft Azure, AWS, and Google Cloud. We invest continuously in our people through training and a global SAP community \\- join us to shape the future of SAP development and extensibility.\n\n **You Are:**\n\n\nA transformation maven with the skills to help clients meet the challenges of digitization. Your human superpower? Using your know\\-how, creativity, and analytical powers to solve clients' most complex technical problems so their companies can do more. You are equally comfortable defining enterprise architecture, leading global development teams, conducting design reviews, and guiding organizations through Clean Core transformation while remaining hands\\-on with ABAP Cloud, RAP, CDS, Fiori, and SAP BTP technologies.\n\n  \n\nYou bring the communication and people skills to inspire teams to bring their A\\-game and to advise senior client stakeholders with confidence.\n\n **The Work:**\n\n* Lead the design, build, and test of SAP custom development and extensibility solutions on S/4HANA and BTP, primarily using ABAP Cloud, RAP, CAP, Fiori, and Clean Core methodologies.\n* Drive the transition from classic ABAP to Clean Core; guide custom\\-code remediation and released\\-API adoption.\n* Own technical design for workstreams; conduct code reviews, architecture sign\\-offs, and design workshops.\n* Leverage Generative AI Hub / Joule Studio to infuse development with SAP Business AI where applicable.\n* Guide and mentor global delivery teams; communicate effectively across technical levels and geographies.\n\n *Travel may be required for this role, from 0 to 100% depending on business need and client requirements.*\n\n\n  \n**Here's what you need:**\n\n\n* Minimum of 3 years developing SAP applications using S/4HANA ABAP (NetWeaver 7\\.4/7\\.5\\) and ABAP Cloud.\n* Minimum 2 years with SAP BTP tools and services (latest Application Development and Automation stack).\n* Minimum of 1 year of experience with SAP IS\\-U and related technologies\n* Minimum 2 years of data modeling using CDS views, AMDP, OData, or related custom development.\n* Minimum 1 years of SAP custom development using Fiori\\-first, Clean Core, and BTP side\\-by\\-side approaches, including RAP.\n* Prior experience in a Consulting/Advisory role.\n* Bachelor's degree or equivalent (minimum 12 years' work experience). If Associate's Degree, must have equivalent minimum 6\\-year work experience.\n\n  \n\n**Bonus Points If:**\n\n\n* You have hands\\-on experience delivering SAP Utilities solutions across Customer Service, Meter\\-to\\-Cash, Billing, FICA, Device Management, Work Management, Asset Management, or Energy Data Management.\n* You have a minimum of 1 year with Cloud Application Programming (CAP).\n* You have led or contributed to large\\-scale SAP Utilities transformations, including SAP IS\\-U to SAP S/4HANA migrations, CIS modernization programs, or cloud adoption initiatives.\n* You have experience with SAP Build Apps, Build Process Automation, Build Work Zone, CAP (Node.js/Java), and event\\-driven architectures on SAP BTP.\n* You have implemented modern SAP engineering practices including gCTS, CI/CD pipelines, automated testing, DevOps, and cloud\\-native development frameworks.\n* You have practical experience leveraging SAP Business AI, Joule, Joule Studio, Generative AI Hub, RAG\\-based solutions, or AI\\-assisted development accelerators to improve delivery outcomes.\n* You possess a strong understanding of Utilities industry business processes, regulatory requirements, customer operations, and digital customer engagement platforms.\n* You have experience serving as a technical advisor to client leadership, driving architecture decisions, development governance, and innovation roadmaps.\n* You have contributed to SAP accelerators, reusable assets, thought leadership, innovation initiatives, or technical communities\n\n  \n\nCompensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.\n\n  \n\n**We anticipate this job posting will be posted until 12/11/2026\\.**  \n\n  \n\nAccenture offers a market competitive suite of benefits including medical, dental, vision, life, and long\\-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off.\n\n  \n\nSee more information on our benefits here: U.S. Employee Benefits \\| Accenture\n\n  \n\n**Role Location Annual Salary Range**  \n\nCalifornia $70,350 to $205,800  \n\nColorado $63,800 to $177,800  \n\nConnecticut $63,800 to $177,800  \n\nDistrict of Columbia $68,000 to $189,300  \n\nIllinois $59,100 to $177,800  \n\nMaine $54,400 to $151,400  \n\nMaryland $63,800 to $177,800  \n\nMassachusetts $63,800 to $189,300  \n\nMinnesota $63,800 to $177,800  \n\nNew York $66,300 to $205,800  \n\nNew Jersey $68,000 to $205,800  \n\nOhio $59,100 to $164,600  \n\nVirginia $59,100 to $189,300  \n\nWashington $80,200 to $189,300\n\n\n  \nChicago, IL\n\n\nAlbany, NY\n\n\nArlington, VA\n\n\nAtlanta, GA\n\n\nAustin, TX\n\n\nBeaverton, OR\n\n\nBentonville, AR\n\n\nBoston, MA\n\n\nCarmel, IN\n\n\nCharlotte, NC\n\n\nCincinnati, OH\n\n\nCleveland, OH\n\n\nColumbus, OH\n\n\nCulver City, CA\n\n\nDenver, CO\n\n\nDes Moines, IA\n\n\nDetroit, MI\n\n\nHartford, CT\n\n\nHouston, TX\n\n\nIrvine, CA\n\n\nIrving, TX\n\n\nKirkland, WA\n\n\nMiami, FL",
-   "query": "SAP FICA",
-   "id": "fe767da8b3e68fb8",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-07",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP SD",
-   "company": "Jade Global",
-   "location": "Pune City, Maharashtra, India",
-   "remote": false,
-   "posted_at": "2026-11-06",
-   "apply_url": "https://www.linkedin.com/jobs/view/4486213122",
-   "listing_url": "https://www.linkedin.com/jobs/view/4486213122",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "Job Description\n \n\n\n* Strong functional expertise in\n **SAP S/4HANA Sales \\& Distribution (SD)** \n , Order\\-to\\-Cash (O2C), and Billing processes.\n* Hands\\-on experience in Sales Order Management, pricing, contract management, invoicing, and credit/debit memo processes.\n* Functional understanding of\n **Subscription Order Management (SOM)** \n and SAP BRIM processes for subscription\\-based business models.\n* Experience in SAP SD configuration, including sales document types, item categories, pricing procedures, copy controls, and billing types.\n* Knowledge of recurring billing, usage\\-based billing, subscription amendments, renewals, and cancellations.\n* Understanding of integration between\n **SAP SD, SOM, Convergent Invoicing (CI), FI\\-AR, and Revenue Accounting (RAR)** \n .\n* Ability to gather business requirements, perform fit\\-gap analysis, and translate requirements into functional specifications and user stories.\n* Experience in designing end\\-to\\-end Order\\-to\\-Cash solutions, process improvements, and automation initiatives.\n* Strong expertise in integration testing, UAT, defect management, and production support.\n* Experience working with technical teams on enhancements, interfaces, APIs, and system integrations.\n* Familiarity with SAP Fiori, S/4HANA business processes, and Agile delivery methodologies.\n* Strong stakeholder management, analytical, problem\\-solving, and cross\\-functional collaboration skills.",
-   "query": "SAP Subscription Order Management",
-   "id": "4ee3d6094a9c9a3b",
-   "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-11-07",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP S/4HANA ABAP Developer",
-   "company": "Jade Global",
-   "location": "MH, IN",
-   "remote": false,
-   "posted_at": "2026-11-06",
-   "apply_url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/Jade_Careers/job/Pune-Maharashtra/SAP-S-4HANA-ABAP-Developer_R-106567",
-   "listing_url": "https://in.indeed.com/viewjob?jk=7565f91f14966992",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "SAP S/4HANA ABAP Developer4\n* Strong hands\\-on experience in SAP ABAP development, preferably in SAP S/4HANA environments.\n* Expertise in ABAP OO, CDS Views, AMDP, OData Services, BAPIs, BADIs, Enhancements, and User Exits.\n* Proficiency in S/4HANA development using ABAP on HANA, RAP, and SAP Fiori/UI5 integration.\n* Functional understanding of at least one domain: **Finance (FI/CO), Order \\& Billing Management (SD/BRIM), or Credit Management (FSCM)** .\n* Experience developing custom reports, interfaces, conversions, enhancements, forms, and workflows (RICEF).\n* Strong understanding of SAP integration using IDocs, RFCs, APIs, and middleware technologies.\n* Experience in debugging, performance optimization, code remediation, and S/4HANA migration.\n* Ability to translate functional requirements into scalable technical designs and development solutions.\n* Experience with SAP BTP, ABAP Cloud, and Clean Core principles is an added advantage.\n* Hands\\-on experience in unit testing, integration testing, defect resolution, and production support.\n* Strong problem\\-solving, technical documentation, and cross\\-functional collaboration skills.\n* Experience in global SAP implementation, rollout, S/4 upgrade and enhancement projects preferred.",
-   "query": "SAP BRIM",
-   "id": "e2a95dfdec0a831d",
-   "region": "India",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-07",
    "repost_count": 0
   }
  ],
@@ -693,6 +741,12 @@
    "id": "e60296223fbd9fd7",
    "company": "Avangrid",
    "title": "Sr Manager - SAP Billing & FICA",
+   "reposts": 1
+  },
+  {
+   "id": "df81065a823bfdf7",
+   "company": "Deloitte",
+   "title": "SAP BRIM - Senior Consultant",
    "reposts": 1
   }
  ]

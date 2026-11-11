@@ -1,15 +1,17 @@
-# Feed summary 2026-11-10
+# Feed summary 2026-11-11
 
-raw 384 · relevant 21 · new today 6 · emitted 11
+raw 387 · relevant 22 · new today 10 · emitted 13
 
+- 2026-11-11 · **Visdinsolution** — SAP ABAP Developer · Remote, IN · indeed
+- 2026-11-11 · **Viraaj HR Solutions Private Limited** — SAP FICO Consultant · Chennai, Tamil Nadu, India · linkedin
+- 2026-11-11 · **VRINDA INTERNATIONAL** — SAP SD / SOM ANALYST & CONFIGURATOR ·  · linkedin
+- 2026-11-11 · **VGAI Solutions** — SAP BRIM · Dallas, TX · linkedin
+- 2026-11-11 · **UST** — Lead II - Enterprise Solutions - SAP ABAP Lead (ABAP & Implementation) · KA, IN · indeed
+- 2026-11-11 · **Tekgence Inc** — SAP Hiring (SAP SD+SOM/FICO+RAR/ABAP+RAP/ ABAP+Fiory -Pune/Bangalore/HYD-7+Years- Fulltime · Pune District, Maharashtra, India · linkedin
+- 2026-11-11 · **Nagarro** — Associate Principal Engineer, SAP FICA · MH, IN · indeed
+- 2026-11-11 · **KPMG US** — Director, SAP IS-U Architect - Power & Utilities · Multiple (12): Cleveland, OH, Detroit, MI, Tampa, FL, Orlando, FL … · linkedin
+- 2026-11-11 · **Global Business Ser. 4u** — SAP FICO Business Analyst // Newark DE · Newark, DE · linkedin
+- 2026-11-11 · **EPAM Systems** — Lead / Senior SAP Joule & Multi-Agent Integration Engineer · MH, IN · indeed
 - 2026-11-10 · **appsierra** — SAP ABAP Developer (RICEFW, HANA, BRIM/FSCM) · MH, IN · indeed
-- 2026-11-10 · **Viraaj HR Solutions Private Limited** — SAP FICO Consultant · Multiple (4): Chennai, Tamil Nadu, India, Pune Division, Maharashtra, India, Hyderabad, Telangana, India, Bengaluru, Karnataka, India · linkedin
-- 2026-11-10 · **Tech Global** — SAP BRIM Developer · Harrisburg, PA · linkedin
 - 2026-11-10 · **Jade Global** — SAP SD Consultant · MH, IN · indeed
-- 2026-11-10 · **Helios Systems Asia** — SAP SD · Bangalore Urban district, India · linkedin
 - 2026-11-10 · **AppSierra** — SAP ABAP Developer (RICEFW, HANA, BRIM/FSCM) · Pune Division, Maharashtra, India · linkedin
-- 2026-11-08 · **Information Technology Senior Management Forum** — SAP IS-U ABAP Developer Manager - Resources/Utilities · Chicago, IL, US · indeed
-- 2026-11-07 · **Logic, Inc.** — SAP IS-U ABAP Developer Manager - Resources/Utilities · Chicago, IL, US · indeed
-- 2026-11-07 · **Logic, Inc.** — SAP IS-U ABAP Developer Consultant - Resources/Utilities · Chicago, IL, US · indeed
-- 2026-11-07 · **Jade Global** — SAP SD · Pune City, Maharashtra, India · linkedin
-- 2026-11-07 · **Jade Global** — SAP S/4HANA ABAP Developer · MH, IN · indeed
