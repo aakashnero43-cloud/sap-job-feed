@@ -1,9 +1,20 @@
-# Feed summary 2026-11-11
+# Feed summary 2026-11-12
 
-raw 387 · relevant 22 · new today 10 · emitted 13
+raw 403 · relevant 33 · new today 12 · emitted 24
 
+- 2026-11-12 · **WISE EQUATION SOLUTION INC** — SAP RAR LEAD · Somerset, NJ, US · indeed
+- 2026-11-12 · **VRINDA INTERNATIONAL** — SAP DRC PROGRAM MANAGER (FTE) · Mengio, Arunachal Pradesh, India · linkedin
+- 2026-11-12 · **SkillBridge** — Project Manager (SAP DRC) · Bengaluru, Karnataka, India · linkedin
+- 2026-11-12 · **PwC** — SAP BRIM Consultant, Director · Seattle, WA · linkedin
+- 2026-11-12 · **PwC** — SAP BRIM Consultant, Director · Baltimore, MD · linkedin
+- 2026-11-12 · **NTT DATA Business Solutions** — SAP FICO Public, Private Cloud- Senior Consultant · Hyderabad, Telangana, India · linkedin
+- 2026-11-12 · **Kasmoprav** — SAP Functional BRIM Specialist /Architect. · Remote, IN · indeed
+- 2026-11-12 · **Kasmoprav** — SAP ABAP Technical consultant · Remote, IN · indeed
+- 2026-11-12 · **EY** — SAP - IS-U Billing -Senior - Consulting - Location OPEN · Boca Raton, FL · linkedin
+- 2026-11-12 · **EY** — SAP - IS-U Billing -Senior - Consulting - Location OPEN · Tallahassee, FL · linkedin
+- 2026-11-12 · **EPAM Systems** — Lead / Senior SAP Joule & Multi-Agent Integration Engineer · TN, IN · indeed
+- 2026-11-12 · **Clevanoo LLC** — SAP Consultant · Florida, United States · linkedin
 - 2026-11-11 · **Visdinsolution** — SAP ABAP Developer · Remote, IN · indeed
-- 2026-11-11 · **Viraaj HR Solutions Private Limited** — SAP FICO Consultant · Chennai, Tamil Nadu, India · linkedin
 - 2026-11-11 · **VRINDA INTERNATIONAL** — SAP SD / SOM ANALYST & CONFIGURATOR ·  · linkedin
 - 2026-11-11 · **VGAI Solutions** — SAP BRIM · Dallas, TX · linkedin
 - 2026-11-11 · **UST** — Lead II - Enterprise Solutions - SAP ABAP Lead (ABAP & Implementation) · KA, IN · indeed
