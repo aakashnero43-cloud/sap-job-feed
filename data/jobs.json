@@ -1,53 +1,153 @@
 {
- "generated_at": "2026-11-18T02:42:22+00:00",
+ "generated_at": "2026-11-19T02:13:55+00:00",
  "window_days": 4,
  "counts": {
-  "raw": 392,
-  "relevant": 15,
-  "new_today": 8,
-  "emitted": 12,
+  "raw": 417,
+  "relevant": 22,
+  "new_today": 7,
+  "emitted": 15,
   "expired_today": 0,
   "liveness_checked": 60
  },
  "jobs": [
   {
-   "title": "SAP BRIM Consultant, Senior Associate",
-   "company": "PwC",
-   "location": "Atlanta, GA, US",
+   "title": "SAP ABAP + Fiori Developer",
+   "company": "White whale software solutions private limited",
+   "location": "KA, IN",
    "remote": false,
-   "posted_at": "2026-11-17",
-   "apply_url": "https://jobs-us.pwc.com/us/en/job/743672WD/SAP-BRIM-Consultant-Senior-Associate",
-   "listing_url": "https://www.indeed.com/viewjob?jk=75a54125d95a04d4",
+   "posted_at": "2026-11-18",
+   "apply_url": "http://in.indeed.com/job/sap-abap-fiori-developer-a51f918c08e8deb8",
+   "listing_url": "https://in.indeed.com/viewjob?jk=a51f918c08e8deb8",
    "job_type": "",
-   "salary": "77000.0 202000.0 USD yearly",
-   "description": "As a SAP BRIM Consultant, Senior Associate, you will play a pivotal role in helping clients optimize their operational efficiency by analyzing client needs, implementing software solutions, and providing training and support for seamless integration and utilization of business applications. Within our Digital Core Modernisation practice, you will focus on SAP Customer Relationship Management (CRM) applications, enabling clients to enhance customer satisfaction and achieve their strategic objectives.\n  \n\n  \n\nAs a Senior Associate, you will build meaningful client connections and learn how to manage and inspire others. You will navigate increasingly complex situations, growing your personal brand and deepening your technical skills. You are expected to anticipate the needs of your teams and clients, delivering quality solutions. Embracing increased ambiguity, you will be comfortable when the path forward isn’t clear, using these moments as opportunities to grow.\n  \n\n  \n\nIn this role, you will leverage your skills to analyze complex concepts and interpret data to inform insights and recommendations. You will uphold professional and technical standards, using a broad range of tools and methodologies to generate new ideas and solve problems. This position offers a dynamic environment where you can develop a deeper understanding of the business context and how it is evolving.\n  \n\n  \n\nResponsibilities\n  \n\n  \n\n* Analyzing client requirements to implement SAP CRM software solutions effectively\n* Providing training and support for seamless integration and utilization of SAP CRM applications\n* Optimizing customer relationship management processes to enhance client satisfaction and achieve strategic objectives\n* Navigating complex situations to grow personal brand and deepen technical skills\n* Anticipating the needs of teams and clients to deliver quality solutions\n* Utilizing critical thinking to break down complex concepts and inform insights\n* Developing a deeper understanding of business context and adapting to changes\n* Upholding professional and technical standards, including adherence to the Firm's code of conduct\n* Building meaningful client connections and managing relationships effectively\n* Leveraging business process consulting skills to improve operational efficiency and client engagement\n\n  \n\nWhat You Must Have\n  \n\n  \n\n* At least a Bachelor's degree\n* At least 2 years of experience\n\n  \n\nWhat Sets You Apart\n  \n\n  \n\n* Preference for a Master's or Masters of Business Administration degree in at least one of the following fields of study: Business Administration/Management, Computer Science/Information Systems\n* Demonstrating proficiency in SAP Cloud for Customer and SAP CRM\n* Utilizing analytical thinking to break down complex business processes\n* Developing business process improvement strategies for client engagements\n* Excelling in customer relationship management and customer engagement\n* Implementing technology solutions to enhance customer satisfaction\n* Navigating ambiguity while delivering quality client solutions\n\nThe salary range for this position is: $77,000 \\- $202,000\\. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance\n\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.\n\n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.\n\n\nLearn more about how we work: https://pwc.to/how\\-we\\-work\n\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines\n  \n\n\\#LI\\-Hybrid",
+   "salary": "",
+   "description": "**Job Title: SAP ABAP \\+ Fiori Developer**\n\nWe are looking for an experienced SAP ABAP \\+ Fiori Developer with strong technical expertise in SAP ABAP development, SAP S/4HANA, and Fiori/UI5 integration.\n\nThe ideal candidate should have hands\\-on experience in ABAP OO, CDS Views, AMDP, OData Services, RAP, and SAP integration technologies. The candidate should also possess functional understanding of at least one SAP domain, such as Finance (FI/CO), Order \\& Billing Management (SD/BRIM), or Credit Management (FSCM).\n\n**Key Responsibilities**\n\n* Develop and maintain custom SAP ABAP applications in SAP S/4HANA environments.\n* Design and implement solutions using ABAP OO, CDS Views, AMDP, and OData Services.\n* Develop and enhance SAP Fiori/UI5 applications.\n* Work with ABAP on HANA and REST\\-based services.\n* Implement BAPIs, BADIs, Enhancements, and User Exits.\n* Develop RICEF objects, including:\n* Reports\n* Interfaces\n* Conversions\n* Enhancements\n* Forms\n* Workflows\n* Integrate SAP systems using IDocs, RFCs, APIs, and middleware technologies.\n* Perform debugging, performance optimization, and code remediation.\n* Support SAP S/4HANA migration and development activities.\n* Translate functional requirements into scalable technical designs.\n* Perform unit testing, integration testing, and defect resolution.\n* Provide production support and technical documentation.\n* Collaborate with functional consultants and cross\\-functional teams.\n\n**Required Skills \\& Qualifications**\n\n* Strong hands\\-on experience in SAP ABAP development.\n* Experience working in SAP S/4HANA environments.\n* Expertise in ABAP Object\\-Oriented Programming (ABAP OO).\n* Strong knowledge of:\n* CDS Views\n* AMDP\n* OData Services\n* BAPIs\n* BADIs\n* Enhancements\n* User Exits\n* Experience with ABAP on HANA and RAP.\n* Hands\\-on experience with SAP Fiori and UI5 integration.\n* Experience in RICEF development.\n* Strong understanding of SAP integration using IDocs, RFCs, APIs, and middleware.\n* Experience in debugging, performance tuning, and S/4HANA migration.\n* Ability to understand functional requirements and develop technical solutions.\n* Strong problem\\-solving and communication skills.\n\n**Functional Domain Knowledge**\n\nCandidates must have functional understanding of at least one of the following domains:\n\n* **Finance:** SAP FI/CO.\n* **Order \\& Billing Management:** SAP SD/BRIM.\n* **Credit Management:** SAP FSCM.\n\n**Preferred Skills**\n\n* SAP Business Technology Platform (BTP).\n* ABAP Cloud.\n* Clean Core principles.\n* Experience with global SAP implementations and rollouts.\n* Strong understanding of SAP S/4HANA development and migration projects.\n\n**Testing \\& Support**\n\n* Hands\\-on experience in unit testing and integration testing.\n* Defect identification and resolution.\n* Production support and troubleshooting.\n* Technical documentation and cross\\-functional collaboration.\n\n**How to Apply**\n\nInterested candidates with relevant SAP ABAP, Fiori, and S/4HANA development experience are encouraged to apply.\n\n**Apply Here:**  \nhttps://forms.gle/YUzQjXQQ8YCu2kid9\n\nPay: ₹2,500,000\\.00 \\- ₹3,430,000\\.00 per year\n\nWork Location: In person",
    "query": "SAP BRIM",
-   "id": "6a71ecc6aa0404b8",
-   "region": "US",
+   "id": "f57fa1588074ef3b",
+   "region": "India",
    "sources": [
     "indeed"
    ],
-   "first_seen": "2026-11-18",
+   "first_seen": "2026-11-19",
    "repost_count": 0
   },
   {
-   "title": "SAP BRIM Consultant, Manager",
-   "company": "PwC",
-   "location": "New York, NY, US",
-   "remote": false,
-   "posted_at": "2026-11-17",
-   "apply_url": "https://jobs-us.pwc.com/us/en/job/743671WD/SAP-BRIM-Consultant-Manager",
-   "listing_url": "https://www.indeed.com/viewjob?jk=27014efd8628f013",
+   "title": "SAP ABAP Developer – RICEFW + HANA + BRIM/FSCM - 100% Remote",
+   "company": "VGreenTek",
+   "location": "KL, IN",
+   "remote": true,
+   "posted_at": "2026-11-18",
+   "apply_url": "https://vgreentek.oorwin.ai/#/careers/index.html/job/details/b7553c6080f116f0115b1f080e03484b98292d8b?source=indeed&postedby=11",
+   "listing_url": "https://in.indeed.com/viewjob?jk=0e5ba3ea8ea9ed70",
    "job_type": "",
-   "salary": "99000.0 232000.0 USD yearly",
-   "description": "As a SAP BRIM Consultant, Manager, you will lead our clients in their customer transformation journey, reimagining exceptional experiences for their customers and employees while achieving revenue growth goals. Within our SAP practice, you will focus on delivering business\\-led, technology\\-enabled change across the digital core, leveraging SAP solutions to solve business problems and fuel success in finance, supply chain, customer, human capital, and engineering.\n  \n\n  \n\nAs a Manager, you will develop new skills outside your comfort zone, coach others, and encourage them to take ownership of their personal development. You will analyze complex ideas and build meaningful recommendations, using multiple sources of information to develop solutions. You are expected to uphold the firm's code of ethics and business conduct, addressing sub\\-standard work and simplifying complex messages.\n  \n\n  \n\nIn this role, you will focus on Lead to Cash transformation for our clients, enabling next\\-generation XaaS business models with SAP C/4 Sales, Service and Marketing cloud, SAP CPQ, SAP Commerce, SAP Subscription Billing (BRIM), SAP Entitlement Management, and SAP S/4 Sales and Distribution solutions. You will play a crucial role in driving client engagement workstreams, mentoring junior staff, and contributing to the firm's purpose and values.\n  \n\n  \n\nResponsibilities\n  \n\n  \n\n* Leading client engagements in SAP BRIM implementations, focusing on Lead to Cash transformation\n* Guiding teams in the strategic planning and execution of SAP C/4 Sales, Service, and Marketing cloud solutions\n* Utilizing SAP Subscription Billing and SAP Entitlement Management to enhance client business models\n* Analyzing complex business processes to develop meaningful recommendations and solutions\n* Managing stakeholder expectations and building consensus to create positive outcomes\n* Coaching team members to recognize their strengths and encouraging ownership of personal development\n* Developing and deploying innovative SAP solutions to address client business challenges\n* Simplifying complex messages and summarizing key points for diverse audiences\n* Upholding ethical standards and business conduct in all client interactions\n* Collaborating with cross\\-functional teams to drive customer transformation initiatives\n\n  \n\nWhat You Must Have\n  \n\n  \n\n* At least a Bachelor's degree\n* At least 4 years of experience\n\n  \n\nWhat Sets You Apart\n  \n\n  \n\n* Preference for a Master's or Masters of Business Administration degree in at least one of the following fields of study: Business Administration/Management, Computer Science/Information Systems\n* Demonstrating proficiency in SAP Cloud for Customer and SAP CRM\n* Utilizing analytical thinking to develop strategic business solutions\n* Excelling in business process improvement and modeling\n* Managing customer relationship management systems effectively\n* Embracing change and fostering innovation in technology implementation\n* Coaching and mentoring teams to enhance performance and development\n\nThe salary range for this position is: $99,000 \\- $232,000\\. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits\\-at\\-a\\-glance\n\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.\n\n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H\\-1B lottery, except as set forth within the following policy: https://pwc.to/H\\-1B\\-Lottery\\-Policy.\n\n\nLearn more about how we work: https://pwc.to/how\\-we\\-work\n\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us\\-application\\-deadlines",
+   "salary": "",
+   "description": "SAP ABAP Developer \\- RICEFW \\+ HANA \\+ BRIM/FSCM \\- 100% Remote  \n\nLocation: 100% Remote  \n\nJob Type: Contract  \n\nBudget: 1\\.5 LPM  \n\nExperience: 9 \\- 12 Years\n\n\nJob Description  \n\nWe are looking for a senior SAP ABAP Developer with strong expertise in SAP ABAP development, RICEFW objects, HANA, and experience with BRIM and FSCM\\-related technologies. The candidate should have experience in SAP technical development, integration, and modern SAP technologies.\n\n\nKey Responsibilities  \n\nDevelop and maintain SAP ABAP solutions.  \n\nWork on RICEFW development objects.  \n\nDevelop and support OO ABAP solutions.  \n\nWork with HANA, CDS Views, and AMDP.  \n\nDevelop and support BAPIs, BADIs, IDOCs, and RFC integrations.  \n\nWork on OData services and REST/SOAP integrations.  \n\nSupport SAP Fiori and Gateway\\-related development.  \n\nWork on BRIM, FSCM, CRM, SOM, and BRF\\+ related requirements.\n\n\nRequired Skills  \n\nSAP ABAP  \n\nRICEFW  \n\nSAP HANA  \n\nOO ABAP  \n\nBRIM  \n\nFSCM  \n\nBRF\\+  \n\nCRM  \n\nSOM  \n\nCDS Views  \n\nAMDP  \n\nBAPI  \n\nBADI  \n\nIDOC  \n\nRFC  \n\nOData  \n\nREST / SOAP  \n\nSAP Fiori / Gateway",
    "query": "SAP BRIM",
-   "id": "eb3555f68dbe83c1",
+   "id": "8df2b3f0d5561a69",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-19",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Subscription Management - SOM (BRIM) Solution Architect",
+   "company": "Hewlett Packard Enterprise",
+   "location": "Sunnyvale, CA",
+   "remote": false,
+   "posted_at": "2026-11-16",
+   "apply_url": "https://www.linkedin.com/jobs/view/4490601806",
+   "listing_url": "https://www.linkedin.com/jobs/view/4490601806",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n   \n\n  \n\n****Who We Are:****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n   \n\n  \n\n****Job Description:****\n L2C Program\n   \n\n  \n\n****Job Description****\n**Role**\n Subscription/SW: SAP Subscription Management \\- SOM (BRIM) Solution Architect\n   \n\n  \n\n**Onshore / Offshore**\n Onshore\n   \n\n  \n\n****Who We Are****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves together and are a force for good. If you are looking to stretch and grow your career, our culture will embrace you.\n   \n\n  \n\n****Job Description****\n HPE’s acquisition of Juniper Networks is one of the most significant moves in the company’s history, bringing two networking leaders together to build\n **HPE Networking** \n , with the ambition of creating the\n **best networking business on the planet** \n . This role sits at the center of that effort as part of\n **the Lead\\-to\\-Cash (L2C) program** \n , responsible for unifying quoting, ordering, and fulfillment across the combined HPE and Juniper networking portfolios onto a\n **single platform** \n , replacing fragmented legacy systems with one seamless, scalable experience for sellers, partners, and customers worldwide.\n   \n\n  \n\n As part of a fast\\-moving,\n **multi\\-year transformation** \n , the team will stabilize near\\-term operations,\n **migrate core** \n**platforms, onboard businesses and suppliers globally** \n , and build new capabilities from the ground up. The choices made here will shape how the combined networking business operates for years to come. You will work closely with\n **business leaders, IT architects, suppliers, and partner stakeholders** \n on a program with direct executive visibility, solving integration challenges at a scale few companies ever attempt.\n   \n\n  \n\n For the right person, this is a rare opportunity to help\n **build a new business unit from its earliest days** \n , rather than inherit someone else’s systems. You will gain\n **hands\\-on exposure to enterprise\\-scale platform integration and cross\\-functional program leadership** \n , with the kind of complexity and pace that can accelerate your career. If you want your work to have a visible impact on a company making a significant investment in its future, this is where that happens.\n   \n\n  \n\n**Workstream\\-Specific Details**\n****Responsibilities****\n* Own the end\\-to\\-end solution architecture for SAP Subscription Order Management (SOM) within SAP BRIM, covering subscription order capture, provisioning, and lifecycle change processes across the combined HPE and Juniper networking portfolios.\n* Define the target\\-state design for subscription and consumption\\-based offers, including product and rate\\-plan modelling, technical and master agreements, and one\\-off, recurring, and usage\\-based charging.\n* Architect integrations across the Lead\\-to\\-Cash landscape — CPQ and quoting, SAP SOM, Convergent Charging and Convergent Invoicing, FI\\-CA, revenue accounting, and downstream fulfillment and entitlement systems.\n* Translate business requirements into architecture artifacts: solution blueprints, process and data flows, interface specifications, and design decision records.\n* Act as design authority for the workstream — review functional and technical designs, enforce SAP best practice, and resolve cross\\-workstream design conflicts.\n* Partner with the data and migration teams on the migration of legacy subscription contracts and install base into the unified platform.\n* Guide onshore and offshore development teams through build, unit test, and defect resolution, ensuring delivery matches the approved design.\n* Identify and mitigate design risks relating to scalability, performance, and operational supportability at HPE volumes.\n* Support test strategy, cutover planning, and HyperCare, including root\\-cause analysis of production issues in the subscription order flow.\n* Advise business and IT leadership on trade\\-offs, standard\\-versus\\-custom decisions, and roadmap alignment with SAP product direction.\n\n\n****Education And Experience Required****\n* Bachelor’s degree in computer science, Engineering, Information Systems, or a related field; Master's degree an asset.\n* 10\\+ years of SAP experience, including 5\\+ years focused on SAP BRIM (Billing and Revenue Innovation Management).\n* At least two full\\-lifecycle SAP SOM implementations in a solution architect or lead design role, from blueprint through HyperCare.\n* Demonstrated experience architecting subscription or consumption\\-based commercial models in a high\\-tech, networking, software, or telecommunications environment.\n* Experience delivering within large, multi\\-year transformation or post\\-merger integration programs with global scope.\n* Experience working in agile or SAFe delivery models with distributed onshor",
+   "query": "SAP BRIM",
+   "id": "7a627da7f8a70266",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-19",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Subscription Management - SOM (BRIM) Solution Architect",
+   "company": "Hewlett Packard Enterprise",
+   "location": "San Jose, CA",
+   "remote": false,
+   "posted_at": "2026-11-16",
+   "apply_url": "https://www.linkedin.com/jobs/view/4490610380",
+   "listing_url": "https://www.linkedin.com/jobs/view/4490610380",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n   \n\n  \n\n****Who We Are:****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n   \n\n  \n\n****Job Description:****\n L2C Program\n   \n\n  \n\n****Job Description****\n**Role**\n Subscription/SW: SAP Subscription Management \\- SOM (BRIM) Solution Architect\n   \n\n  \n\n**Onshore / Offshore**\n Onshore\n   \n\n  \n\n****Who We Are****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves together and are a force for good. If you are looking to stretch and grow your career, our culture will embrace you.\n   \n\n  \n\n****Job Description****\n HPE’s acquisition of Juniper Networks is one of the most significant moves in the company’s history, bringing two networking leaders together to build\n **HPE Networking** \n , with the ambition of creating the\n **best networking business on the planet** \n . This role sits at the center of that effort as part of\n **the Lead\\-to\\-Cash (L2C) program** \n , responsible for unifying quoting, ordering, and fulfillment across the combined HPE and Juniper networking portfolios onto a\n **single platform** \n , replacing fragmented legacy systems with one seamless, scalable experience for sellers, partners, and customers worldwide.\n   \n\n  \n\n As part of a fast\\-moving,\n **multi\\-year transformation** \n , the team will stabilize near\\-term operations,\n **migrate core** \n**platforms, onboard businesses and suppliers globally** \n , and build new capabilities from the ground up. The choices made here will shape how the combined networking business operates for years to come. You will work closely with\n **business leaders, IT architects, suppliers, and partner stakeholders** \n on a program with direct executive visibility, solving integration challenges at a scale few companies ever attempt.\n   \n\n  \n\n For the right person, this is a rare opportunity to help\n **build a new business unit from its earliest days** \n , rather than inherit someone else’s systems. You will gain\n **hands\\-on exposure to enterprise\\-scale platform integration and cross\\-functional program leadership** \n , with the kind of complexity and pace that can accelerate your career. If you want your work to have a visible impact on a company making a significant investment in its future, this is where that happens.\n   \n\n  \n\n**Workstream\\-Specific Details**\n****Responsibilities****\n* Own the end\\-to\\-end solution architecture for SAP Subscription Order Management (SOM) within SAP BRIM, covering subscription order capture, provisioning, and lifecycle change processes across the combined HPE and Juniper networking portfolios.\n* Define the target\\-state design for subscription and consumption\\-based offers, including product and rate\\-plan modelling, technical and master agreements, and one\\-off, recurring, and usage\\-based charging.\n* Architect integrations across the Lead\\-to\\-Cash landscape — CPQ and quoting, SAP SOM, Convergent Charging and Convergent Invoicing, FI\\-CA, revenue accounting, and downstream fulfillment and entitlement systems.\n* Translate business requirements into architecture artifacts: solution blueprints, process and data flows, interface specifications, and design decision records.\n* Act as design authority for the workstream — review functional and technical designs, enforce SAP best practice, and resolve cross\\-workstream design conflicts.\n* Partner with the data and migration teams on the migration of legacy subscription contracts and install base into the unified platform.\n* Guide onshore and offshore development teams through build, unit test, and defect resolution, ensuring delivery matches the approved design.\n* Identify and mitigate design risks relating to scalability, performance, and operational supportability at HPE volumes.\n* Support test strategy, cutover planning, and HyperCare, including root\\-cause analysis of production issues in the subscription order flow.\n* Advise business and IT leadership on trade\\-offs, standard\\-versus\\-custom decisions, and roadmap alignment with SAP product direction.\n\n\n****Education And Experience Required****\n* Bachelor’s degree in computer science, Engineering, Information Systems, or a related field; Master's degree an asset.\n* 10\\+ years of SAP experience, including 5\\+ years focused on SAP BRIM (Billing and Revenue Innovation Management).\n* At least two full\\-lifecycle SAP SOM implementations in a solution architect or lead design role, from blueprint through HyperCare.\n* Demonstrated experience architecting subscription or consumption\\-based commercial models in a high\\-tech, networking, software, or telecommunications environment.\n* Experience delivering within large, multi\\-year transformation or post\\-merger integration programs with global scope.\n* Experience working in agile or SAFe delivery models with distributed onshor",
+   "query": "SAP Subscription Order Management",
+   "id": "1a63d9bbffd323ec",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-19",
+   "repost_count": 0
+  },
+  {
+   "title": "Senior Technical Lead - SAP S4HANA, Java, SAP PLM",
+   "company": "HCLTech",
+   "location": "San Diego, CA, US",
+   "remote": false,
+   "posted_at": "2026-11-18",
+   "apply_url": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=193704&lang=en_US&jobPipeline=Indeed",
+   "listing_url": "https://www.indeed.com/viewjob?jk=433be534d9f982a5",
+   "job_type": "",
+   "salary": "95000.0 151000.0 USD yearly",
+   "description": "**Job Summary**\n---------------\n\n\n\n8–12\\+ years SAP \\| 5\\+ years SAP RAR\n\n\nExperience in **SAP S/4HANA Revenue Accounting and Reporting (RAR) Consultant** with strong hands\\-on expertise in **SAP RAR, ASC 606/IFRS 15, revenue recognition, and SAP SD/FI integration**.\n\n\nThe consultant will support end\\-to\\-end RAR solution design, configuration, integration, testing, reconciliation, cutover, and production support in a complex global Finance environment.\n\n\n**Key Responsibilities**\n------------------------\n\n\n* Design and configure end\\-to\\-end SAP S/4HANA RAR solutions.\n* Translate ASC 606 revenue\\-accounting requirements into SAP configuration and functional designs.\n* Configure RAIs, Revenue Contracts, POBs, SSP, allocation, fulfillment, and revenue recognition.\n* Integrate RAR with SAP SD, FI/CO, billing, and upstream/downstream systems.\n* Support complex revenue scenarios including contract changes, credits, cancellations, and revenue adjustments.\n* Perform reconciliation between source transactions, RAR, billing, and General Ledger.\n* Support testing, defect resolution, data migration, cutover, and go\\-live stabilization.\n* Prepare functional specifications, test scripts, configuration, reconciliation, and control documentation.\n* Collaborate with Finance, Accounting, technical, integration, and business teams.\n\n**Preferred / Nice\\-to\\-Have**\n\n* SAP BRIM / FI\\-CA experience\n* Subscription billing experience\n* S/4HANA transformation or ECC\\-to\\-S/4 migration\n* SAP Fiori\n* SAP Integration Suite/CPI, APIs, and IDocs\n* ABAP debugging/troubleshooting knowledge\n* Experience in life sciences, medical device, technology, or regulated industries\n* SAP RAR certification\n\n\n**Skill Requirements**\n----------------------\n\n\n* 5\\+ years hands\\-on SAP RAR experience\n* SAP S/4HANA RAR implementation experience\n* Strong knowledge of ASC 606 / IFRS 15\n* Hands\\-on configuration of:\n* + Revenue Accounting Items (RAI)\n\t+ Revenue Contracts\n\t+ Performance Obligations (POB)\n\t+ Standalone Selling Price (SSP)\n\t+ Revenue Allocation \\& Recognition\n\t+ Fulfillment\n\t+ Contract Modifications / Combinations\n* Strong SAP SD, FI/CO and RAR integration experience\n* Strong understanding of Order\\-to\\-Cash and Contract\\-to\\-Revenue\n* Experience with revenue postings, deferrals, reconciliation, and period\\-end processing\n* Experience with SIT, FUT/UAT, data migration, cutover, and production support\n* Ability to troubleshoot complex RAR integration and accounting issues\n\n\n**Must Have Skill**\n-------------------\n\n\nJava,SAP Product Lifecycle Management (PLM),SAP S4HANA\n**Good to Have Skill**\n----------------------\n\n\n**Other Requirements**\n----------------------\n\n\n\nSAP RAR \\| S/4HANA RAR \\| Revenue Accounting and Reporting \\| ASC 606 \\| IFRS 15 \\| Revenue Recognition \\| RAI \\| Revenue Accounting Items \\| POB \\| Performance Obligations \\| SSP \\| Standalone Selling Price \\| Revenue Contracts \\| Revenue Allocation \\| SAP SD \\| SAP FI/CO \\| Order\\-to\\-Cash \\| Contract\\-to\\-Revenue \\| Revenue Reconciliation",
+   "query": "SAP BRIM",
+   "id": "7a42ca6fbb9a18d5",
    "region": "US",
    "sources": [
     "indeed"
    ],
-   "first_seen": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Developer - IT Customer & Metering Systems",
+   "company": "FirstEnergy",
+   "location": "Akron, OH, US",
+   "remote": false,
+   "posted_at": "2026-11-18",
+   "apply_url": "https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/job/105962",
+   "listing_url": "https://www.indeed.com/viewjob?jk=b3c4315b5463fec5",
+   "job_type": "parttime",
+   "salary": "",
+   "description": "FirstEnergy at a Glance\n\n\nWe are a forward\\-thinking electric utility powered by a diverse team of employees committed to making customers’ lives brighter, the environment better and our communities stronger.\n\n\nFirstEnergy (NYSE: FE) is dedicated to safety, reliability, and operational excellence. Headquartered in Akron, Ohio, FirstEnergy includes one of the nation's largest investor\\-owned electric systems, more than 24,500 miles of transmission lines that connect the Midwest and Mid\\-Atlantic regions, and a regulated generating fleet with a total capacity of 3,780 megawatts.\n\n\nThis position is within FirstEnergy Service Co., a subsidiary of FirstEnergy Corp.\n\n\n**Position Summary**\n====================\n\nFirstEnergy is seeking an SAP Developer to support its current SAP ECC environment and contribute to its ERP modernization efforts, with SAP S/4HANA as the preferred future\\-state platform. This role focuses on developing, enhancing, integrating, and supporting SAP solutions for customer invoicing, payments, and collections.\n\n\nThis opportunity is well suited for candidates with a solid programming foundation who want to grow in SAP development. Recent college graduates with relevant coursework or internship experience, developers new to SAP, and those with hands\\-on SAP experience are all encouraged to apply. The successful candidate will bring strong technical aptitude, a passion for problem solving, and a desire to continue learning.\n\n\n**Primary Responsibilities**\n============================\n\n* Develop, maintain, and enhance SAP solutions supporting customer invoicing, payments, collections, and assistance programs.\n* Partner with business clients and functional teams to analyze business requirements and translate them into effective technical specifications and solutions.\n* Design, develop, and support SAP programs, reports, interfaces, workflows, enhancements, and integrations.\n* Ensure solutions adhere to established development standards, security requirements, and best practices.\n* Troubleshoot, analyze, and resolve application defects and production issues.\n* Develop and execute unit test plans and support user acceptance testing activities.\n* Prepare and maintain technical documentation for implemented solutions and support procedures.\n* Provide day\\-to\\-day production support, including incident resolution, root cause analysis, and operational monitoring.\n* Support nightly batch processing for customer billing, including occasional after\\-hours support as needed.\n\n**Required Qualifications**\n===========================\n\n* Bachelor's degree in Computer Science, Information Technology, Computer Information Systems, Software Engineering, or a related discipline; or equivalent work experience.\n* Knowledge of programming concepts, software development principles, and application design and support practices.\n* Understanding of software development lifecycle methodologies.\n* Ability to collaborate effectively with both technical and non\\-technical stakeholders.\n* Strong analytical, organizational, problem\\-solving, and communication skills.\n* Ability to manage multiple priorities and deliver results in a fast\\-paced environment.\n* Work independently while contributing effectively to team goals and objectives.\n* Willingness to learn new technologies, business processes, platforms, and development tools.\n* Strong commitment to customer service and process improvement.\n* Fully proficient in Microsoft Office 365 suite.\n* Excellent written and verbal communication skills.\n\n**Preferred Qualifications**\n============================\n\n* Hands\\-on experience developing or supporting SAP applications, including ABAP programming for reports, interfaces, and enhancements.\n* Exposure to SAP S/4HANA and SAP Fiori through project work, training, or certification.\n* Experience contributing to an ERP upgrade, migration, or implementation, such as custom code remediation, testing, or cutover support.\nSAP IS\\-U (Utilities) experience, particularly in billing, invoicing, or contract accounts receivable and payable (FI\\-CA).  \n* \n\n**Benefits, Compensation \\& Workforce Diversity**\n\nAt FirstEnergy, employees are key to our success. We depend on their talents to meet the challenges of our changing business environment. We are committed to rewarding individual and team efforts through our total rewards philosophy which includes competitive pay plus incentive compensation, a company\\-sponsored pension plan, 401(k) savings plan with matching employer contribution, a choice of medical, prescription drug, dental, vision, and life insurance programs, as well as skills development training with tuition reimbursement. Please visit our website at www.firstenergycorp.com to learn more about all of our employee rewards programs. FirstEnergy proudly supports workforce diversity. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with a disability. No recruiters or agencies without a previously signed contract. Unable to sponsor or transfer H\\-1B visas at this time.\n\n\n**Safety**\n\nSafety is a core value for FirstEnergy and is essential to all of our business activities. We ensure employees have the tools, information, and processes to perform their duties in a manner that assures safety for themselves, their co\\-workers, our customers and the public. Our goals are to provide a safe work environment, to maintain an accident\\-free, injury\\-free workplace, and to promote and maintain public safety. To meet these goals, we dedicate ourselves to achieving world\\-class safety standards.\n\n\n**Position Classification**\n\nExempt\n\n\n**FirstEnergy Human Resources Team**",
+   "query": "SAP FI-CA",
+   "id": "a5dc432329fc7a74",
+   "region": "US",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-19",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP S/4 HANA Application Expert - Sales & Customer Service",
+   "company": "ASSA ABLOY Group",
+   "location": "Chennai, Tamil Nadu, India",
+   "remote": true,
+   "posted_at": "2026-11-17",
+   "apply_url": "https://www.linkedin.com/jobs/view/4491161334",
+   "listing_url": "https://www.linkedin.com/jobs/view/4491161334",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "ASSA ABLOY Global Solutions is rolling out SAP S/4 HANA across the Division which will enable and support its business expansion strategy in line with the new operating business model.\n   \n\n  \n\n**Primary Job Purpose**\n Responsible to deliver design and system configuration for the Sales and Distribution (SD) module in SAP S/4HANA, ensuring successful rollout and adoption of standardized Quote\\-to\\-Cash processes across business units. The candidate is responsible for translating business requirements into system solutions, managing data migration, testing, training, and post\\-go\\-live support, while aligning with SAP best practices and project timelines.\n   \n\n  \n\n**Key Position Accountabilities**\n* Being part of Global IT team and responsible for SAP SD (Sales and Distribution) module configuration and associated developments are designed, built, tested \\& deployed according to S/4 HANA best practices.\n* Facilitate and support workstream managers / Solution Architects \\& leads right from requirement gathering, solution design with focus on Sales and Customer Service processes and integration of same with operations, finance \\& product management workstreams.\n* Analyse business requirements related to sales quotations, sales orders management, order fulfilment, invoicing, returns and credit management processes. Internal\n* Configure core SD components such as sales order types, item categories, ATP, pricing procedures, delivery types, billing types and work with technical teams for WRICEF developments\n* Responsible for creating/maintaining functional specifications for WRICEF (Workflow, Report, Interface, Conversion, Enhancement, Forms) objects.\n* Perform configuration, testing, training, migration, cutover, go\\-live and hyper care activities.\n* Support incidents or change requests for the live Business units.\n* Collaborate with BRIM, MM, FI, PP and EWM module consultants to support cross\\-functional processes.\n\n\n**SELECTION CRITERIA**\n**Essential** \n :\n   \n\n  \n\n* Bachelor / master’s degree in business, Computer Science, or equivalent discipline is required with minimum 7 years of consulting experience with multiple Industries.\n* Minimum 2 full lifecycle implementations / roll outs \\& support experience in Sales \\& Distribution module in S/4 HANA or SAP ECC Projects.\n* Extensive experience in the core SD customizing including Quotations, Sales contracts, Sales order management, Available to Promise (ATP), outbound logistics, pricing, billing and returns and credit management.\n* Hands\\-on experience in SD configurations.\n* Understanding on SAP Best Practices in SD module and their integrations \\& technology.\n* Experience in S/4HANA environment and Fiori applications.\n* Strong communication skills in English, self\\-driven and motivated.\n* Ability to manage and deliver multiple priorities in a constrained timeline\n\n\n**Desirable** \n :\n   \n\n  \n\n* SAP S/4 HANA Certification in SAP SD.\n* Knowledge of new features in SAP S/4HANA like embedded analytics, user experience using Fiori, SAP cloud platform\n* Basic ABAP debugging or familiarity with enhancement frameworks.\n\n\n**WORK ENVIRONMENT FACTORS**\n* Office based/Remote with occasional international travel.\n* Health and Safety accountability statements.\n* Working times are European time zone, however open to be available in APAC/US time zone as well for the need basis. Internal\n\n\n**We are the ASSA ABLOY Group**\n Our people have made us the global leader in access solutions. In return, we open doors for them wherever they go. With nearly 63,000 colleagues in more than 70 different countries, we help billions of people experience a more open world. Our innovations make all sorts of spaces – physical and virtual – safer, more secure, and easier to access.\n   \n\n  \n\n As an employer, we value results – not titles, or backgrounds. We empower our people to build their career around their aspirations and our ambitions – supporting them with regular feedback, training, and development opportunities. Our colleagues think broadly about where they can make the most impact, and we encourage them to grow their role locally, regionally, or even internationally.\n   \n\n  \n\n As we welcome new people on board, it’s important to us to have diverse, inclusive teams, and we value different perspectives and experiences.",
+   "query": "SAP Subscription Order Management",
+   "id": "672b60e8d7e9218a",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-19",
    "repost_count": 0
   },
   {
@@ -95,7 +195,7 @@
    "company": "EY",
    "location": "Bengaluru, Karnataka, India",
    "remote": false,
-   "posted_at": "",
+   "posted_at": "2026-11-17",
    "apply_url": "https://www.linkedin.com/jobs/view/4491409639",
    "listing_url": "https://www.linkedin.com/jobs/view/4491409639",
    "job_type": "fulltime",
@@ -104,26 +204,6 @@
    "query": "SAP Hybris Billing",
    "id": "65f62d54bc3f03c5",
    "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-11-18",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U Billing & Pricing Execution",
-   "company": "CORE Occupational Medicine",
-   "location": "Washington, DC",
-   "remote": true,
-   "posted_at": "2026-11-14",
-   "apply_url": "https://www.linkedin.com/jobs/view/4489315941",
-   "listing_url": "https://www.linkedin.com/jobs/view/4489315941",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "**Position** \n :\n **SAP IS\\-U Billing \\& Pricing Execution**\n**Location : Remote USA**\n* Backend/background billing processing\n* Automated mass\\-run billing\n* Invoice generation\n* Batch jobs\n* Pricing execution\n* Processes occurring independently of on\\-demand customer\\-service requests",
-   "query": "SAP Convergent Invoicing",
-   "id": "6892137c69c9ed87",
-   "region": "US",
    "sources": [
     "linkedin"
    ],
@@ -217,26 +297,6 @@
    "repost_count": 0
   },
   {
-   "title": "Flexible Consumption Billing Implementation Manager",
-   "company": "Deloitte",
-   "location": "Houston, TX",
-   "remote": false,
-   "posted_at": "2026-11-14",
-   "apply_url": "https://www.linkedin.com/jobs/view/4466050099",
-   "listing_url": "https://www.linkedin.com/jobs/view/4466050099",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "Our Deloitte team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creatives, designers, engineers, and architects. Our team balances business strategy, technology, creativity, and ongoing managed services to solve the biggest problems that affect customers, partners, constituents, and the workforce.\n   \n\n  \n\n Recruiting for this role ends on December 31, 2026\n   \n\n  \n\n**Work You'll Do**\n As a Manager, Flexible Consumption Billing Implementation, you will be responsible for:\n   \n\n  \n\n* Working on integrated project teams on a range of projects covering the entire lifecycle from strategy formulation through to design, development and the deployment of solutions.\n* Bringing considerable billing management expertise to help design, develop and implement subscription billing solutions to transform client's billing processes.\n* Interacting daily with key business and IT executives\n* Leading multiple teams in various strategy and implementation activities.\n* Providing service excellence by identifying key client business issues\n* Determining client needs by supplementing the standard assessment techniques and tools with innovative approaches\n* Evaluating and validate analysis and developing recommendations for the client in the context of the overall engagement\n* Implementing and overseeing the quality of deliverables and effectively manage the team and day\\-to\\-day relationships to ensure exceptional performance.\n\n\n The successful Manager you will possess:\n   \n\n  \n\n* Strong communication skills \\- ability to communicate complex system concepts to a business audience in a clear and concise manner\n* Ability to facilitate clients' most complex business requirements\n* Knowledge of basic accounting policies, and implications\n* Experience identifying creative solutions within configurable cloud systems or within boundary applications where customization is required\n* Leadership \\- proven ability to lead complex engagements, both business and technical, including multiple dependencies and integration points\n* Problem solving and troubleshooting skills with the ability to exercise mature judgment\n\n\n**The Team**\n Our Sales \\& Service offering drives global customer transformation by designing and implementing innovative sales and service experiences. We blend strategy, technology, and creativity to solve complex challenges, bringing customer strategies to life and creating new markets.\n   \n\n  \n\n**Qualifications**\n Required:\n   \n\n  \n\n* 8\\+ years experience in subscription billing within consulting or industry, specifically focused on delivering cloud\\-based subscription billing solutions\n* 5\\+ years experience with end\\-to\\-end implementations of Subscription Billing solutions (e.g. Zuora Billing, Oracle NetSuite, SAP BRIM)\n* Ability to travel up to 50% on average, based on the work you do and the clients and industries/sectors you serve.\n* Limited immigration sponsorship may be available.\n* A Bachelor's degree\n\n\n Preferred:\n   \n\n  \n\n* Minimum 4 years of experience designing or optimizing lead\\-to\\-cash and record\\-to\\-report processes and end\\-to\\-end architectures.\n* 4\\+ years of direct experience across all phases of the Software Development Life Cycle (SDLC), including Design, Build, Quality Assurance (QA), User Acceptance Testing (UAT), and Support.\n* 4\\+ years of practical experience applying Agile and Scrum methodologies to deliver technology or business solutions.\n* 4\\+ years of experience conducting architecture assessments and developing implementation roadmaps for subscription billing solutions.\n* 4\\+ years of experience designing and configuring cloud or SaaS\\-based billing solutions in complex, multi\\-entity environments.\n* 3\\+ years of experience designing integrations with upstream systems (such as Ordering, Provisioning) and downstream ERP applications (such as General Ledger)\n* Minimum 1 year of experience managing teams of 5 or more people, including responsibility for performance, deliverables, and team development.\n\n\n The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $ 134,500 \\- $265,100\\.\n   \n\n  \n\n You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n   \n\n  \n\n \\#Customer\\_US\n   \n\n  \n\n \\#SS\\_US",
-   "query": "SAP Hybris Billing",
-   "id": "20c25ccc7bd10bfa",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-11-17",
-   "repost_count": 0
-  },
-  {
    "title": "SAP S/4 HANA SD Application Expert",
    "company": "ASSA ABLOY Group",
    "location": "TN, IN",
@@ -263,7 +323,7 @@
    "id": "823f524a0d1fb5f0",
    "company": "ASSA ABLOY Group",
    "title": "SAP S/4 HANA BRIM Application Expert",
-   "reposts": 1
+   "reposts": 2
   },
   {
    "id": "144d2649997d38d8",
@@ -323,7 +383,7 @@
    "id": "dd7f7d4ff189d18b",
    "company": "Avangrid",
    "title": "SAP Senior Manager Architect",
-   "reposts": 2
+   "reposts": 3
   },
   {
    "id": "02fc66e43116bb89",
@@ -647,7 +707,7 @@
    "id": "ad9ebb5d2c3fb144",
    "company": "Avangrid",
    "title": "Sr Manager - SAP Billing & FICA",
-   "reposts": 1
+   "reposts": 2
   },
   {
    "id": "660604f567309f89",
@@ -749,6 +809,18 @@
    "id": "f85425b84f938719",
    "company": "Deloitte",
    "title": "SAP BRIM - Senior Consultant",
+   "reposts": 1
+  },
+  {
+   "id": "17c37674e588b7cf",
+   "company": "NTT DATA Business Solutions",
+   "title": "SAP SD - Lead Consultant - L3",
+   "reposts": 1
+  },
+  {
+   "id": "15f77b19dd352f92",
+   "company": "Infosys",
+   "title": "SAP ISU FICA Consultant",
    "reposts": 1
   }
  ]
