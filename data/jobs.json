@@ -1,15 +1,215 @@
 {
- "generated_at": "2026-11-19T02:13:55+00:00",
+ "generated_at": "2026-11-20T01:59:32+00:00",
  "window_days": 4,
  "counts": {
-  "raw": 417,
-  "relevant": 22,
-  "new_today": 7,
-  "emitted": 15,
-  "expired_today": 0,
+  "raw": 440,
+  "relevant": 35,
+  "new_today": 10,
+  "emitted": 22,
+  "expired_today": 1,
   "liveness_checked": 60
  },
  "jobs": [
+  {
+   "title": "SAP S/4 HANA Sales & Distribution (SD)",
+   "company": "Input Zero Technologies",
+   "location": "MH, IN",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://apply.workable.com/j/4D4E853C28",
+   "listing_url": "https://in.indeed.com/viewjob?jk=7f3a31176ba43ba9",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "Experience: 7–10 years \\| Domain understanding : Order Management / Subscription\n\n\nOrder Management / Billing\n\n* Strong functional expertise in SAP S/4HANA Sales \\& Distribution (SD), Order\\-to\\-\n\n\nCash (O2C), and Billing processes.\n\n* Hands\\-on experience in Sales Order Management, pricing, contract\n\n\nmanagement, invoicing, and credit/debit memo processes.\n\n* Functional understanding of Subscription Order Management (SOM) and SAP\n\n\nBRIM processes for subscription\\-based business models.\n\n* Experience in SAP SD configuration, including sales document types, item\n\n\ncategories, pricing procedures, copy controls, and billing types.\n\n* Knowledge of recurring billing, usage\\-based billing, subscription amendments,\n\n\nrenewals, and cancellations.\n\n* Understanding of integration between SAP SD, SOM, Convergent Invoicing (CI),\n\n\nFI\\-AR, and Revenue Accounting (RAR).\n\n* Ability to gather business requirements, perform fit\\-gap analysis, and translate\n\n\nrequirements into functional specifications and user stories.\n\n* Experience in designing end\\-to\\-end Order\\-to\\-Cash solutions, process\n\n\nimprovements, and automation initiatives.\n\n* Strong expertise in integration testing, UAT, defect management, and production\n\n\nsupport.\n\n* Experience working with technical teams on enhancements, interfaces, APIs, and\n\n\nsystem integrations.\n\n* Familiarity with SAP Fiori, S/4HANA business processes, and Agile delivery\n\n\nmethodologies.\n\n* Strong stakeholder management, analytical, problem\\-solving, and crossfunctional\n\n\ncollaboration skills.",
+   "query": "SAP BRIM",
+   "id": "7465ee6779f5cf3f",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP S/4 HANA ABAP Developer",
+   "company": "Input Zero Technologies",
+   "location": "MH, IN",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://apply.workable.com/j/E117010D2A",
+   "listing_url": "https://in.indeed.com/viewjob?jk=1b288053f22e55c3",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "Experience: 7–10 years \\| Domain understanding (in one or more of the following\n\n\nareas : Record to Report (R2R), Revenue Accounting (RAR), Fixed Assets \\&\n\n\nReporting, Order Management/Subscription Order Management, Credit\n\n\nManagement\n\n* Strong hands\\-on experience in SAP ABAP development, preferably in SAP\n\n\nS/4HANA environments.\n\n* Expertise in ABAP OO, CDS Views, AMDP, OData Services, BAPIs, BADIs,\n\n\nEnhancements, and User Exits.\n\n* Proficiency in S/4HANA development using ABAP on HANA, RAP, and SAP\n\n\nFiori/UI5 integration.\n\n* Functional understanding of at least one domain: Finance (FI/CO), Order \\&\n\n\nBilling Management (SD/BRIM), or Credit Management (FSCM).\n\n* Experience developing custom reports, interfaces, conversions, enhancements,\n\n\nforms, and workflows (RICEF).\n\n* Strong understanding of SAP integration using IDocs, RFCs, APIs, and middleware\n\n\ntechnologies.\n\n* Experience in debugging, performance optimization, code remediation, and\n\n\nS/4HANA migration.\n\n* Ability to translate functional requirements into scalable technical designs and\n\n\ndevelopment solutions.\n\n* Experience with SAP BTP, ABAP Cloud, and Clean Core principles is an added\n\n\nadvantage.\n\n* Hands\\-on experience in unit testing, integration testing, defect resolution, and\n\n\nproduction support.\n\n* Strong problem\\-solving, technical documentation, and cross\\-functional\n\n\ncollaboration skills.\n\n* Experience in global SAP implementation, rollout, S/4 upgrade and enhancement\n\n\nprojects preferred.",
+   "query": "SAP BRIM",
+   "id": "17348dbc4c61a412",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP S/4 HANA ABAP Developer",
+   "company": "Input Zero Technologies",
+   "location": "KA, IN",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://apply.workable.com/j/1CA57DA7AD",
+   "listing_url": "https://in.indeed.com/viewjob?jk=aa514d7704494032",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "Experience: 7–10 years \\| Domain understanding (in one or more of the following\n\n\nareas : Record to Report (R2R), Revenue Accounting (RAR), Fixed Assets \\&\n\n\nReporting, Order Management/Subscription Order Management, Credit\n\n\nManagement\n\n* Strong hands\\-on experience in SAP ABAP development, preferably in SAP\n\n\nS/4HANA environments.\n\n* Expertise in ABAP OO, CDS Views, AMDP, OData Services, BAPIs, BADIs,\n\n\nEnhancements, and User Exits.\n\n* Proficiency in S/4HANA development using ABAP on HANA, RAP, and SAP\n\n\nFiori/UI5 integration.\n\n* Functional understanding of at least one domain: Finance (FI/CO), Order \\&\n\n\nBilling Management (SD/BRIM), or Credit Management (FSCM).\n\n* Experience developing custom reports, interfaces, conversions, enhancements,\n\n\nforms, and workflows (RICEF).\n\n* Strong understanding of SAP integration using IDocs, RFCs, APIs, and middleware\n\n\ntechnologies.\n\n* Experience in debugging, performance optimization, code remediation, and\n\n\nS/4HANA migration.\n\n* Ability to translate functional requirements into scalable technical designs and\n\n\ndevelopment solutions.\n\n* Experience with SAP BTP, ABAP Cloud, and Clean Core principles is an added\n\n\nadvantage.\n\n* Hands\\-on experience in unit testing, integration testing, defect resolution, and\n\n\nproduction support.\n\n* Strong problem\\-solving, technical documentation, and cross\\-functional\n\n\ncollaboration skills.\n\n* Experience in global SAP implementation, rollout, S/4 upgrade and enhancement\n\n\nprojects preferred.",
+   "query": "SAP BRIM",
+   "id": "d63c423df6e2bd11",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP - QA Automation Tester",
+   "company": "Input Zero Technologies",
+   "location": "MH, IN",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://apply.workable.com/j/D4F7A3571F",
+   "listing_url": "https://in.indeed.com/viewjob?jk=9194a9eeaa70415f",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Experience: 7–10 Years \\| Domain: Finance / Order Management / Billing**\n\n* Strong hands\\-on experience in test automation using Python/TypeScript.\n* Expertise in automation frameworks such as Playwright\n* Experience in designing, developing, and maintaining scalable UI, API, and endto\\-\n\n\nend test automation frameworks.\n\n* Proficiency in API testing using REST APIs, Postman, and automated API\n\n\nvalidation.\n\n* Experience testing enterprise applications, preferably in Finance, Order\n\n\nManagement, Subscription Management, or Billing domains in SAP S/4 HANA\n\n* Strong understanding of functional, integration, regression, and end\\-to\\-end\n\n\ntesting methodologies.\n\n* Experience integrating automated tests into CI/CD pipelines using Jenkins,\n\n\nGitHub Actions, or Azure DevOps.\n\n* Proficiency in SQL queries, database validation, and test data management.\n* Experience with defect tracking, test management, and Agile delivery tools such\n\n\nas Jira.\n\n* Ability to translate business requirements and acceptance criteria into\n\n\ncomprehensive automated test scenarios.\n\n* Familiarity with SAP S/4HANA, SAP BRIM, or SFDC system integrations is an\n\n\nadvantage.\n\n* Strong debugging, analytical, problem\\-solving, and cross\\-functional\n\n\ncollaboration skills.\n\n* Preferred Location: Bangalore or Pune for all positions or willing to travel\n\n\nas required",
+   "query": "SAP BRIM",
+   "id": "e549aff238f2040a",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP - QA Automation Tester",
+   "company": "Input Zero Technologies",
+   "location": "KA, IN",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://apply.workable.com/j/5862524FE7",
+   "listing_url": "https://in.indeed.com/viewjob?jk=78403929602c3839",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "**Experience: 7–10 Years \\| Domain: Finance / Order Management / Billing**\n\n* Strong hands\\-on experience in test automation using Python/TypeScript.\n* Expertise in automation frameworks such as Playwright\n* Experience in designing, developing, and maintaining scalable UI, API, and endto\\-\n\n\nend test automation frameworks.\n\n* Proficiency in API testing using REST APIs, Postman, and automated API\n\n\nvalidation.\n\n* Experience testing enterprise applications, preferably in Finance, Order\n\n\nManagement, Subscription Management, or Billing domains in SAP S/4 HANA\n\n* Strong understanding of functional, integration, regression, and end\\-to\\-end\n\n\ntesting methodologies.\n\n* Experience integrating automated tests into CI/CD pipelines using Jenkins,\n\n\nGitHub Actions, or Azure DevOps.\n\n* Proficiency in SQL queries, database validation, and test data management.\n* Experience with defect tracking, test management, and Agile delivery tools such\n\n\nas Jira.\n\n* Ability to translate business requirements and acceptance criteria into\n\n\ncomprehensive automated test scenarios.\n\n* Familiarity with SAP S/4HANA, SAP BRIM, or SFDC system integrations is an\n\n\nadvantage.\n\n* Strong debugging, analytical, problem\\-solving, and cross\\-functional\n\n\ncollaboration skills.\n\n* Preferred Location: Bangalore or Pune for all positions or willing to travel\n\n\nas required",
+   "query": "SAP Subscription Order Management",
+   "id": "e98d9a2486852b6c",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP BRIM-Convergent Mediation-Senior",
+   "company": "EY",
+   "location": "Kolkata, West Bengal, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4484933786",
+   "listing_url": "https://www.linkedin.com/jobs/view/4484933786",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n   \n\n  \n\n**Service line \\- Position Title:**\n At EY, we’re all in to shape your future with confidence.\n   \n\n  \n\n We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n   \n\n  \n\n Join EY and help to build a better working world.\n   \n\n  \n\n**About Global Delivery Services**\n Global Delivery Services refers to EY's worldwide network of service delivery centers. The GDS team plays an important role in EY’s strategy by ensuring effective support to EY’s growth agenda.\n   \n\n  \n\n Our journey started in 2002 with approximately 200 people. Today we stand at 80,000\\+ professionals in ten locations around the world. We operate in Argentina, China, Hungary, India, Philippines, Poland, Sri Lanka, Mexico, Spain and the United Kingdom.\n   \n\n  \n\n Client service is focused on providing Consulting, Assurance, Tax, Strategy \\& Transactions, and Knowledge support to our clients around the world. The teams enable account teams worldwide to provide seamless, high\\-quality, value\\-added support, helping deliver exceptional client service.\n   \n\n  \n\n Enablement Services provides cost\\-effective, high\\-skilled, and innovative services to support EY’s global and local enablement teams. Markets, BMC, AWS, Finance and Accounting, Risk Management, Procurement, People Shared Services, IT Service Delivery and IT Global Infrastructure services, are among the services offered by Enablement Services.\n   \n\n  \n\n Our innovation specialists serve the GDS Client Service and Enablement Services teams, along with Service Lines, Core Business Services and Sectors. The team brings the desired environment, technologies and skilled teams together for facilitation, rapid prototyping and innovative thinking. The competencies offered include analytics, digital, user experience, mobile technology, infrastructure, Microsoft technologies and open innovation.\n   \n\n  \n\n**The Opportunity**\n You will be responsible for executing tasks with increasing autonomy, applying sound judgment within defined parameters, and contributing to team outcomes. You are expected to demonstrate initiative, resolve routine issues independently, and support junior colleagues.\n   \n\n  \n\n You will anticipate and identify risks within engagements and share any issues with senior members of the team.\n   \n\n  \n\n In line with EY commitment to quality, you’ll confirm that work is of high quality and is reviewed by the next\\-level reviewer.\n   \n\n  \n\n**Your Key Responsibilities**\n* Configure and implement SAP Convergent Mediation solutions to support billing and revenue management.\n* Manage data collection, transformation, and distribution across different billing systems.\n* Ensure smooth integration between CC and CI/SOM and contract accounting(FICA).\n* Enhance system performance and scalability for high\\-volume transaction processing.\n* Analyse business requirements and translate them into scalable mediation processes by working closely with business teams.\n\n\n**Skills And Attributes For Success**\n* Strong hands on experience in Convergent Mediation.\n* Proficiency with core SAP BRIM components — SOM, CC, CI.\n* Experience with data transformation, mediation rules and integration frameworks.\n* Good understanding and hands\\-on on APL.\n* Good understanding and hands\\-on on Ultra.\n* Hands\\-on experience with J2EE, XML and BRIM architecture.\n* Ability to conduct client workshops, requirement gathering, and BRIM solution walkthroughs.\n* Hands on experience across end to end BRIM implementation lifecycle (design → build → test →deploy).\n\n\n**Ideally, you’ll also**\n* Work on S/4HANA \\& third party Integration Knowledge.\n* Knowledge of Convergent Mediation concepts and integration.\n* Good understanding of integration patterns using IDocs, BAPIs, Web Services, and APIs.\n\n\n**What We Look For**\n* We are looking for the candidates with the following:\n* BE/BTech/MCA with a sound industry experience of 4\\-8 Years\n* You will need to have experience of:\n+ Minimum 1 end to end implementation of SAP Convergent Mediation.\n+ Ability to work with cross\\-functional teams (technical, middleware, business)\n+ Excellent business communication skills\n\n\n**What We Offer You**\n At EY, we’ll develop you with future\\-focused skills and equip you with world\\-class experiences. We’ll empower you in a flexible environment, and fuel you and your extraordinary talents in a diverse and inclusive culture of globally connected teams. Learn more.\n   \n\n  \n\n Are you ready to shape your future with confidence? Apply today.\n   \n\n  \n\n To help create an equitable and inclusive experience during the recruitment process, please inform us as soon as possible about any disability\\-related adjustments or accommodations you may need.\n   \n\n  \n\n**Our Commitment:** \n As a commitment, we persistently endeavour to embody our values, fulfil our purpose, and champion inclusiveness. Our dedication is to cultivate EY into an environment where diverse perspectives are celebrated, creating a supportive atmosphere for individuals to authentically be themselves and contribute their utmost.\n   \n\n  \n\n**Professional Development:** \n From entry\\-level employees to senior leaders, we believe in continuous learning. We offer opportunities to build new skills, take on leadership roles, and connect and grow through mentorship.\n   \n\n  \n\n**People and Culture:** \n In our dynamic workplace, diversity, equity, and inclusiveness are ingrained in our culture. We're united by a commitment to create an environment where every individual's differences are valued, practices are equitable, fostering a sense of belonging. Our shared values incl",
+   "query": "SAP BRIM",
+   "id": "7c85e26d85a73f74",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP BRIM-Convergent Mediation-Senior",
+   "company": "EY",
+   "location": "Bengaluru, Karnataka, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4484937418",
+   "listing_url": "https://www.linkedin.com/jobs/view/4484937418",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n   \n\n  \n\n**Service line \\- Position Title:**\n At EY, we’re all in to shape your future with confidence.\n   \n\n  \n\n We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n   \n\n  \n\n Join EY and help to build a better working world.\n   \n\n  \n\n**About Global Delivery Services**\n Global Delivery Services refers to EY's worldwide network of service delivery centers. The GDS team plays an important role in EY’s strategy by ensuring effective support to EY’s growth agenda.\n   \n\n  \n\n Our journey started in 2002 with approximately 200 people. Today we stand at 80,000\\+ professionals in ten locations around the world. We operate in Argentina, China, Hungary, India, Philippines, Poland, Sri Lanka, Mexico, Spain and the United Kingdom.\n   \n\n  \n\n Client service is focused on providing Consulting, Assurance, Tax, Strategy \\& Transactions, and Knowledge support to our clients around the world. The teams enable account teams worldwide to provide seamless, high\\-quality, value\\-added support, helping deliver exceptional client service.\n   \n\n  \n\n Enablement Services provides cost\\-effective, high\\-skilled, and innovative services to support EY’s global and local enablement teams. Markets, BMC, AWS, Finance and Accounting, Risk Management, Procurement, People Shared Services, IT Service Delivery and IT Global Infrastructure services, are among the services offered by Enablement Services.\n   \n\n  \n\n Our innovation specialists serve the GDS Client Service and Enablement Services teams, along with Service Lines, Core Business Services and Sectors. The team brings the desired environment, technologies and skilled teams together for facilitation, rapid prototyping and innovative thinking. The competencies offered include analytics, digital, user experience, mobile technology, infrastructure, Microsoft technologies and open innovation.\n   \n\n  \n\n**The Opportunity**\n You will be responsible for executing tasks with increasing autonomy, applying sound judgment within defined parameters, and contributing to team outcomes. You are expected to demonstrate initiative, resolve routine issues independently, and support junior colleagues.\n   \n\n  \n\n You will anticipate and identify risks within engagements and share any issues with senior members of the team.\n   \n\n  \n\n In line with EY commitment to quality, you’ll confirm that work is of high quality and is reviewed by the next\\-level reviewer.\n   \n\n  \n\n**Your Key Responsibilities**\n* Configure and implement SAP Convergent Mediation solutions to support billing and revenue management.\n* Manage data collection, transformation, and distribution across different billing systems.\n* Ensure smooth integration between CC and CI/SOM and contract accounting(FICA).\n* Enhance system performance and scalability for high\\-volume transaction processing.\n* Analyse business requirements and translate them into scalable mediation processes by working closely with business teams.\n\n\n**Skills And Attributes For Success**\n* Strong hands on experience in Convergent Mediation.\n* Proficiency with core SAP BRIM components — SOM, CC, CI.\n* Experience with data transformation, mediation rules and integration frameworks.\n* Good understanding and hands\\-on on APL.\n* Good understanding and hands\\-on on Ultra.\n* Hands\\-on experience with J2EE, XML and BRIM architecture.\n* Ability to conduct client workshops, requirement gathering, and BRIM solution walkthroughs.\n* Hands on experience across end to end BRIM implementation lifecycle (design → build → test →deploy).\n\n\n**Ideally, you’ll also**\n* Work on S/4HANA \\& third party Integration Knowledge.\n* Knowledge of Convergent Mediation concepts and integration.\n* Good understanding of integration patterns using IDocs, BAPIs, Web Services, and APIs.\n\n\n**What We Look For**\n* We are looking for the candidates with the following:\n* BE/BTech/MCA with a sound industry experience of 4\\-8 Years\n* You will need to have experience of:\n+ Minimum 1 end to end implementation of SAP Convergent Mediation.\n+ Ability to work with cross\\-functional teams (technical, middleware, business)\n+ Excellent business communication skills\n\n\n**What We Offer You**\n At EY, we’ll develop you with future\\-focused skills and equip you with world\\-class experiences. We’ll empower you in a flexible environment, and fuel you and your extraordinary talents in a diverse and inclusive culture of globally connected teams. Learn more.\n   \n\n  \n\n Are you ready to shape your future with confidence? Apply today.\n   \n\n  \n\n To help create an equitable and inclusive experience during the recruitment process, please inform us as soon as possible about any disability\\-related adjustments or accommodations you may need.\n   \n\n  \n\n**Our Commitment:** \n As a commitment, we persistently endeavour to embody our values, fulfil our purpose, and champion inclusiveness. Our dedication is to cultivate EY into an environment where diverse perspectives are celebrated, creating a supportive atmosphere for individuals to authentically be themselves and contribute their utmost.\n   \n\n  \n\n**Professional Development:** \n From entry\\-level employees to senior leaders, we believe in continuous learning. We offer opportunities to build new skills, take on leadership roles, and connect and grow through mentorship.\n   \n\n  \n\n**People and Culture:** \n In our dynamic workplace, diversity, equity, and inclusiveness are ingrained in our culture. We're united by a commitment to create an environment where every individual's differences are valued, practices are equitable, fostering a sense of belonging. Our shared values incl",
+   "query": "SAP BRIM",
+   "id": "81d6a3db218a2aae",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP FI Analyst",
+   "company": "Deloitte",
+   "location": "KA, IN",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-FY27-Consulting-EP-NSE-SAP-FI-Analyst/376028",
+   "listing_url": "https://in.indeed.com/viewjob?jk=4248be4a34e3604c",
+   "job_type": "",
+   "salary": "",
+   "description": "**Enterprise Performance**\n\n\nOur Enterprise Performance team is at the forefront of enterprise technology, working across finance, supply chain, and IT operations to support the delivery of holistic performance improvement and digital transformation. We support Deloitte client service teams of strategic advisors and architects, differentiated by our industry depth to help collaborate with leading insights providers and leverage your experience in strategy, process design, technology enablement, and operational services to enable the heart of business solutions\n\n\n**Position Summary**\n\n\n**SAP FI Analyst**\n\n\nAre you looking for a career trajectory that few other organizations can offer in SAP? With a high\\-quality portfolio of businesses and clients, opportunities to work across capabilities, industries, and geographies in roles and on projects aligned with your SAP Finance skills, if this matches your interests and aspirations, Deloitte may be the right fit for you.\n\n\n**Work you’ll do**\n\n\nSAP FI Analyst at Deloitte is responsible for ensuring quality solutions are provided to our clients which not only solve the problem at hand but also have longevity and can be easily maintained. Few of the key areas a FI Consultant is involved in are mentioned below:\n\n\n* Conduct As\\-Is and To\\-Be business process workshops while working on implementation project\n* Map Business Processes to SAP\n* Configure SAP to reflect the business requirements.\n* Write Functional Specification / Configuration documents.\n* Exhibit effective communication while working with cross\\-functional and technical teams\n\n**The Team:**\n\n\nDeloitte’s SAP Service Line is among the world’s largest, with 8,000 global practitioners and over 1,700 SAP implementation projects completed. More than half our consultants have 10\\+ years of experience, and Deloitte has been an SAP Global Partner — Services since 1989\\. We offer a full range of SAP services, from business case development to deployment, supported by nine solution centers and proprietary accelerators that enhance project delivery. Our CMMI Level 5 and SAS 70\\-certified practice covers S4 Hana, CRM, NetWeaver, BO, Development, BASIS \\& Infrastructure, and serves all functional areas and industry sectors\n\n\n**Qualifications**:\n\n\n**Must have skills/Project Experience/Certifications:**\n\n\n* 2\\-3 years of industry experience\n* Domain experience is required for Senior Consultant but is good to have at Consultant level\n* GL – New GL with Segment Reporting\n* Accounts Receivable / FSCM, Accounts Payable / Banking, Cost Center Accounting, Cost Element Accounting \\& Internal Orders, Project Systems, Investment Management, Asset Accounting, Product Costing,\n* Worked on implementation project of the most recent version\n* Should have run Blueprint Workshop and should be able to map Business Processes to SAP\n* Should have Industry Experience.\n\n**Good to have skills/Project Experience/Certifications:**\n\n\n* COPA\\- FICA, PSCD, FSCD, Cash Management, Treasury\n* Cross process area experience in Product Costing, FSCM, FICA, PSCD and FSCD\n\n**Education:**\n\n\n* BE/B. Tech/M.C.A./M.Sc. (CS) degree or equivalent from accredited university\n\n**Locations**\n\n\n* Hyderabad, Bengaluru, Chennai, Pune\n\n  \n\n  \n\n**Our purpose**  \n\n  \n\nDeloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities.\n**Our people and culture**  \n\n  \n\nOur inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas and perspectives, and bring more creativity and innovation to help solve our clients’ most complex challenges. This makes Deloitte one of the most rewarding places to work.\n**Professional development**  \n\n  \n\nAt Deloitte, professionals have the opportunity to work with some of the best and discover what works best for them. Here, we prioritize professional growth, offering diverse learning and networking opportunities to help accelerate careers and enhance leadership skills. Our state\\-of\\-the\\-art DU: The Leadership Center in India, located in Hyderabad, represents a tangible symbol of our commitment to the holistic growth and development of our people. Explore DU: The Leadership Center in India.\n**Benefits to help you thrive**  \n\n  \n\nAt Deloitte, we know that great people make a great organization. Our comprehensive rewards program helps us deliver a distinctly Deloitte experience that helps that empowers our professionals to thrive mentally, physically, and financially—and live their purpose. To support our professionals and their loved ones, we offer a broad range of benefits. Eligibility requirements may be based on role, tenure, type of employment and/ or other criteria. Learn more about what working at Deloitte can mean for you.\n**Recruiting tips**  \n\n  \n\nFrom developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters.\nRequisition code: 376028",
+   "query": "SAP FICA",
+   "id": "a9dd73f7b9e86fb8",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "Manager | SAP ABAP | Ahmedabad | SAP | DSA Auto and Auto Components",
+   "company": "Deloitte",
+   "location": "GJ, IN",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://southasiacareers.deloitte.com/job/Ahmedabad-Manager-SAP-ABAP-Ahmedabad-SAP-DSA-Auto-and-Auto-Components/61687844/",
+   "listing_url": "https://in.indeed.com/viewjob?jk=4e442398a8853b74",
+   "job_type": "",
+   "salary": "",
+   "description": "**Manager \\| SAP ABAP \\| Ahmedabad \\| SAP \\| DSA Auto and Auto Components**\n  \n\n• **Job requisition ID** : 117480\n  \n\n• **Location**: Ahmedabad\n  \n\n• **Entity**: Deloitte Touche Tohmatsu India LLP\n\n\n**Delivery Manager \\|** **Enterprise Technology \\& Performance\\-** **SAP \\|** **SAP ABAP Fiori**\n\n\n**Location:** **Ahmedabad**\n\n  \n\n**The team**\n\n\nEnterprise technology has to do much more than keep the wheels turning; it is the engine that drives functional excellence and the enabler of innovation and long\\-term growth. Learn more about ET\\&P\n\n  \n\n**Your work profile**\n\n\nWe are seeking a highly experienced SAP ABAP / BTP / Fiori Senior Consultant with 12\\+ years of SAP technical experience, including strong expertise in SAP ECC, ABAP development, SAP Fiori, SAP Business Technology Platform (BTP), and SAP integrations. Candidates with prior experience in SAP IS\\-U (Utilities) environments will be strongly preferred.\n\n\nThe role will primarily focus on production support, incident resolution, root cause analysis, and delivery of minor enhancements across SAP ECC applications. The consultant will be responsible for supporting business\\-critical custom developments, interfaces, Fiori applications, and BTP\\-based extensions while ensuring stability and performance of the SAP landscape.\n\n\nA senior SAP ABAP / BTP / Fiori Consultant with 12\\+ years of SAP technical experience, capable of owning production support and enhancement activities across SAP ECC landscapes. The candidate should possess strong ABAP development expertise, hands\\-on Fiori and BTP experience, and preferably a background in SAP IS\\-U utilities, enabling them to support critical Meter\\-to\\-Cash, Billing, and Customer Service processes while driving continuous technical improvements and innovation.\n\n  \n\n**Key skills required:**\n\n\n* Provide L2/L3 production support for SAP ECC custom developments, Fiori applications, interfaces, and BTP extensions.\n* Analyze and resolve production incidents, defects, and application issues within agreed SLA timelines.\n* Conduct root cause analysis (RCA) for recurring issues and implement corrective actions.\n* Support critical business cycles including billing runs, month\\-end closing, regulatory reporting, and customer service operations.\n* Monitor application performance and proactively identify improvement opportunities.\n* Coordinate with Functional, Basis, Security, PI/PO, and Infrastructure teams to ensure seamless support delivery.\n* Participate in major incident management and business\\-critical escalation calls.\n\nSAP ABAP Development \\& Enhancements\n\n\n* Develop and support custom SAP ECC developments including:\n* Classical Reports\n* Interactive Reports\n* ALV Reports\n* SmartForms\n* SAP Scripts\n* Adobe Forms\n* Module Pool Programs\n* BDC Programs\n* LSMW Objects\n* User Exits\n* Customer Exits\n* BAdIs\n* Enhancement Framework Components\n* Implement bug fixes and minor enhancement requests.\n* Develop technical specifications and perform impact assessments for change requests.\n* Perform performance tuning and code optimization activities.\n* Conduct code reviews and ensure adherence to SAP development standards.\n\nSAP Fiori Development \\& Support\n\n\n* Develop, enhance, and support SAP Fiori applications.\n* Troubleshoot Fiori launchpad, authorization, and performance\\-related issues.\n* Configure and support:\n* SAP Fiori Launchpad\n* SAP Gateway Services\n* OData Services\n* Catalogs and Groups\n* Tiles and Target Mappings\n* Develop and enhance UI5 applications based on business requirements.\n* Support Fiori application deployments and transport activities.\n* Resolve production issues related to SAP Gateway and front\\-end components.\n\nSAP BTP Development \\& Extensions\n\n\n* Support and maintain SAP BTP\\-based extensions and applications.\n* Develop and enhance applications leveraging:\n* SAP BTP Extension Suite\n* SAP Business Application Studio (BAS)\n* SAP Cloud Foundry\n* SAP CAP (Cloud Application Programming Model)\n* SAP Integration Suite (Exposure Preferred)\n* Support API integrations and BTP services.\n* Monitor and troubleshoot cloud application performance and connectivity issues.\n* Implement minor enhancements within BTP applications and services.\n\nSAP IS\\-U Support (Preferred)\n\n\nCandidates with utility industry experience should be able to support integrations and developments related to:\n\n\n* Customer Service\n* Device Management\n* Meter Reading\n* Billing \\& Invoicing\n* Contract Accounts Receivable and Payable (FICA)\n* Collections \\& Disconnections\n* Move\\-In / Move\\-Out Processes\n* Meter\\-to\\-Cash Business Processes\n\nSupport custom developments and Fiori applications used across utility operations and customer engagement processes.\n\n\nInterfaces \\& Integration Support\n\n\n* Support and troubleshoot technical integrations involving:\n* IDocs\n* RFCs\n* BAPIs\n* ALE\n* OData Services\n* SOAP Web Services\n* REST APIs\n* SAP PI/PO Interfaces\n* SAP Integration Suite (preferred)\n* Collaborate with PI/PO and middleware teams to resolve interface failures.\n* Support custom APIs and integration services used by external applications.\n\nPerformance Optimization \\& Technical Troubleshooting\n\n\n* Analyze and resolve performance bottlenecks across custom developments and Fiori applications.\n* Utilize SAP tools including:\n* ST22\n* ST05\n* SAT\n* SQL Trace\n* SM37\n* SM21\n* SE80\n* SE38\n* Optimize ABAP programs and OData services for improved performance and scalability.\n* Troubleshoot authorization, connectivity, and application\\-layer issues.\n\nDocumentation \\& Governance\n\n\n* Maintain technical specifications, support documentation, and operational runbooks.\n* Prepare RCA documents and enhancement design documents.\n* Ensure compliance with development standards, transport procedures, and change management processes.\n* Support audit and compliance activities.\n* Participate in knowledge\\-sharing and mentoring initiatives.\n\nRequired Technical Skills\n\n\nSAP ABAP\n\n\n* 12\\+ years of hands\\-on SAP ABAP development experience.\n* Strong expertise i",
+   "query": "SAP FICA",
+   "id": "0904c620bf223e94",
+   "region": "India",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP BRIM Consultant",
+   "company": "Coforge",
+   "location": "Noida, Uttar Pradesh, India",
+   "remote": false,
+   "posted_at": "",
+   "apply_url": "https://www.linkedin.com/jobs/view/4491607876",
+   "listing_url": "https://www.linkedin.com/jobs/view/4491607876",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "🚨\n **Hiring Alert \\| SAP BRIM Consultant (CC/CI/SOM) \\| Coforge** \n 🚨\n \n\n\n\n**Experience:** \n 5\\+ Years\n \n\n\n\n**Location:** \n Noida \\| Pune \\| Hyderabad \\| Chennai\n \n\n\n\n**Notice Period:** \n Immediate Joiners Preferred\n \n\n\n\n  \n\n\n\n\n\n We at\n **Coforge** \n are hiring for an experienced\n **SAP BRIM Consultant** \n with strong expertise in\n **SAP BRIM and any of the core modules (CC/CI/SOM)** \n , ready to work from the office and join within a short notice period.\n \n\n\n\n  \n\n\n\n\n\n 📩 Interested candidates can share their updated resume at shipra.pathak@coforge.com\n \n\n\n\n  \n\n\n\n\n\n**Key Responsibilities** \n\n\n\n* Participate in requirement gathering, solution design, configuration, testing, deployment, and production support activities for SAP BRIM solutions.\n* Configure and support SAP Convergent Charging (CC), Convergent Invoicing (CI), and Subscription Order Management (SOM).\n* Work with business stakeholders to understand billing, subscription management, and revenue management requirements.\n* Design and support recurring billing, subscription billing, and usage\\-based charging solutions.\n* Drive integration across SAP BRIM, FI\\-CA, S/4HANA, CRM, SOM, and external systems.\n* Prepare functional specifications and collaborate with ABAP, CPI/PI\\-PO, and technical teams.\n* Participate in SIT, UAT, cutover, data migration, go\\-live, hypercare, and production support activities.\n\n\n\n  \n\n\n\n\n\n**Preferred Skills** \n\n\n\n* Strong hands\\-on expertise in SAP BRIM with experience in at least one of the modules:\n* SAP Convergent Charging (CC)\n* SAP Convergent Invoicing (CI)\n* SAP Subscription Order Management (SOM)\n* Good understanding of SAP FI\\-CA and Revenue Management processes.\n* Experience in Subscription Billing, Recurring Billing, and Usage\\-Based Billing.\n* Exposure to SAP S/4HANA environments and integrations.\n* Experience in implementation, rollout, upgrade, and support projects.\n* Strong understanding of Order\\-to\\-Cash (O2C) lifecycle.\n* Excellent analytical, troubleshooting, stakeholder management, and communication skills.\n* SAP BRIM Certification will be an added advantage.",
+   "query": "SAP BRIM",
+   "id": "391f9c27be79467a",
+   "region": "India",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-20",
+   "repost_count": 0
+  },
   {
    "title": "SAP ABAP + Fiori Developer",
    "company": "White whale software solutions private limited",
@@ -53,26 +253,6 @@
   {
    "title": "SAP Subscription Management - SOM (BRIM) Solution Architect",
    "company": "Hewlett Packard Enterprise",
-   "location": "Sunnyvale, CA",
-   "remote": false,
-   "posted_at": "2026-11-16",
-   "apply_url": "https://www.linkedin.com/jobs/view/4490601806",
-   "listing_url": "https://www.linkedin.com/jobs/view/4490601806",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n   \n\n  \n\n****Who We Are:****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n   \n\n  \n\n****Job Description:****\n L2C Program\n   \n\n  \n\n****Job Description****\n**Role**\n Subscription/SW: SAP Subscription Management \\- SOM (BRIM) Solution Architect\n   \n\n  \n\n**Onshore / Offshore**\n Onshore\n   \n\n  \n\n****Who We Are****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves together and are a force for good. If you are looking to stretch and grow your career, our culture will embrace you.\n   \n\n  \n\n****Job Description****\n HPE’s acquisition of Juniper Networks is one of the most significant moves in the company’s history, bringing two networking leaders together to build\n **HPE Networking** \n , with the ambition of creating the\n **best networking business on the planet** \n . This role sits at the center of that effort as part of\n **the Lead\\-to\\-Cash (L2C) program** \n , responsible for unifying quoting, ordering, and fulfillment across the combined HPE and Juniper networking portfolios onto a\n **single platform** \n , replacing fragmented legacy systems with one seamless, scalable experience for sellers, partners, and customers worldwide.\n   \n\n  \n\n As part of a fast\\-moving,\n **multi\\-year transformation** \n , the team will stabilize near\\-term operations,\n **migrate core** \n**platforms, onboard businesses and suppliers globally** \n , and build new capabilities from the ground up. The choices made here will shape how the combined networking business operates for years to come. You will work closely with\n **business leaders, IT architects, suppliers, and partner stakeholders** \n on a program with direct executive visibility, solving integration challenges at a scale few companies ever attempt.\n   \n\n  \n\n For the right person, this is a rare opportunity to help\n **build a new business unit from its earliest days** \n , rather than inherit someone else’s systems. You will gain\n **hands\\-on exposure to enterprise\\-scale platform integration and cross\\-functional program leadership** \n , with the kind of complexity and pace that can accelerate your career. If you want your work to have a visible impact on a company making a significant investment in its future, this is where that happens.\n   \n\n  \n\n**Workstream\\-Specific Details**\n****Responsibilities****\n* Own the end\\-to\\-end solution architecture for SAP Subscription Order Management (SOM) within SAP BRIM, covering subscription order capture, provisioning, and lifecycle change processes across the combined HPE and Juniper networking portfolios.\n* Define the target\\-state design for subscription and consumption\\-based offers, including product and rate\\-plan modelling, technical and master agreements, and one\\-off, recurring, and usage\\-based charging.\n* Architect integrations across the Lead\\-to\\-Cash landscape — CPQ and quoting, SAP SOM, Convergent Charging and Convergent Invoicing, FI\\-CA, revenue accounting, and downstream fulfillment and entitlement systems.\n* Translate business requirements into architecture artifacts: solution blueprints, process and data flows, interface specifications, and design decision records.\n* Act as design authority for the workstream — review functional and technical designs, enforce SAP best practice, and resolve cross\\-workstream design conflicts.\n* Partner with the data and migration teams on the migration of legacy subscription contracts and install base into the unified platform.\n* Guide onshore and offshore development teams through build, unit test, and defect resolution, ensuring delivery matches the approved design.\n* Identify and mitigate design risks relating to scalability, performance, and operational supportability at HPE volumes.\n* Support test strategy, cutover planning, and HyperCare, including root\\-cause analysis of production issues in the subscription order flow.\n* Advise business and IT leadership on trade\\-offs, standard\\-versus\\-custom decisions, and roadmap alignment with SAP product direction.\n\n\n****Education And Experience Required****\n* Bachelor’s degree in computer science, Engineering, Information Systems, or a related field; Master's degree an asset.\n* 10\\+ years of SAP experience, including 5\\+ years focused on SAP BRIM (Billing and Revenue Innovation Management).\n* At least two full\\-lifecycle SAP SOM implementations in a solution architect or lead design role, from blueprint through HyperCare.\n* Demonstrated experience architecting subscription or consumption\\-based commercial models in a high\\-tech, networking, software, or telecommunications environment.\n* Experience delivering within large, multi\\-year transformation or post\\-merger integration programs with global scope.\n* Experience working in agile or SAFe delivery models with distributed onshor",
-   "query": "SAP BRIM",
-   "id": "7a627da7f8a70266",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-11-19",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP Subscription Management - SOM (BRIM) Solution Architect",
-   "company": "Hewlett Packard Enterprise",
    "location": "San Jose, CA",
    "remote": false,
    "posted_at": "2026-11-16",
@@ -83,6 +263,26 @@
    "description": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n   \n\n  \n\n****Who We Are:****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n   \n\n  \n\n****Job Description:****\n L2C Program\n   \n\n  \n\n****Job Description****\n**Role**\n Subscription/SW: SAP Subscription Management \\- SOM (BRIM) Solution Architect\n   \n\n  \n\n**Onshore / Offshore**\n Onshore\n   \n\n  \n\n****Who We Are****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves together and are a force for good. If you are looking to stretch and grow your career, our culture will embrace you.\n   \n\n  \n\n****Job Description****\n HPE’s acquisition of Juniper Networks is one of the most significant moves in the company’s history, bringing two networking leaders together to build\n **HPE Networking** \n , with the ambition of creating the\n **best networking business on the planet** \n . This role sits at the center of that effort as part of\n **the Lead\\-to\\-Cash (L2C) program** \n , responsible for unifying quoting, ordering, and fulfillment across the combined HPE and Juniper networking portfolios onto a\n **single platform** \n , replacing fragmented legacy systems with one seamless, scalable experience for sellers, partners, and customers worldwide.\n   \n\n  \n\n As part of a fast\\-moving,\n **multi\\-year transformation** \n , the team will stabilize near\\-term operations,\n **migrate core** \n**platforms, onboard businesses and suppliers globally** \n , and build new capabilities from the ground up. The choices made here will shape how the combined networking business operates for years to come. You will work closely with\n **business leaders, IT architects, suppliers, and partner stakeholders** \n on a program with direct executive visibility, solving integration challenges at a scale few companies ever attempt.\n   \n\n  \n\n For the right person, this is a rare opportunity to help\n **build a new business unit from its earliest days** \n , rather than inherit someone else’s systems. You will gain\n **hands\\-on exposure to enterprise\\-scale platform integration and cross\\-functional program leadership** \n , with the kind of complexity and pace that can accelerate your career. If you want your work to have a visible impact on a company making a significant investment in its future, this is where that happens.\n   \n\n  \n\n**Workstream\\-Specific Details**\n****Responsibilities****\n* Own the end\\-to\\-end solution architecture for SAP Subscription Order Management (SOM) within SAP BRIM, covering subscription order capture, provisioning, and lifecycle change processes across the combined HPE and Juniper networking portfolios.\n* Define the target\\-state design for subscription and consumption\\-based offers, including product and rate\\-plan modelling, technical and master agreements, and one\\-off, recurring, and usage\\-based charging.\n* Architect integrations across the Lead\\-to\\-Cash landscape — CPQ and quoting, SAP SOM, Convergent Charging and Convergent Invoicing, FI\\-CA, revenue accounting, and downstream fulfillment and entitlement systems.\n* Translate business requirements into architecture artifacts: solution blueprints, process and data flows, interface specifications, and design decision records.\n* Act as design authority for the workstream — review functional and technical designs, enforce SAP best practice, and resolve cross\\-workstream design conflicts.\n* Partner with the data and migration teams on the migration of legacy subscription contracts and install base into the unified platform.\n* Guide onshore and offshore development teams through build, unit test, and defect resolution, ensuring delivery matches the approved design.\n* Identify and mitigate design risks relating to scalability, performance, and operational supportability at HPE volumes.\n* Support test strategy, cutover planning, and HyperCare, including root\\-cause analysis of production issues in the subscription order flow.\n* Advise business and IT leadership on trade\\-offs, standard\\-versus\\-custom decisions, and roadmap alignment with SAP product direction.\n\n\n****Education And Experience Required****\n* Bachelor’s degree in computer science, Engineering, Information Systems, or a related field; Master's degree an asset.\n* 10\\+ years of SAP experience, including 5\\+ years focused on SAP BRIM (Billing and Revenue Innovation Management).\n* At least two full\\-lifecycle SAP SOM implementations in a solution architect or lead design role, from blueprint through HyperCare.\n* Demonstrated experience architecting subscription or consumption\\-based commercial models in a high\\-tech, networking, software, or telecommunications environment.\n* Experience delivering within large, multi\\-year transformation or post\\-merger integration programs with global scope.\n* Experience working in agile or SAFe delivery models with distributed onshor",
    "query": "SAP Subscription Order Management",
    "id": "1a63d9bbffd323ec",
+   "region": "US",
+   "sources": [
+    "linkedin"
+   ],
+   "first_seen": "2026-11-19",
+   "repost_count": 0
+  },
+  {
+   "title": "SAP Subscription Management - SOM (BRIM) Solution Architect",
+   "company": "Hewlett Packard Enterprise",
+   "location": "Sunnyvale, CA",
+   "remote": false,
+   "posted_at": "2026-11-16",
+   "apply_url": "https://www.linkedin.com/jobs/view/4490601806",
+   "listing_url": "https://www.linkedin.com/jobs/view/4490601806",
+   "job_type": "fulltime",
+   "salary": "",
+   "description": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n   \n\n  \n\n****Who We Are:****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n   \n\n  \n\n****Job Description:****\n L2C Program\n   \n\n  \n\n****Job Description****\n**Role**\n Subscription/SW: SAP Subscription Management \\- SOM (BRIM) Solution Architect\n   \n\n  \n\n**Onshore / Offshore**\n Onshore\n   \n\n  \n\n****Who We Are****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves together and are a force for good. If you are looking to stretch and grow your career, our culture will embrace you.\n   \n\n  \n\n****Job Description****\n HPE’s acquisition of Juniper Networks is one of the most significant moves in the company’s history, bringing two networking leaders together to build\n **HPE Networking** \n , with the ambition of creating the\n **best networking business on the planet** \n . This role sits at the center of that effort as part of\n **the Lead\\-to\\-Cash (L2C) program** \n , responsible for unifying quoting, ordering, and fulfillment across the combined HPE and Juniper networking portfolios onto a\n **single platform** \n , replacing fragmented legacy systems with one seamless, scalable experience for sellers, partners, and customers worldwide.\n   \n\n  \n\n As part of a fast\\-moving,\n **multi\\-year transformation** \n , the team will stabilize near\\-term operations,\n **migrate core** \n**platforms, onboard businesses and suppliers globally** \n , and build new capabilities from the ground up. The choices made here will shape how the combined networking business operates for years to come. You will work closely with\n **business leaders, IT architects, suppliers, and partner stakeholders** \n on a program with direct executive visibility, solving integration challenges at a scale few companies ever attempt.\n   \n\n  \n\n For the right person, this is a rare opportunity to help\n **build a new business unit from its earliest days** \n , rather than inherit someone else’s systems. You will gain\n **hands\\-on exposure to enterprise\\-scale platform integration and cross\\-functional program leadership** \n , with the kind of complexity and pace that can accelerate your career. If you want your work to have a visible impact on a company making a significant investment in its future, this is where that happens.\n   \n\n  \n\n**Workstream\\-Specific Details**\n****Responsibilities****\n* Own the end\\-to\\-end solution architecture for SAP Subscription Order Management (SOM) within SAP BRIM, covering subscription order capture, provisioning, and lifecycle change processes across the combined HPE and Juniper networking portfolios.\n* Define the target\\-state design for subscription and consumption\\-based offers, including product and rate\\-plan modelling, technical and master agreements, and one\\-off, recurring, and usage\\-based charging.\n* Architect integrations across the Lead\\-to\\-Cash landscape — CPQ and quoting, SAP SOM, Convergent Charging and Convergent Invoicing, FI\\-CA, revenue accounting, and downstream fulfillment and entitlement systems.\n* Translate business requirements into architecture artifacts: solution blueprints, process and data flows, interface specifications, and design decision records.\n* Act as design authority for the workstream — review functional and technical designs, enforce SAP best practice, and resolve cross\\-workstream design conflicts.\n* Partner with the data and migration teams on the migration of legacy subscription contracts and install base into the unified platform.\n* Guide onshore and offshore development teams through build, unit test, and defect resolution, ensuring delivery matches the approved design.\n* Identify and mitigate design risks relating to scalability, performance, and operational supportability at HPE volumes.\n* Support test strategy, cutover planning, and HyperCare, including root\\-cause analysis of production issues in the subscription order flow.\n* Advise business and IT leadership on trade\\-offs, standard\\-versus\\-custom decisions, and roadmap alignment with SAP product direction.\n\n\n****Education And Experience Required****\n* Bachelor’s degree in computer science, Engineering, Information Systems, or a related field; Master's degree an asset.\n* 10\\+ years of SAP experience, including 5\\+ years focused on SAP BRIM (Billing and Revenue Innovation Management).\n* At least two full\\-lifecycle SAP SOM implementations in a solution architect or lead design role, from blueprint through HyperCare.\n* Demonstrated experience architecting subscription or consumption\\-based commercial models in a high\\-tech, networking, software, or telecommunications environment.\n* Experience delivering within large, multi\\-year transformation or post\\-merger integration programs with global scope.\n* Experience working in agile or SAFe delivery models with distributed onshor",
+   "query": "SAP Subscription Order Management",
+   "id": "7a627da7f8a70266",
    "region": "US",
    "sources": [
     "linkedin"
@@ -131,26 +331,6 @@
    "repost_count": 0
   },
   {
-   "title": "SAP S/4 HANA Application Expert - Sales & Customer Service",
-   "company": "ASSA ABLOY Group",
-   "location": "Chennai, Tamil Nadu, India",
-   "remote": true,
-   "posted_at": "2026-11-17",
-   "apply_url": "https://www.linkedin.com/jobs/view/4491161334",
-   "listing_url": "https://www.linkedin.com/jobs/view/4491161334",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "ASSA ABLOY Global Solutions is rolling out SAP S/4 HANA across the Division which will enable and support its business expansion strategy in line with the new operating business model.\n   \n\n  \n\n**Primary Job Purpose**\n Responsible to deliver design and system configuration for the Sales and Distribution (SD) module in SAP S/4HANA, ensuring successful rollout and adoption of standardized Quote\\-to\\-Cash processes across business units. The candidate is responsible for translating business requirements into system solutions, managing data migration, testing, training, and post\\-go\\-live support, while aligning with SAP best practices and project timelines.\n   \n\n  \n\n**Key Position Accountabilities**\n* Being part of Global IT team and responsible for SAP SD (Sales and Distribution) module configuration and associated developments are designed, built, tested \\& deployed according to S/4 HANA best practices.\n* Facilitate and support workstream managers / Solution Architects \\& leads right from requirement gathering, solution design with focus on Sales and Customer Service processes and integration of same with operations, finance \\& product management workstreams.\n* Analyse business requirements related to sales quotations, sales orders management, order fulfilment, invoicing, returns and credit management processes. Internal\n* Configure core SD components such as sales order types, item categories, ATP, pricing procedures, delivery types, billing types and work with technical teams for WRICEF developments\n* Responsible for creating/maintaining functional specifications for WRICEF (Workflow, Report, Interface, Conversion, Enhancement, Forms) objects.\n* Perform configuration, testing, training, migration, cutover, go\\-live and hyper care activities.\n* Support incidents or change requests for the live Business units.\n* Collaborate with BRIM, MM, FI, PP and EWM module consultants to support cross\\-functional processes.\n\n\n**SELECTION CRITERIA**\n**Essential** \n :\n   \n\n  \n\n* Bachelor / master’s degree in business, Computer Science, or equivalent discipline is required with minimum 7 years of consulting experience with multiple Industries.\n* Minimum 2 full lifecycle implementations / roll outs \\& support experience in Sales \\& Distribution module in S/4 HANA or SAP ECC Projects.\n* Extensive experience in the core SD customizing including Quotations, Sales contracts, Sales order management, Available to Promise (ATP), outbound logistics, pricing, billing and returns and credit management.\n* Hands\\-on experience in SD configurations.\n* Understanding on SAP Best Practices in SD module and their integrations \\& technology.\n* Experience in S/4HANA environment and Fiori applications.\n* Strong communication skills in English, self\\-driven and motivated.\n* Ability to manage and deliver multiple priorities in a constrained timeline\n\n\n**Desirable** \n :\n   \n\n  \n\n* SAP S/4 HANA Certification in SAP SD.\n* Knowledge of new features in SAP S/4HANA like embedded analytics, user experience using Fiori, SAP cloud platform\n* Basic ABAP debugging or familiarity with enhancement frameworks.\n\n\n**WORK ENVIRONMENT FACTORS**\n* Office based/Remote with occasional international travel.\n* Health and Safety accountability statements.\n* Working times are European time zone, however open to be available in APAC/US time zone as well for the need basis. Internal\n\n\n**We are the ASSA ABLOY Group**\n Our people have made us the global leader in access solutions. In return, we open doors for them wherever they go. With nearly 63,000 colleagues in more than 70 different countries, we help billions of people experience a more open world. Our innovations make all sorts of spaces – physical and virtual – safer, more secure, and easier to access.\n   \n\n  \n\n As an employer, we value results – not titles, or backgrounds. We empower our people to build their career around their aspirations and our ambitions – supporting them with regular feedback, training, and development opportunities. Our colleagues think broadly about where they can make the most impact, and we encourage them to grow their role locally, regionally, or even internationally.\n   \n\n  \n\n As we welcome new people on board, it’s important to us to have diverse, inclusive teams, and we value different perspectives and experiences.",
-   "query": "SAP Subscription Order Management",
-   "id": "672b60e8d7e9218a",
-   "region": "India",
-   "sources": [
-    "linkedin"
-   ],
-   "first_seen": "2026-11-19",
-   "repost_count": 0
-  },
-  {
    "title": "SAP ABAP",
    "company": "Nobl Q",
    "location": "Remote, US",
@@ -186,26 +366,6 @@
    "region": "US",
    "sources": [
     "indeed"
-   ],
-   "first_seen": "2026-11-18",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP IS-U Meter-to-Cash / BPEM Consultant",
-   "company": "EY",
-   "location": "Bengaluru, Karnataka, India",
-   "remote": false,
-   "posted_at": "2026-11-17",
-   "apply_url": "https://www.linkedin.com/jobs/view/4491409639",
-   "listing_url": "https://www.linkedin.com/jobs/view/4491409639",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n   \n\n  \n\n**SAP IS\\-U Meter\\-to\\-Cash / BPEM Consultant**\n**Experience Required:** \n 5\\+ Years\n   \n\n  \n\n**Industry:** \n Utilities\n   \n\n  \n\n**Functional Area:** \n SAP IS\\-U \\| Meter\\-to\\-Cash \\| Billing \\& Invoicing \\| BPEM\n   \n\n  \n\n**Role Description**\n We are seeking an experienced\n **SAP IS\\-U Consultant** \n with strong functional knowledge of the end\\-to\\-end\n **Meter\\-to\\-Cash (M2C)** \n process. The role will focus on analyzing and resolving\n **BPEM exceptions** \n , performing root\\-cause analysis, and ensuring impacted accounts successfully progress through billing and invoicing.\n   \n\n  \n\n The consultant will also serve as a\n **senior functional resource** \n , providing guidance on complex cases and coaching and mentoring team members to improve resolution quality and overall team effectiveness.\n   \n\n  \n\n**Key Responsibilities**\n* Analyze and resolve SAP IS\\-U BPEM cases across meter reading, billing, invoicing, and related M2C processes.\n* Perform account\\-level root\\-cause analysis, execute corrective actions, and validate successful resolution before case closure.\n* Troubleshoot exceptions involving meter reads, devices/installations, rates, master data, contracts, billing, invoicing, Customer Choice, and NEM.\n* Work with BPEM categories such as DI14, SM01, SM02, BG29, BG41, OC13, OC15, and other M2C exception types.\n* Navigate key SAP IS\\-U objects including Business Partner, Contract Account, Contract, Installation, Premise, Point of Delivery, Device, Meter Reading, Billing, and Invoicing.\n* Coordinate with functional, technical, and business teams to resolve cross\\-functional issues.\n* Coach and mentor team members, support complex case resolution, and promote knowledge sharing and consistent resolution practices.\n* Identify recurring exception trends and recommend system, process, master\\-data, or automation improvements.\n* Maintain clear case documentation and manage assigned BPEM inventory through timely resolution and closure.\n\n\n**Required Qualifications**\n* 5\\+ years of SAP experience with strong hands\\-on SAP IS\\-U / Utilities experience.\n* Strong knowledge of Meter\\-to\\-Cash, Billing, Invoicing, and BPEM.\n* Experience troubleshooting complex SAP IS\\-U production issues and independently driving cases to resolution.\n* Strong analytical, root\\-cause analysis, communication, and documentation skills.\n* Experience coaching or mentoring team members and providing functional guidance.\n* Ability to manage multiple priorities in a high\\-volume production\\-support environment.\n\n\n**Preferred Experience**\n* Experience supporting a large electric and/or gas utility.\n* Experience with SAP S/4HANA Utilities.\n* Knowledge of Customer Choice and NEM billing scenarios.\n* Experience with production stabilization, BPEM trend analysis, and process improvement/automation.\n* Familiarity with SE16N and standard SAP IS\\-U transactions used for account\\-level analysis.\n\n\n**EY \\| Building a better working world**\n EY exists to build a better working world, helping to create long\\-term value for clients, people and society and build trust in the capital markets.\n   \n\n  \n\n Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.\n   \n\n  \n\n Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.",
-   "query": "SAP Hybris Billing",
-   "id": "65f62d54bc3f03c5",
-   "region": "India",
-   "sources": [
-    "linkedin"
    ],
    "first_seen": "2026-11-18",
    "repost_count": 0
@@ -251,32 +411,6 @@
    "repost_count": 0
   },
   {
-   "title": "SAP-BRIM Implementation / Project Manager",
-   "company": "Hewlett Packard Enterprise",
-   "location": "Multiple (4): San Jose, CA, Roseville, CA, Sunnyvale, CA, Spring, TX",
-   "remote": false,
-   "posted_at": "2026-11-16",
-   "apply_url": "https://www.linkedin.com/jobs/view/4490604357",
-   "listing_url": "https://www.linkedin.com/jobs/view/4490604357",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "SAP\\-BRIM Implementation / Project Manager\n   \n\n  \n\n This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n   \n\n  \n\n****Who We Are:****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n   \n\n  \n\n****Job Description:****\n L2C Program\n   \n\n  \n\n****Job Description****\n**Role**\n Subscription/SW: SAP\\-BRIM Implementation / Project Manager\n   \n\n  \n\n**Onshore / Offshore**\n Onshore\n   \n\n  \n\n****Who We Are****\n Hewlett Packard Enterprise is the global edge\\-to\\-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves together and are a force for good. If you are looking to stretch and grow your career, our culture will embrace you.\n   \n\n  \n\n****Job Description****\n HPE’s acquisition of Juniper Networks is one of the most significant moves in the company’s history, bringing two networking leaders together to build\n **HPE Networking** \n , with the ambition of creating the\n **best networking business on the planet** \n . This role sits at the center of that effort as part of\n **the Lead\\-to\\-Cash (L2C) program** \n , responsible for unifying quoting, ordering, and fulfillment across the combined HPE and Juniper networking portfolios onto a\n **single platform** \n , replacing fragmented legacy systems with one seamless, scalable experience for sellers, partners, and customers worldwide.\n   \n\n  \n\n As part of a fast\\-moving,\n **multi\\-year transformation** \n , the team will stabilize near\\-term operations,\n **migrate core** \n**platforms, onboard businesses and suppliers globally** \n , and build new capabilities from the ground up. The choices made here will shape how the combined networking business operates for years to come. You will work closely with\n **business leaders, IT architects, suppliers, and partner stakeholders** \n on a program with direct executive visibility, solving integration challenges at a scale few companies ever attempt.\n   \n\n  \n\n For the right person, this is a rare opportunity to help\n **build a new business unit from its earliest days** \n , rather than inherit someone else’s systems. You will gain\n **hands\\-on exposure to enterprise\\-scale platform integration and cross\\-functional program leadership** \n , with the kind of complexity and pace that can accelerate your career. If you want your work to have a visible impact on a company making a significant investment in its future, this is where that happens.\n   \n\n  \n\n**Workstream\\-Specific Details**\n****Responsibilities****\n* Lead end\\-to\\-end delivery of the SAP BRIM workstream (Subscription Order Management, Convergent Charging, Convergent Invoicing, and FI\\-CA) within the L2C program, from requirements through design, build, test, cutover, and HyperCare.\n* Own the integrated project plan, milestones, critical path, and RACI, and keep delivery aligned to the broader L2C roadmap and dependent workstreams.\n* Manage a cross\\-functional delivery team spanning HPE business and IT stakeholders, system integrator partners, and onshore/offshore development and testing resources.\n* Manage scope, schedule, budget, and resourcing, including forecast versus actuals, change control, and clear trade\\-off recommendations when priorities shift.\n* Own RAID management — proactively surface risks, issues, assumptions, and cross\\-workstream dependencies, and drive them to closure with the right level of escalation.\n* Coordinate integration design and delivery across SAP S/4HANA, CPQ, CRM, entitlement and fulfillment platforms, and the data migration streams supporting the combined HPE and Juniper portfolios.\n* Drive test strategy and execution across SIT, UAT, and performance testing, and govern defect triage and resolution to exit criteria.\n* Plan and execute cutover, go\\-live, and HyperCare, including business readiness, training coordination, and post\\-go\\-live stabilization.\n* Provide clear, executive\\-ready status reporting and represent the workstream in program governance and steering committee forums.\n* Ensure delivery meets applicable audit, SOX, security, and data privacy control requirements.\n\n\n****Education And Experience Required****\n* Bachelor’s degree in computer science, Information Systems, Engineering, Business, or a related field; advanced degree an asset.\n* 10\\+ years of IT project and program management experience delivering large\\-scale enterprise applications, with at least 5 years in the SAP ecosystem.\n* 3\\+ full\\-lifecycle SAP BRIM / Hybris Billing implementations in a project or workstream lead capacity, including at least one global rollout.\n* Demonstrated experience delivering subscription, consumption, or as\\-a\\-service monetization capabilities in a quote\\-to\\-cash or lead\\-to\\-cash context.\n* Experience managing blended onshore/offshore delivery teams and system integrator partners against fixed milestones and budgets.\n* Experience delivering within a large\\-scale business transformation, ER",
-   "query": "SAP BRIM",
-   "id": "d4eba504e4fbe31e",
-   "region": "US",
-   "sources": [
-    "linkedin"
-   ],
-   "locations": [
-    "San Jose, CA",
-    "Roseville, CA",
-    "Sunnyvale, CA",
-    "Spring, TX"
-   ],
-   "first_seen": "2026-11-17",
-   "repost_count": 0
-  },
-  {
    "title": "SAP BRIM Developer",
    "company": "FuGenEd(An Incubation Center)",
    "location": "Remote, IN",
@@ -317,7 +451,15 @@
    "repost_count": 0
   }
  ],
- "expired": [],
+ "expired": [
+  {
+   "id": "3c3e9d5859924c0b",
+   "company": "Infosys",
+   "title": "SAP ISU FICA Consultant",
+   "location": "Multiple (3): Pomona, CA, US, Miami, FL, Pomona, CA",
+   "gone": "2026-11-20"
+  }
+ ],
  "reposts": [
   {
    "id": "823f524a0d1fb5f0",
@@ -395,6 +537,18 @@
    "id": "a6c767c68a7ab32e",
    "company": "Avangrid",
    "title": "Sr Manager Customer Service Tech - Billing & FICA",
+   "reposts": 1
+  },
+  {
+   "id": "2484c19c88881305",
+   "company": "Hewlett Packard Enterprise",
+   "title": "SAP-BRIM Implementation / Project Manager",
+   "reposts": 1
+  },
+  {
+   "id": "ef5462c20348e656",
+   "company": "Hewlett Packard Enterprise",
+   "title": "SAP-BRIM Implementation / Project Manager",
    "reposts": 1
   },
   {
@@ -614,6 +768,12 @@
    "reposts": 2
   },
   {
+   "id": "23647d19df2229aa",
+   "company": "delaware North America",
+   "title": "SAP Utilities FICA Lead",
+   "reposts": 1
+  },
+  {
    "id": "b711ad52f88de58a",
    "company": "Criteo",
    "title": "BRIM Technical Architect",
@@ -719,7 +879,7 @@
    "id": "db85c9a57333e113",
    "company": "MSA - The Safety Company",
    "title": "SAP Subscription Billing & Revenue Accounting (RAR) Analyst",
-   "reposts": 1
+   "reposts": 2
   },
   {
    "id": "19e0d2616d075803",
@@ -821,6 +981,24 @@
    "id": "15f77b19dd352f92",
    "company": "Infosys",
    "title": "SAP ISU FICA Consultant",
+   "reposts": 1
+  },
+  {
+   "id": "a2061e4c696baac1",
+   "company": "EY",
+   "title": "SAP BRIM-Convergent Invoicing -Senior",
+   "reposts": 1
+  },
+  {
+   "id": "49df2ae0bf3f95ae",
+   "company": "EY",
+   "title": "SAP BRIM-Convergent Charging -Senior",
+   "reposts": 1
+  },
+  {
+   "id": "7885ad6400e8dbb5",
+   "company": "EY",
+   "title": "SAP BRIM - SOM Functional-Senior",
    "reposts": 1
   }
  ]
