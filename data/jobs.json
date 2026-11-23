@@ -1,15 +1,35 @@
 {
- "generated_at": "2026-11-22T00:53:50+00:00",
+ "generated_at": "2026-11-23T01:22:21+00:00",
  "window_days": 4,
  "counts": {
-  "raw": 421,
-  "relevant": 42,
-  "new_today": 13,
-  "emitted": 24,
-  "expired_today": 1,
+  "raw": 428,
+  "relevant": 37,
+  "new_today": 1,
+  "emitted": 19,
+  "expired_today": 2,
   "liveness_checked": 60
  },
  "jobs": [
+  {
+   "title": "SAP IS-U Billing Analyst",
+   "company": "ritepros",
+   "location": "Portland, ME, US",
+   "remote": false,
+   "posted_at": "2026-11-19",
+   "apply_url": "https://ritepros.com/sap_isu.php",
+   "listing_url": "https://www.indeed.com/viewjob?jk=6db41994249f6f99",
+   "job_type": "",
+   "salary": "",
+   "description": "**SAP IS\\-U Billing Analyst** with Bachelor’s Degree in Computer Science, Computer Information Systems, Information Technology, Engineering, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects.\n\n\n**Job Duties and Responsibilities:**\n\n\n* Lead end\\-to\\-end analysis, solution design, configuration, implementation, and optimization of SAP IS\\-U Billing and Invoicing processes across large\\-scale utility environments.\n* Translate complex business and regulatory requirements into functional specifications and scalable SAP IS\\-U solutions, evaluating design alternatives, conducting fit\\-gap assessments, and ensuring alignment with enterprise architecture governance standards.\n* Design and configure SAP IS\\-U Billing Master Data, Billing Schemas, Rate Categories, Rate Types, Rates, Operands, Facts, Price Keys, and Rate Determination procedures.\n* Lead functional design for complex utility billing scenarios, including Time\\-of\\- Use billing, interval\\-based billing, gas thermal and volumetric billing, billing simulations, proration, adjustments, reversals, rebilling, and exception management.\n* Analyze utility tariff structures, rate changes, and billing requirements, assessing functional impacts and dependencies across Meter Reading, Invoicing, FI\\-CA, and Customer Service.\n* Define and oversee integration between SAP IS\\-U Billing, Device Management, Energy Data Management (EDM), SAP CRM, FI\\-CA, and external metering and financial systems to support end\\-to\\-end Meter\\-to\\-Cash operations.\n* Design billing validation and reconciliation processes to ensure accurate consumption calculations, invoice generation, financial postings, and resolution of billing discrepancies.\n* Participate in SAP S/4HANA Utilities transformation initiatives, including brownfield conversions, solution assessments, functional impact analysis, integration planning, and business process modernization.\n* Design and support billing enhancements involving advanced metering, interval\\-data integration, electric vehicle charging, tariff changes, and evolving utility business requirements.\n* Investigate complex SAP IS\\-U Billing production issues, perform root\\-cause analysis, assess cross\\-module dependencies, recommend corrective solutions, and support billing process automation and continuous improvement.\n* Lead functional design workshops and solution reviews, preparing architecture documentation, implementation estimates, and technical recommendations for complex enterprise SAP initiatives.\n* Provide functional guidance to onshore and offshore teams, reviewing configurations, functional specifications, integration designs, and development deliverables while resolving cross\\-functional dependencies.\n* Coordinate system integration testing, user acceptance testing, defect resolution, billing\\-cycle transitions, production deployments, and post\\-Go\\-Live stabilization, collaborating with technical teams and business stakeholders to ensure successful delivery.\n**Skills / Work Experience Required:**\n\n\n* Minimum 5 years of progressively responsible experience in SAP consulting, enterprise application implementation, solution design, or large\\-scale IT delivery, including extensive experience with SAP IS\\-U solutions.\n* Expert functional knowledge of SAP IS\\-U Billing and Invoicing, including Billing Master Data, Billing Schemas, Rate Management, Operands, Facts, Rate Determination, Billing Exceptions, and Invoice Processing.\n* Advanced knowledge of utility tariffs, Time\\-of\\-Use billing, interval\\-based billing, gas billing, collective invoicing, billing reversals, adjustments, budget billing, and complex Meter\\-to\\-Cash processes.\n* Extensive experience integrating SAP CRM/ECC/IS\\-U with Device Management, Meter Reading, Energy Data Management, FI\\-CA, Customer Service, and external utility and financial systems.\n* Experience with SAP S/4HANA Utilities implementations, brownfield conversions, functional assessments, application modernization, and enterprise transformation programs.\n* Strong technical understanding of SAP Fiori, SAP UI5, OData services, APIs, middleware, microservices, and cloud integration technologies, including AWS or equivalent platforms.\n* Experience with Advanced Metering Infrastructure (AMI), Meter Data Management Systems (MDMS), SAP EDM profiles, interval\\-data processing, and enterprise data integration.\n* Demonstrated expertise in enterprise solution architecture, functional design, fit\\-gap analysis, technical governance, application integration, and business process optimization.\n* Proven experience delivering complex SAP implementations, including requirements analysis, functional specifications, testing, deployment, production support, and system stabilization.\n* Experience working with geographically distributed onshore and offshore teams using Agile and Waterfall methodologies, including cross\\-functional delivery coordination and technical guidance.\n* Strong analytical, problem\\-solving, communication, stakeholder management, and decision\\-making skills, with demonstrated ability to independently resolve complex enterprise application issues. SAP IS\\-U, SAP CRM, SAP S/4HANA, or related SAP professional certifications preferred.\nWork location is Portland, ME with required travel to client locations throughout USA.\n  \n\n  \n\nRite Pros is an equal opportunity employer (EOE).\n  \n\n  \n\n**Please Mail Resumes to:**  \n\nRite Pros, Inc.\n  \n\n565 Congress St, Suite \\# 305\n  \n\nPortland, ME 04101\\.\n\n\n**Email:** **resumes@ritepros.com**",
+   "query": "SAP FI-CA",
+   "id": "47035c04b258cda3",
+   "region": "US",
+   "sources": [
+    "indeed"
+   ],
+   "first_seen": "2026-11-23",
+   "repost_count": 0
+  },
   {
    "title": "SAP BRIM Consultant",
    "company": "NeerInfo Solutions",
@@ -41,7 +61,7 @@
    "job_type": "fulltime",
    "salary": "",
    "description": "**About KARL STORZ**\n From the operating room to surgery centers—and everywhere in between—KARL STORZ North America is a global leader in medical technology and advanced visualization solutions. We design specialty innovations, smart instruments and devices, integrated ecosystems, and intelligent imaging—to build a more connected, software\\-enabled operating room.\n   \n\n  \n\n As an independent, family\\-owned MedTech company, we ambitiously think in generations instead of quarters to improve patients’ lives around the world.\n   \n\n  \n\n**About The Role**\n The Senior SAP Analyst, Commercial serves as a senior functional expert responsible for supporting, enhancing, and transforming commercial business processes within the SAP S/4HANA environment. This role partners closely with business stakeholders and IT teams to design and deliver scalable solutions supporting order management, billing, revenue management, contracts, service operations, and other commercial processes.\n   \n\n  \n\n The position is responsible for the full solution lifecycle, including business process analysis, requirements gathering, solution design, configuration, testing, deployment, and production support. The successful candidate will help drive adoption of SAP best practices, enable new business capabilities, and support the organization's ongoing SAP modernization and cloud transformation initiatives.\n   \n\n  \n\n**This role has a hybrid work schedule – ideally in our El Segundo, CA office, also open to working out of the Stafford, TX or Auburn, MA office** \n .\n   \n\n  \n\n The compensation range for this role is: CA: $137,200 \\- $178,400 and outside of CA: $113,800 \\- $148,100\n   \n\n  \n\n**What You’ll Do**\n* Serve as the functional subject matter expert for SAP commercial solutions supporting Order\\-to\\-Cash, contract management, billing, revenue management, returns, and service processes.\n* Partner with business stakeholders to understand requirements, identify process improvements, and develop scalable SAP solutions aligned with business objectives.\n* Lead business workshops, perform fit\\-gap analysis, document requirements, and create functional specifications and solution designs.\n* Configure and support SAP S/4HANA commercial solutions while collaborating with developers and integration teams to deliver business functionality.\n* Participate in all phases of project delivery including requirements gathering, blueprinting, design, testing, deployment, and post\\-go\\-live support.\n* Support business transformation initiatives by leveraging SAP standard capabilities and industry best practices.\n* Collaborate with business and technical teams to design solutions supporting evolving commercial and service business models.\n* Provide Level 2 and Level 3 production support, perform root cause analysis, and implement sustainable solutions for recurring issues.\n* Support integrations between SAP and other enterprise applications and external business partners.\n* Maintain process documentation, functional specifications, test scripts, and training materials.\n* Stay current with SAP product roadmaps, emerging technologies, and industry best practices to recommend continuous improvements.\n* Mentor junior team members and contribute to a collaborative, customer\\-focused work environment.\n\n\n**What You’ll Bring**\n Required:\n   \n\n  \n\n* Bachelor’s degree in Computer Science, Information Systems, Business, Engineering, or equivalent\n* 8\\+ years of SAP experience with strong functional expertise in SAP ECC and SAP S/4HANA commercial solutions.\n* Deep knowledge of end\\-to\\-end business processes including Order\\-to\\-Cash, Contract Management, Billing, Revenue Management, Returns Processing, and Service Management.\n* Hands\\-on configuration experience in SAP S/4HANA Sales and Distribution (SD) and related commercial solutions.\n* 3\\+ years of experience with SAP S/4HANA capabilities such as Advanced Returns Management (ARM), Condition Contract Management (CCM), Revenue Accounting and Reporting (RAR), FSCM Credit Management, and SAP Fiori applications.\n* Experience gathering business requirements, conducting fit\\-gap analysis, developing process blueprints, and creating functional specifications.\n* Proven experience delivering projects through the full solution lifecycle including design, configuration, testing, deployment, and production support.\n* Strong integration knowledge across SAP modules including FI, CO, MM, Logistics, Service, and Revenue Management processes.\n* Experience with SAP integration technologies including IDocs, EDI, APIs, and SAP Cloud Integration solutions.\n* Ability to read and debug ABAP code and effectively collaborate with development teams.\n* Strong analytical, problem\\-solving, communication, and stakeholder management skills.\n* Ability to manage multiple priorities in a fast\\-paced environment while delivering high\\-quality solutions.\n\n\n**Preferred:**\n* 10\\+ years of experience supporting SAP S/4HANA transformation, modernization, or cloud migration initiatives.\n* Experience with subscription management, recurring revenue, usage\\-based billing, and software commercialization business models.\n* Experience with SAP Billing and Revenue Innovation Management (BRIM).\n* Experience implementing or supporting SAP S/4HANA Service Management solutions.\n* Experience with SAP Business Technology Platform (BTP) and modern SAP extensibility approaches.\n* Knowledge of SAP Embedded Analytics, CDS Views, and analytical Fiori applications.\n* Experience integrating SAP with CRM, tax, ecommerce, customer portal, and other enterprise applications.\n* SAP certifications in SAP S/4HANA Sales, BRIM, Revenue Accounting and Reporting, Service Management, Integration Suite, or related SAP disciplines.\n* Experience in medical devices, healthcare, manufacturing, software, or other regulated industries.\n\n\n**Travel:** \n Ability to travel up to 20% domestically and occasionally overseas\n   \n\n  \n\n**Why KARL STORZ?**\n Join KARL STORZ and be part of a t",
-   "query": "SAP Hybris Billing",
+   "query": "SAP Convergent Invoicing",
    "id": "7b324be37466698a",
    "region": "US",
    "sources": [
@@ -66,26 +86,6 @@
    "region": "India",
    "sources": [
     "indeed"
-   ],
-   "first_seen": "2026-11-22",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP Developer - IT Customer & Metering Systems",
-   "company": "FirstEnergy",
-   "location": "Akron, OH",
-   "remote": false,
-   "posted_at": "2026-11-18",
-   "apply_url": "https://www.linkedin.com/jobs/view/4491858265",
-   "listing_url": "https://www.linkedin.com/jobs/view/4491858265",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "**Job Description**\n FirstEnergy at a Glance\n   \n\n  \n\n We are a forward\\-thinking electric utility powered by a diverse team of employees committed to making customers’ lives brighter, the environment better and our communities stronger.\n   \n\n  \n\n FirstEnergy (NYSE: FE) is dedicated to safety, reliability, and operational excellence. Headquartered in Akron, Ohio, FirstEnergy includes one of the nation's largest investor\\-owned electric systems, more than 24,500 miles of transmission lines that connect the Midwest and Mid\\-Atlantic regions, and a regulated generating fleet with a total capacity of 3,780 megawatts.\n   \n\n  \n\n This position is within FirstEnergy Service Co., a subsidiary of FirstEnergy Corp.\n   \n\n  \n\n**Position Summary**\n FirstEnergy is seeking an SAP Developer to support its current SAP ECC environment and contribute to its ERP modernization efforts, with SAP S/4HANA as the preferred future\\-state platform. This role focuses on developing, enhancing, integrating, and supporting SAP solutions for customer invoicing, payments, and collections.\n   \n\n  \n\n This opportunity is well suited for candidates with a solid programming foundation who want to grow in SAP development. Recent college graduates with relevant coursework or internship experience, developers new to SAP, and those with hands\\-on SAP experience are all encouraged to apply. The successful candidate will bring strong technical aptitude, a passion for problem solving, and a desire to continue learning.\n   \n\n  \n\n**Primary Responsibilities**\n* Develop, maintain, and enhance SAP solutions supporting customer invoicing, payments, collections, and assistance programs.\n* Partner with business clients and functional teams to analyze business requirements and translate them into effective technical specifications and solutions.\n* Design, develop, and support SAP programs, reports, interfaces, workflows, enhancements, and integrations.\n* Ensure solutions adhere to established development standards, security requirements, and best practices.\n* Troubleshoot, analyze, and resolve application defects and production issues.\n* Develop and execute unit test plans and support user acceptance testing activities.\n* Prepare and maintain technical documentation for implemented solutions and support procedures.\n* Provide day\\-to\\-day production support, including incident resolution, root cause analysis, and operational monitoring.\n* Support nightly batch processing for customer billing, including occasional after\\-hours support as needed.\n\n\n**Required Qualifications**\n* Bachelor's degree in Computer Science, Information Technology, Computer Information Systems, Software Engineering, or a related discipline; or equivalent work experience.\n* Knowledge of programming concepts, software development principles, and application design and support practices.\n* Understanding of software development lifecycle methodologies.\n* Ability to collaborate effectively with both technical and non\\-technical stakeholders.\n* Strong analytical, organizational, problem\\-solving, and communication skills.\n* Ability to manage multiple priorities and deliver results in a fast\\-paced environment.\n* Work independently while contributing effectively to team goals and objectives.\n* Willingness to learn new technologies, business processes, platforms, and development tools.\n* Strong commitment to customer service and process improvement.\n* Fully proficient in Microsoft Office 365 suite.\n* Excellent written and verbal communication skills.\n\n\n**Preferred Qualifications**\n* Hands\\-on experience developing or supporting SAP applications, including ABAP programming for reports, interfaces, and enhancements.\n* Exposure to SAP S/4HANA and SAP Fiori through project work, training, or certification.\n* Experience contributing to an ERP upgrade, migration, or implementation, such as custom code remediation, testing, or cutover support.\n* SAP IS\\-U (Utilities) experience, particularly in billing, invoicing, or contract accounts receivable and payable (FI\\-CA).\n\n\n**Benefits, Compensation \\& Workforce Diversity**\n At FirstEnergy, employees are key to our success. We depend on their talents to meet the challenges of our changing business environment. We are committed to rewarding individual and team efforts through our total rewards philosophy which includes competitive pay plus incentive compensation, a company\\-sponsored pension plan, 401(k) savings plan with matching employer contribution, a choice of medical, prescription drug, dental, vision, and life insurance programs, as well as skills development training with tuition reimbursement. Please visit our website at www.firstenergycorp.com to learn more about all of our employee rewards programs. FirstEnergy proudly supports workforce diversity. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with a disability. No recruiters or agencies without a previously signed contract. Unable to sponsor or transfer H\\-1B visas at this time.\n   \n\n  \n\n**Safety**\n Safety is a core value for FirstEnergy and is essential to all of our business activities. We ensure employees have the tools, information, and processes to perform their duties in a manner that assures safety for themselves, their co\\-workers, our customers and the public. Our goals are to provide a safe work environment, to maintain an accident\\-free, injury\\-free workplace, and to promote and maintain public safety. To meet these goals, we dedicate ourselves to achieving world\\-class safety standards.\n   \n\n  \n\n**Position Classification**\n Exempt\n   \n\n  \n\n**FirstEnergy Human Resources Team**",
-   "query": "SAP Convergent Charging",
-   "id": "240711526a2c2ec1",
-   "region": "US",
-   "sources": [
-    "linkedin"
    ],
    "first_seen": "2026-11-22",
    "repost_count": 0
@@ -198,9 +198,9 @@
    "posted_at": "2026-11-20",
    "apply_url": "https://www.linkedin.com/jobs/view/4491921860",
    "listing_url": "https://www.linkedin.com/jobs/view/4491921860",
-   "job_type": "",
+   "job_type": "contract",
    "salary": "",
-   "description": "",
+   "description": "* \n+ Gurgaon, India\n\n* Internal IT\n* Permanent \\- Full Time\n\n\n IT BRIM SOM Lead\n   \n\n  \n\n Apply Now\n   \n\n  \n\n Share\n   \n\n  \n\n**Job ID:** \n r21354\n   \n\n  \n\n**What You'll Do:**\n Own how products and subscriptions are structured, sold and evolved over time within SAP BRIM.\n   \n\n  \n\n You are accountable for the integrity, scalability and consistency of the Subscription Order Management (SOM) layer — where commercial offers become contractual truth.\n   \n\n  \n\n You ensure subscription lifecycle logic is robust, scalable and cleanly integrated with downstream billing and charging processes.\n   \n\n  \n\n**Main Missions:**\n* Act as the SOM functional authority within the BRIM landscape.\n* Own the end\\-to\\-end functional design and configuration of SAP Subscription Order Management.\n* Model subscription lifecycles (create, change, suspend, renew, cancel) in a scalable and standard\\-aligned way.\n* Ensure clean and reliable order flow from SOM to CI and CM, without breaking billing integrity.\n* Ensure pricing, discount and eligibility rules are configurable, extensible and business\\-driven.\n* Stay updated with the industry\\-leading practices in SOM Module to propose innovations around Contract \\& Ordering Process (Incl. CPQ integration, Entitlement Management, ...)\n\n\n**Tasks:**\n Design and configure subscription models in SAP SOM\n   \n\n  \n\n* Analyze customer business processes and requirements, analyze how the SAP SOM module can be leveraged to support those processes effectively.\n* Design and configure solution within SAP SOM module to meet Criteo requirements (Product Catalog, contract \\& order management)\n* Create presentation/workshop decks for Solution Blueprint to be shared with Finance \\& Sales Admin Teams\n* Modelization of Product Catalog and Account hierarchies\n* Streamline the Contract Transcription process for Non Standard Deals\n* Enable automatic replication and synchronization of Contract / Master Data between Salesforce CRM and SAP BRIM\n* Working collaboratively with other SAP BRIM Functional and Technical Functional leads, Product Owner to ensure successful delivery of Criteo initiatives\n* Keeping up to date with the latest SAP SOM functionality and best practices and proactively sharing this knowledge with customers and colleagues.\n\n\n Configure pricing and commercial rules\n   \n\n  \n\n* Pricing procedures and condition techniques\n* Discount structures and eligibility rules\n* Campaign and promotional configurations\n* Proration handling and mid\\-cycle change logic\n\n\n**Secure Integration Consistency Across BRIM Modules:**\n* Responsible for planning \\& executing SAP BRIM SOM Module Implementation, integration \\& support\n* Enable integration of SAP SOM with 3rd party applications (SAP CRM, R\\&D platforms, 3rd Sales Tax Tools..)\n* Ensure SOM orders correctly generate billable items for CI\n* Ensure clean integration with Convergent Mediation (usage scenarios)\n* Validate impacts on Convergent Charging where relevant\n* Analyze and prevent downstream billing inconsistencies caused by subscription changes\n* Participate in new offer design workshops with Product and Sales to ensure scalable implementation in SAP standard.\n* Ensure subscription logic remains configuration\\-driven and not pushed into unnecessary ABAP custom code.\n* Provide impact analysis on commercial model evolutions affecting CI, CM and FI\\-CA.\n* Support UAT, contract simulations, cutover validation and hypercare stabilization.\n* Troubleshoot and resolve defects related to contract lifecycle or pricing logic.\n\n\n The role is based in Gurugram, India with working hours aligned to the EMEA shift (12:30P.M IST to 9:30P.M IST)\n   \n\n  \n\n**Who You Are:**\n* 5\\+ years of experience in SAP BRIM, with strong expertise in Subscription Order Management (SOM).\n* Strong expertise in subscription lifecycle modeling and pricing configuration.\n* Solid understanding of cross\\-module impacts between SOM, CI, CM, CC and FI\\-CA.\n* Strong knowledge of proration, mid\\-cycle changes and contract modification logic.\n* Experience supporting Product and Sales teams in launching scalable commercial offers.\n* Strong analytical skills, especially in diagnosing contract and pricing inconsistencies.\n* Structured and standard\\-first mindset — avoiding logic hardcoded in ABAP when configuration can solve it.\n* Comfortable working in Agile delivery environments.\n* Experience working in international and distributed teams (offshore collaboration is a plus).\n\n\n We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!\n   \n\n  \n\n**Who We Are:**\n We’re Criteo, the Commerce Intelligence Platform. Criteo helps businesses turn shopper signals into commerce outcomes while delivering more relevant experiences for shoppers. We use proprietary commerce intelligence and AI decisioning to drive relevance for shoppers and performance for businesses.\n   \n\n  \n\n At Criteo, our culture is as unique as it is diverse. From our offices across the globe or from the comfort of home, our 3,600 Criteos collaborate together to build an open, impactful, and forward\\-thinking environment.\n   \n\n  \n\n We foster a workplace where everyone is valued, and employment decisions are based solely on skills, qualifications, and business needs—never on non\\-job\\-related factors or legally protected characteristics.\n   \n\n  \n\n**What We Offer:**\n 🏢 Ways of working – Our hybrid model blends home with in\\-office experiences, making space for both.\n   \n\n  \n\n 📈 Grow with us – Learning, mentorship \\& career development programs.\n   \n\n  \n\n 💪 Your wellbeing matters – Health benefits, wellness perks \\& mental health support.\n   \n\n  \n\n 🤝 A team that cares – Diverse, inclusive, and globally connected.\n   \n\n  \n\n 💸 Fair pay \\& perks – Attractive salary, with performance\\-based rewards and family\\-friendly policies, plus the potential",
    "query": "SAP Hybris Billing",
    "id": "d10ac3bd9eb05612",
    "region": "India",
@@ -291,26 +291,6 @@
    "repost_count": 0
   },
   {
-   "title": "SAP S/4 HANA ABAP Developer",
-   "company": "Input Zero Technologies",
-   "location": "KA, IN",
-   "remote": false,
-   "posted_at": "2026-11-19",
-   "apply_url": "https://apply.workable.com/j/1CA57DA7AD",
-   "listing_url": "https://in.indeed.com/viewjob?jk=aa514d7704494032",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "Experience: 7–10 years \\| Domain understanding (in one or more of the following\n\n\nareas : Record to Report (R2R), Revenue Accounting (RAR), Fixed Assets \\&\n\n\nReporting, Order Management/Subscription Order Management, Credit\n\n\nManagement\n\n* Strong hands\\-on experience in SAP ABAP development, preferably in SAP\n\n\nS/4HANA environments.\n\n* Expertise in ABAP OO, CDS Views, AMDP, OData Services, BAPIs, BADIs,\n\n\nEnhancements, and User Exits.\n\n* Proficiency in S/4HANA development using ABAP on HANA, RAP, and SAP\n\n\nFiori/UI5 integration.\n\n* Functional understanding of at least one domain: Finance (FI/CO), Order \\&\n\n\nBilling Management (SD/BRIM), or Credit Management (FSCM).\n\n* Experience developing custom reports, interfaces, conversions, enhancements,\n\n\nforms, and workflows (RICEF).\n\n* Strong understanding of SAP integration using IDocs, RFCs, APIs, and middleware\n\n\ntechnologies.\n\n* Experience in debugging, performance optimization, code remediation, and\n\n\nS/4HANA migration.\n\n* Ability to translate functional requirements into scalable technical designs and\n\n\ndevelopment solutions.\n\n* Experience with SAP BTP, ABAP Cloud, and Clean Core principles is an added\n\n\nadvantage.\n\n* Hands\\-on experience in unit testing, integration testing, defect resolution, and\n\n\nproduction support.\n\n* Strong problem\\-solving, technical documentation, and cross\\-functional\n\n\ncollaboration skills.\n\n* Experience in global SAP implementation, rollout, S/4 upgrade and enhancement\n\n\nprojects preferred.",
-   "query": "SAP Subscription Order Management",
-   "id": "d63c423df6e2bd11",
-   "region": "India",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-20",
-   "repost_count": 0
-  },
-  {
    "title": "SAP - QA Automation Tester",
    "company": "Input Zero Technologies",
    "location": "MH, IN",
@@ -341,7 +321,7 @@
    "job_type": "fulltime",
    "salary": "",
    "description": "**Experience: 7–10 Years \\| Domain: Finance / Order Management / Billing**\n\n* Strong hands\\-on experience in test automation using Python/TypeScript.\n* Expertise in automation frameworks such as Playwright\n* Experience in designing, developing, and maintaining scalable UI, API, and endto\\-\n\n\nend test automation frameworks.\n\n* Proficiency in API testing using REST APIs, Postman, and automated API\n\n\nvalidation.\n\n* Experience testing enterprise applications, preferably in Finance, Order\n\n\nManagement, Subscription Management, or Billing domains in SAP S/4 HANA\n\n* Strong understanding of functional, integration, regression, and end\\-to\\-end\n\n\ntesting methodologies.\n\n* Experience integrating automated tests into CI/CD pipelines using Jenkins,\n\n\nGitHub Actions, or Azure DevOps.\n\n* Proficiency in SQL queries, database validation, and test data management.\n* Experience with defect tracking, test management, and Agile delivery tools such\n\n\nas Jira.\n\n* Ability to translate business requirements and acceptance criteria into\n\n\ncomprehensive automated test scenarios.\n\n* Familiarity with SAP S/4HANA, SAP BRIM, or SFDC system integrations is an\n\n\nadvantage.\n\n* Strong debugging, analytical, problem\\-solving, and cross\\-functional\n\n\ncollaboration skills.\n\n* Preferred Location: Bangalore or Pune for all positions or willing to travel\n\n\nas required",
-   "query": "SAP Subscription Order Management",
+   "query": "SAP BRIM SAP",
    "id": "e98d9a2486852b6c",
    "region": "India",
    "sources": [
@@ -409,95 +389,22 @@
    ],
    "first_seen": "2026-11-20",
    "repost_count": 0
-  },
-  {
-   "title": "SAP ABAP + Fiori Developer",
-   "company": "White whale software solutions private limited",
-   "location": "KA, IN",
-   "remote": false,
-   "posted_at": "2026-11-18",
-   "apply_url": "http://in.indeed.com/job/sap-abap-fiori-developer-a51f918c08e8deb8",
-   "listing_url": "https://in.indeed.com/viewjob?jk=a51f918c08e8deb8",
-   "job_type": "",
-   "salary": "",
-   "description": "**Job Title: SAP ABAP \\+ Fiori Developer**\n\nWe are looking for an experienced SAP ABAP \\+ Fiori Developer with strong technical expertise in SAP ABAP development, SAP S/4HANA, and Fiori/UI5 integration.\n\nThe ideal candidate should have hands\\-on experience in ABAP OO, CDS Views, AMDP, OData Services, RAP, and SAP integration technologies. The candidate should also possess functional understanding of at least one SAP domain, such as Finance (FI/CO), Order \\& Billing Management (SD/BRIM), or Credit Management (FSCM).\n\n**Key Responsibilities**\n\n* Develop and maintain custom SAP ABAP applications in SAP S/4HANA environments.\n* Design and implement solutions using ABAP OO, CDS Views, AMDP, and OData Services.\n* Develop and enhance SAP Fiori/UI5 applications.\n* Work with ABAP on HANA and REST\\-based services.\n* Implement BAPIs, BADIs, Enhancements, and User Exits.\n* Develop RICEF objects, including:\n* Reports\n* Interfaces\n* Conversions\n* Enhancements\n* Forms\n* Workflows\n* Integrate SAP systems using IDocs, RFCs, APIs, and middleware technologies.\n* Perform debugging, performance optimization, and code remediation.\n* Support SAP S/4HANA migration and development activities.\n* Translate functional requirements into scalable technical designs.\n* Perform unit testing, integration testing, and defect resolution.\n* Provide production support and technical documentation.\n* Collaborate with functional consultants and cross\\-functional teams.\n\n**Required Skills \\& Qualifications**\n\n* Strong hands\\-on experience in SAP ABAP development.\n* Experience working in SAP S/4HANA environments.\n* Expertise in ABAP Object\\-Oriented Programming (ABAP OO).\n* Strong knowledge of:\n* CDS Views\n* AMDP\n* OData Services\n* BAPIs\n* BADIs\n* Enhancements\n* User Exits\n* Experience with ABAP on HANA and RAP.\n* Hands\\-on experience with SAP Fiori and UI5 integration.\n* Experience in RICEF development.\n* Strong understanding of SAP integration using IDocs, RFCs, APIs, and middleware.\n* Experience in debugging, performance tuning, and S/4HANA migration.\n* Ability to understand functional requirements and develop technical solutions.\n* Strong problem\\-solving and communication skills.\n\n**Functional Domain Knowledge**\n\nCandidates must have functional understanding of at least one of the following domains:\n\n* **Finance:** SAP FI/CO.\n* **Order \\& Billing Management:** SAP SD/BRIM.\n* **Credit Management:** SAP FSCM.\n\n**Preferred Skills**\n\n* SAP Business Technology Platform (BTP).\n* ABAP Cloud.\n* Clean Core principles.\n* Experience with global SAP implementations and rollouts.\n* Strong understanding of SAP S/4HANA development and migration projects.\n\n**Testing \\& Support**\n\n* Hands\\-on experience in unit testing and integration testing.\n* Defect identification and resolution.\n* Production support and troubleshooting.\n* Technical documentation and cross\\-functional collaboration.\n\n**How to Apply**\n\nInterested candidates with relevant SAP ABAP, Fiori, and S/4HANA development experience are encouraged to apply.\n\n**Apply Here:**  \nhttps://forms.gle/YUzQjXQQ8YCu2kid9\n\nPay: ₹2,500,000\\.00 \\- ₹3,430,000\\.00 per year\n\nWork Location: In person",
-   "query": "SAP BRIM",
-   "id": "f57fa1588074ef3b",
-   "region": "India",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-19",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP ABAP Developer – RICEFW + HANA + BRIM/FSCM - 100% Remote",
-   "company": "VGreenTek",
-   "location": "KL, IN",
-   "remote": true,
-   "posted_at": "2026-11-18",
-   "apply_url": "https://vgreentek.oorwin.ai/#/careers/index.html/job/details/b7553c6080f116f0115b1f080e03484b98292d8b?source=indeed&postedby=11",
-   "listing_url": "https://in.indeed.com/viewjob?jk=0e5ba3ea8ea9ed70",
-   "job_type": "",
-   "salary": "",
-   "description": "SAP ABAP Developer \\- RICEFW \\+ HANA \\+ BRIM/FSCM \\- 100% Remote  \n\nLocation: 100% Remote  \n\nJob Type: Contract  \n\nBudget: 1\\.5 LPM  \n\nExperience: 9 \\- 12 Years\n\n\nJob Description  \n\nWe are looking for a senior SAP ABAP Developer with strong expertise in SAP ABAP development, RICEFW objects, HANA, and experience with BRIM and FSCM\\-related technologies. The candidate should have experience in SAP technical development, integration, and modern SAP technologies.\n\n\nKey Responsibilities  \n\nDevelop and maintain SAP ABAP solutions.  \n\nWork on RICEFW development objects.  \n\nDevelop and support OO ABAP solutions.  \n\nWork with HANA, CDS Views, and AMDP.  \n\nDevelop and support BAPIs, BADIs, IDOCs, and RFC integrations.  \n\nWork on OData services and REST/SOAP integrations.  \n\nSupport SAP Fiori and Gateway\\-related development.  \n\nWork on BRIM, FSCM, CRM, SOM, and BRF\\+ related requirements.\n\n\nRequired Skills  \n\nSAP ABAP  \n\nRICEFW  \n\nSAP HANA  \n\nOO ABAP  \n\nBRIM  \n\nFSCM  \n\nBRF\\+  \n\nCRM  \n\nSOM  \n\nCDS Views  \n\nAMDP  \n\nBAPI  \n\nBADI  \n\nIDOC  \n\nRFC  \n\nOData  \n\nREST / SOAP  \n\nSAP Fiori / Gateway",
-   "query": "SAP BRIM",
-   "id": "8df2b3f0d5561a69",
-   "region": "India",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-19",
-   "repost_count": 0
-  },
-  {
-   "title": "Senior Technical Lead - SAP S4HANA, Java, SAP PLM",
-   "company": "HCLTech",
-   "location": "San Diego, CA, US",
-   "remote": false,
-   "posted_at": "2026-11-18",
-   "apply_url": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=193704&lang=en_US&jobPipeline=Indeed",
-   "listing_url": "https://www.indeed.com/viewjob?jk=433be534d9f982a5",
-   "job_type": "",
-   "salary": "95000.0 151000.0 USD yearly",
-   "description": "**Job Summary**\n---------------\n\n\n\n8–12\\+ years SAP \\| 5\\+ years SAP RAR\n\n\nExperience in **SAP S/4HANA Revenue Accounting and Reporting (RAR) Consultant** with strong hands\\-on expertise in **SAP RAR, ASC 606/IFRS 15, revenue recognition, and SAP SD/FI integration**.\n\n\nThe consultant will support end\\-to\\-end RAR solution design, configuration, integration, testing, reconciliation, cutover, and production support in a complex global Finance environment.\n\n\n**Key Responsibilities**\n------------------------\n\n\n* Design and configure end\\-to\\-end SAP S/4HANA RAR solutions.\n* Translate ASC 606 revenue\\-accounting requirements into SAP configuration and functional designs.\n* Configure RAIs, Revenue Contracts, POBs, SSP, allocation, fulfillment, and revenue recognition.\n* Integrate RAR with SAP SD, FI/CO, billing, and upstream/downstream systems.\n* Support complex revenue scenarios including contract changes, credits, cancellations, and revenue adjustments.\n* Perform reconciliation between source transactions, RAR, billing, and General Ledger.\n* Support testing, defect resolution, data migration, cutover, and go\\-live stabilization.\n* Prepare functional specifications, test scripts, configuration, reconciliation, and control documentation.\n* Collaborate with Finance, Accounting, technical, integration, and business teams.\n\n**Preferred / Nice\\-to\\-Have**\n\n* SAP BRIM / FI\\-CA experience\n* Subscription billing experience\n* S/4HANA transformation or ECC\\-to\\-S/4 migration\n* SAP Fiori\n* SAP Integration Suite/CPI, APIs, and IDocs\n* ABAP debugging/troubleshooting knowledge\n* Experience in life sciences, medical device, technology, or regulated industries\n* SAP RAR certification\n\n\n**Skill Requirements**\n----------------------\n\n\n* 5\\+ years hands\\-on SAP RAR experience\n* SAP S/4HANA RAR implementation experience\n* Strong knowledge of ASC 606 / IFRS 15\n* Hands\\-on configuration of:\n* + Revenue Accounting Items (RAI)\n\t+ Revenue Contracts\n\t+ Performance Obligations (POB)\n\t+ Standalone Selling Price (SSP)\n\t+ Revenue Allocation \\& Recognition\n\t+ Fulfillment\n\t+ Contract Modifications / Combinations\n* Strong SAP SD, FI/CO and RAR integration experience\n* Strong understanding of Order\\-to\\-Cash and Contract\\-to\\-Revenue\n* Experience with revenue postings, deferrals, reconciliation, and period\\-end processing\n* Experience with SIT, FUT/UAT, data migration, cutover, and production support\n* Ability to troubleshoot complex RAR integration and accounting issues\n\n\n**Must Have Skill**\n-------------------\n\n\nJava,SAP Product Lifecycle Management (PLM),SAP S4HANA\n**Good to Have Skill**\n----------------------\n\n\n**Other Requirements**\n----------------------\n\n\n\nSAP RAR \\| S/4HANA RAR \\| Revenue Accounting and Reporting \\| ASC 606 \\| IFRS 15 \\| Revenue Recognition \\| RAI \\| Revenue Accounting Items \\| POB \\| Performance Obligations \\| SSP \\| Standalone Selling Price \\| Revenue Contracts \\| Revenue Allocation \\| SAP SD \\| SAP FI/CO \\| Order\\-to\\-Cash \\| Contract\\-to\\-Revenue \\| Revenue Reconciliation",
-   "query": "SAP BRIM",
-   "id": "7a42ca6fbb9a18d5",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-19",
-   "repost_count": 0
-  },
-  {
-   "title": "SAP Developer - IT Customer & Metering Systems",
-   "company": "FirstEnergy",
-   "location": "Akron, OH, US",
-   "remote": false,
-   "posted_at": "2026-11-18",
-   "apply_url": "https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/job/105962",
-   "listing_url": "https://www.indeed.com/viewjob?jk=b3c4315b5463fec5",
-   "job_type": "fulltime",
-   "salary": "",
-   "description": "FirstEnergy at a Glance\n\n\nWe are a forward\\-thinking electric utility powered by a diverse team of employees committed to making customers’ lives brighter, the environment better and our communities stronger.\n\n\nFirstEnergy (NYSE: FE) is dedicated to safety, reliability, and operational excellence. Headquartered in Akron, Ohio, FirstEnergy includes one of the nation's largest investor\\-owned electric systems, more than 24,500 miles of transmission lines that connect the Midwest and Mid\\-Atlantic regions, and a regulated generating fleet with a total capacity of 3,780 megawatts.\n\n\nThis position is within FirstEnergy Service Co., a subsidiary of FirstEnergy Corp.\n\n\n**Position Summary**\n====================\n\nFirstEnergy is seeking an SAP Developer to support its current SAP ECC environment and contribute to its ERP modernization efforts, with SAP S/4HANA as the preferred future\\-state platform. This role focuses on developing, enhancing, integrating, and supporting SAP solutions for customer invoicing, payments, and collections.\n\n\nThis opportunity is well suited for candidates with a solid programming foundation who want to grow in SAP development. Recent college graduates with relevant coursework or internship experience, developers new to SAP, and those with hands\\-on SAP experience are all encouraged to apply. The successful candidate will bring strong technical aptitude, a passion for problem solving, and a desire to continue learning.\n\n\n**Primary Responsibilities**\n============================\n\n* Develop, maintain, and enhance SAP solutions supporting customer invoicing, payments, collections, and assistance programs.\n* Partner with business clients and functional teams to analyze business requirements and translate them into effective technical specifications and solutions.\n* Design, develop, and support SAP programs, reports, interfaces, workflows, enhancements, and integrations.\n* Ensure solutions adhere to established development standards, security requirements, and best practices.\n* Troubleshoot, analyze, and resolve application defects and production issues.\n* Develop and execute unit test plans and support user acceptance testing activities.\n* Prepare and maintain technical documentation for implemented solutions and support procedures.\n* Provide day\\-to\\-day production support, including incident resolution, root cause analysis, and operational monitoring.\n* Support nightly batch processing for customer billing, including occasional after\\-hours support as needed.\n\n**Required Qualifications**\n===========================\n\n* Bachelor's degree in Computer Science, Information Technology, Computer Information Systems, Software Engineering, or a related discipline; or equivalent work experience.\n* Knowledge of programming concepts, software development principles, and application design and support practices.\n* Understanding of software development lifecycle methodologies.\n* Ability to collaborate effectively with both technical and non\\-technical stakeholders.\n* Strong analytical, organizational, problem\\-solving, and communication skills.\n* Ability to manage multiple priorities and deliver results in a fast\\-paced environment.\n* Work independently while contributing effectively to team goals and objectives.\n* Willingness to learn new technologies, business processes, platforms, and development tools.\n* Strong commitment to customer service and process improvement.\n* Fully proficient in Microsoft Office 365 suite.\n* Excellent written and verbal communication skills.\n\n**Preferred Qualifications**\n============================\n\n* Hands\\-on experience developing or supporting SAP applications, including ABAP programming for reports, interfaces, and enhancements.\n* Exposure to SAP S/4HANA and SAP Fiori through project work, training, or certification.\n* Experience contributing to an ERP upgrade, migration, or implementation, such as custom code remediation, testing, or cutover support.\nSAP IS\\-U (Utilities) experience, particularly in billing, invoicing, or contract accounts receivable and payable (FI\\-CA).  \n* \n\n**Benefits, Compensation \\& Workforce Diversity**\n\nAt FirstEnergy, employees are key to our success. We depend on their talents to meet the challenges of our changing business environment. We are committed to rewarding individual and team efforts through our total rewards philosophy which includes competitive pay plus incentive compensation, a company\\-sponsored pension plan, 401(k) savings plan with matching employer contribution, a choice of medical, prescription drug, dental, vision, and life insurance programs, as well as skills development training with tuition reimbursement. Please visit our website at www.firstenergycorp.com to learn more about all of our employee rewards programs. FirstEnergy proudly supports workforce diversity. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with a disability. No recruiters or agencies without a previously signed contract. Unable to sponsor or transfer H\\-1B visas at this time.\n\n\n**Safety**\n\nSafety is a core value for FirstEnergy and is essential to all of our business activities. We ensure employees have the tools, information, and processes to perform their duties in a manner that assures safety for themselves, their co\\-workers, our customers and the public. Our goals are to provide a safe work environment, to maintain an accident\\-free, injury\\-free workplace, and to promote and maintain public safety. To meet these goals, we dedicate ourselves to achieving world\\-class safety standards.\n\n\n**Position Classification**\n\nExempt\n\n\n**FirstEnergy Human Resources Team**",
-   "query": "SAP FI-CA",
-   "id": "a5dc432329fc7a74",
-   "region": "US",
-   "sources": [
-    "indeed"
-   ],
-   "first_seen": "2026-11-19",
-   "repost_count": 0
   }
  ],
  "expired": [
   {
-   "id": "16fe2a1adc97d0a3",
+   "id": "6d0463e7779827b5",
    "company": "Infosys",
-   "title": "SAP ISU FICA Consultant",
-   "location": "Pomona, CA, US",
-   "gone": "2026-11-22"
+   "title": "SAP BRIM (CC & CM) Manager",
+   "location": "Detroit, MI, US",
+   "gone": "2026-11-23"
+  },
+  {
+   "id": "ef4c70273352794d",
+   "company": "Deloitte",
+   "title": "SAP BRIM - Senior Consultant",
+   "location": "Columbus, OH, US",
+   "gone": "2026-11-23"
   }
  ],
  "reposts": [
@@ -721,7 +628,7 @@
    "id": "8a29160ff2d16196",
    "company": "UST",
    "title": "Architect I - Enterprise Solutions :: SAP FICA Consultant",
-   "reposts": 2
+   "reposts": 3
   },
   {
    "id": "9816ad93946d4a75",
@@ -859,6 +766,12 @@
    "id": "0c42c2eb49edbde1",
    "company": "PwC Acceleration Center India",
    "title": "SAP -  RAR - Manager - Chennai",
+   "reposts": 1
+  },
+  {
+   "id": "f5e05c6fce2c6df5",
+   "company": "NTT DATA Business Solutions",
+   "title": "SAP SD Public Cloud Consultant",
    "reposts": 1
   },
   {
@@ -1057,6 +970,12 @@
    "id": "319d81e193e40839",
    "company": "Deloitte",
    "title": "SAP IS-U Billing Consultant",
+   "reposts": 1
+  },
+  {
+   "id": "4b58fede9bb9fcd2",
+   "company": "Deloitte",
+   "title": "SAP IS-U Billing Senior Consultant",
    "reposts": 1
   },
   {
